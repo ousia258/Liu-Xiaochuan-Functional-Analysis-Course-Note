@@ -1,0 +1,13 @@
+{
+  "stage": "complete_with_explicit_uncertainties",
+  "lecture_number": 1,
+  "parts": [
+    "1.1",
+    "1.2"
+  ],
+  "seconds": 7199.87,
+  "sections": 43,
+  "formula_records": 36,
+  "visual_QA": "passed",
+  "verification": "验证记录.json"
+}

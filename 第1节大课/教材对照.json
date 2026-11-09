@@ -1,0 +1,349 @@
+{
+  "sha256": "b49916a197d400b6e8d19478bad8271b615029fb51309c8ccc3df2250de45b3e",
+  "matches": [
+    {
+      "section_number": 5,
+      "part_id": "1.1",
+      "section": "教材阅读与课程导入",
+      "pdf_page": 3,
+      "label": "版权页",
+      "relation": "版本核对",
+      "note": "确认书名、两位作者、第二版和2021年5月出版信息。"
+    },
+    {
+      "section_number": 5,
+      "part_id": "1.1",
+      "section": "教材阅读与课程导入",
+      "pdf_page": 8,
+      "label": "第一版序",
+      "relation": "主题相符",
+      "note": "序言讨论学科地位、来源和本书取向。老师口称前言／引言，未逐字确认指哪一篇序。"
+    },
+    {
+      "section_number": 6,
+      "part_id": "1.1",
+      "section": "泛函分析在数学课程体系中的位置",
+      "pdf_page": 8,
+      "label": "第一版序",
+      "relation": "主题相符",
+      "note": "支持泛函分析作为基础课的定位；课堂分支地图并非照抄该页。"
+    },
+    {
+      "section_number": 9,
+      "part_id": "1.1",
+      "section": "从函数到集合与结构：泛函分析的研究方式",
+      "pdf_page": 8,
+      "label": "第一版序",
+      "relation": "方法主题相符",
+      "note": "教材以抽象结构处理分析问题；课堂用函数集合与增加结构作展开。"
+    },
+    {
+      "section_number": 13,
+      "part_id": "1.1",
+      "section": "学科来源与教材的教学取向",
+      "pdf_page": 8,
+      "label": "第一版序",
+      "relation": "直接主题参照",
+      "note": "序言说明学科来源及本书的三项教学目标。"
+    },
+    {
+      "section_number": 13,
+      "part_id": "1.1",
+      "section": "学科来源与教材的教学取向",
+      "pdf_page": 9,
+      "label": "第一版序续页",
+      "relation": "例子参照",
+      "note": "教材具体讨论紧算子谱理论、Hahn–Banach定理及应用；课堂相应定理名仍待确认。"
+    },
+    {
+      "section_number": 15,
+      "part_id": "1.1",
+      "section": "课程主线：空间、完备性与算子",
+      "pdf_page": 14,
+      "label": "目录",
+      "relation": "章节参照",
+      "note": "教材第一章为度量空间，后续包含赋范空间等；课堂以自身逻辑安排内容。"
+    },
+    {
+      "section_number": 16,
+      "part_id": "1.1",
+      "section": "度量空间：非空集合上的距离",
+      "pdf_page": 18,
+      "label": "定义1.1.1",
+      "relation": "相符",
+      "note": "度量空间的非空性、实值距离及三条公理相符。",
+      "printed_page": "1"
+    },
+    {
+      "section_number": 17,
+      "part_id": "1.1",
+      "section": "空间由集合与结构共同确定",
+      "pdf_page": 18,
+      "label": "定义后的记号说明",
+      "relation": "相符",
+      "note": "教材也记作(X,ρ)，并为后续具体空间约定距离。",
+      "printed_page": "1"
+    },
+    {
+      "section_number": 18,
+      "part_id": "1.1",
+      "section": "例一：欧氏空间上的距离",
+      "pdf_page": 18,
+      "label": "式(1.1.1)",
+      "relation": "距离公式相符",
+      "note": "教材用n表示维数，讲义改用d避免与点列指标混淆。",
+      "printed_page": "1"
+    },
+    {
+      "section_number": 19,
+      "part_id": "1.1",
+      "section": "欧氏距离的三角不等式：用Cauchy–Schwarz估计",
+      "pdf_page": 18,
+      "label": "欧氏距离后的说明",
+      "relation": "课堂展开",
+      "note": "教材本页只简述三条条件满足；老师在板书中展开了三角不等式的计算。",
+      "printed_page": "1"
+    },
+    {
+      "section_number": 20,
+      "part_id": "1.1",
+      "section": "例二：连续函数空间上的最大值距离",
+      "pdf_page": 18,
+      "label": "例1.1.2、式(1.1.2)",
+      "relation": "相符",
+      "note": "相同的连续函数空间和最大值距离。",
+      "printed_page": "1"
+    },
+    {
+      "section_number": 21,
+      "part_id": "1.1",
+      "section": "度量空间中点列的收敛",
+      "pdf_page": 19,
+      "label": "定义1.1.3",
+      "relation": "相符",
+      "note": "教材用x_n、x_0；讲义统一用x_k、x。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 23,
+      "part_id": "1.1",
+      "section": "连续函数空间中的收敛就是一致收敛",
+      "pdf_page": 19,
+      "label": "定义1.1.3后的注",
+      "relation": "相符",
+      "note": "教材明确指出C[a,b]中的距离收敛就是一致收敛。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 24,
+      "part_id": "1.1",
+      "section": "距离诱导的拓扑：开球、开集、闭集与闭包",
+      "pdf_page": 19,
+      "label": "定义1.1.4",
+      "relation": "闭集序列刻画相符",
+      "note": "该页给出闭集的收敛列定义；开球、开集和闭包的回顾是老师在此处的展开。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 25,
+      "part_id": "1.1",
+      "section": "柯西列与完备性",
+      "pdf_page": 19,
+      "label": "定义1.1.5",
+      "relation": "相符",
+      "note": "教材使用“基本列”一词，并在同一定义后给出完备性。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 26,
+      "part_id": "1.1",
+      "section": "检查具体空间的完备性；欧氏例子的整理补充",
+      "pdf_page": 19,
+      "label": "例1.1.6",
+      "relation": "教材结论参照",
+      "note": "教材列出欧氏空间完备；上面的坐标证明是讲义补充，不能归作老师本处已讲。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 27,
+      "part_id": "1.1",
+      "section": "连续函数空间的完备性：先逐点取极限，再保持一致控制",
+      "pdf_page": 19,
+      "label": "例1.1.7及证明",
+      "relation": "跨上下半课的课堂证明相符",
+      "note": "教材给出完整证明；课堂从1.1末尾接至1.2开头完成一致收敛、连续性及完备性结论。",
+      "printed_page": "2"
+    },
+    {
+      "section_number": 28,
+      "part_id": "1.2",
+      "section": "接续上半课：连续函数空间完备性的证明收束",
+      "pdf_page": 19,
+      "printed_page": 2,
+      "label": "例1.1.7及证明",
+      "relation": "课堂证明收束相符",
+      "note": "教材最后用一致极限连续闭合证明；该结论现已在1.2开头课堂中确认。"
+    },
+    {
+      "section_number": 29,
+      "part_id": "1.2",
+      "section": "完备度量空间的闭子集仍完备",
+      "pdf_page": 19,
+      "printed_page": 2,
+      "label": "定义1.1.4、1.1.5",
+      "relation": "相关定义参照",
+      "note": "本结论是老师在连续函数空间例子后的补充；此页给出闭集和完备的定义。"
+    },
+    {
+      "section_number": 30,
+      "part_id": "1.2",
+      "section": "度量空间之间的映射与序列连续性",
+      "pdf_page": 19,
+      "printed_page": 2,
+      "label": "定义1.1.8（起于本页）",
+      "relation": "定义相符",
+      "note": "连续映射的序列定义在PDF20上半页接续。"
+    },
+    {
+      "section_number": 30,
+      "part_id": "1.2",
+      "section": "度量空间之间的映射与序列连续性",
+      "pdf_page": 20,
+      "printed_page": 3,
+      "label": "定义1.1.8续文",
+      "relation": "定义相符",
+      "note": "原像点列收敛蕴含像点列收敛。"
+    },
+    {
+      "section_number": 31,
+      "part_id": "1.2",
+      "section": "连续性的邻域、原像与ε–δ刻画",
+      "pdf_page": 20,
+      "printed_page": 3,
+      "label": "命题1.1.9及式(1.1.4)",
+      "relation": "命题相符，证明课后参照",
+      "note": "教材给出双向证明，老师在本段明确不展开。"
+    },
+    {
+      "section_number": 33,
+      "part_id": "1.2",
+      "section": "求方程的零点可改写为求映射的不动点",
+      "pdf_page": 20,
+      "printed_page": 3,
+      "label": "求根问题改写为不动点问题",
+      "relation": "改写相符",
+      "note": "教材使用相同的f(x)=x−φ(x)形式。"
+    },
+    {
+      "section_number": 34,
+      "part_id": "1.2",
+      "section": "常微分方程初值问题中的未知对象是函数",
+      "pdf_page": 20,
+      "printed_page": 3,
+      "label": "式(1.1.5)",
+      "relation": "初值问题相符",
+      "note": "教材将同一常微分方程问题改写为积分方程。"
+    },
+    {
+      "section_number": 35,
+      "part_id": "1.2",
+      "section": "先验思路、积分方程与函数空间上的算子",
+      "pdf_page": 20,
+      "printed_page": 3,
+      "label": "式(1.1.6)",
+      "relation": "积分改写相符",
+      "note": "初值与积分下限为0。"
+    },
+    {
+      "section_number": 35,
+      "part_id": "1.2",
+      "section": "先验思路、积分方程与函数空间上的算子",
+      "pdf_page": 21,
+      "printed_page": 4,
+      "label": "式(1.1.7)",
+      "relation": "函数空间中的不动点形式相符",
+      "note": "教材把积分式写为Tx=x；完整应用条件见后续教材，不能等同本段已证明。"
+    },
+    {
+      "section_number": 36,
+      "part_id": "1.2",
+      "section": "压缩映射：一个统一小于1的收缩常数",
+      "pdf_page": 21,
+      "printed_page": 4,
+      "label": "定义1.1.10",
+      "relation": "定义相符",
+      "note": "自映射与统一压缩常数是关键条件。"
+    },
+    {
+      "section_number": 37,
+      "part_id": "1.2",
+      "section": "压缩映射连续，以及区间上的导数判据",
+      "pdf_page": 21,
+      "printed_page": 4,
+      "label": "例1.1.11、式(1.1.8)–(1.1.9)",
+      "relation": "例子相符",
+      "note": "同时检查自映与导数上界。"
+    },
+    {
+      "section_number": 38,
+      "part_id": "1.2",
+      "section": "中值定理确认压缩，并提出不动点问题",
+      "pdf_page": 21,
+      "printed_page": 4,
+      "label": "例1.1.11及不动点启发",
+      "relation": "证明和问题相符",
+      "note": "先验证压缩，再问存在性与唯一性。"
+    },
+    {
+      "section_number": 39,
+      "part_id": "1.2",
+      "section": "迭代构造：从任意初值反复作用映射",
+      "pdf_page": 21,
+      "printed_page": 4,
+      "label": "迭代与相邻项估计",
+      "relation": "课堂推导相符",
+      "note": "教材记映射为T，课堂此处记f。"
+    },
+    {
+      "section_number": 39,
+      "part_id": "1.2",
+      "section": "迭代构造：从任意初值反复作用映射",
+      "pdf_page": 22,
+      "printed_page": 5,
+      "label": "图1.1.1",
+      "relation": "图形参照",
+      "note": "同一迭代思想，不以教材图替换真实板书图。"
+    },
+    {
+      "section_number": 40,
+      "part_id": "1.2",
+      "section": "几何级数估计使迭代列成为柯西列",
+      "pdf_page": 22,
+      "printed_page": 5,
+      "label": "迭代列的柯西估计",
+      "relation": "推导相符",
+      "note": "控制任意间隔，不只控制相邻差。"
+    },
+    {
+      "section_number": 41,
+      "part_id": "1.2",
+      "section": "极限是不动点，并由压缩性保证唯一",
+      "pdf_page": 22,
+      "printed_page": 5,
+      "label": "不动点的存在性及唯一性",
+      "relation": "区间例子的完整论证相符",
+      "note": "课堂已通过区间例子演示此证明链。"
+    },
+    {
+      "section_number": 42,
+      "part_id": "1.2",
+      "section": "抽象为Banach不动点定理",
+      "pdf_page": 23,
+      "printed_page": 6,
+      "label": "定理1.1.12",
+      "relation": "定理陈述参照",
+      "note": "教材给出一般度量空间的迭代证明；不要将教材的后续ODE应用当作本课已讲完。"
+    }
+  ],
+  "rule": "教材参照与课堂分列"
+}

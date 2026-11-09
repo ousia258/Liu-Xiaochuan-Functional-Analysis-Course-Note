@@ -1,0 +1,7202 @@
+[
+  {
+    "id": "1.1_B0001",
+    "seconds": 0.0,
+    "time": "1.1 · 00:00:00.000",
+    "image": "../1.1完整讲义/板书截图/frame_0001.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0001.png",
+    "part_id": "1.1",
+    "source_id": "B0001",
+    "source_seconds": 0.0
+  },
+  {
+    "id": "1.1_B0002",
+    "seconds": 10.015,
+    "time": "1.1 · 00:00:10.015",
+    "image": "../1.1完整讲义/板书截图/frame_0002.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0002.png",
+    "part_id": "1.1",
+    "source_id": "B0002",
+    "source_seconds": 10.015
+  },
+  {
+    "id": "1.1_B0003",
+    "seconds": 20.029,
+    "time": "1.1 · 00:00:20.029",
+    "image": "../1.1完整讲义/板书截图/frame_0003.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0003.png",
+    "part_id": "1.1",
+    "source_id": "B0003",
+    "source_seconds": 20.029
+  },
+  {
+    "id": "1.1_B0004",
+    "seconds": 30.044,
+    "time": "1.1 · 00:00:30.044",
+    "image": "../1.1完整讲义/板书截图/frame_0004.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0004.png",
+    "part_id": "1.1",
+    "source_id": "B0004",
+    "source_seconds": 30.044
+  },
+  {
+    "id": "1.1_B0005",
+    "seconds": 40.059,
+    "time": "1.1 · 00:00:40.059",
+    "image": "../1.1完整讲义/板书截图/frame_0005.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0005.png",
+    "part_id": "1.1",
+    "source_id": "B0005",
+    "source_seconds": 40.059
+  },
+  {
+    "id": "1.1_B0006",
+    "seconds": 50.074,
+    "time": "1.1 · 00:00:50.074",
+    "image": "../1.1完整讲义/板书截图/frame_0006.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0006.png",
+    "part_id": "1.1",
+    "source_id": "B0006",
+    "source_seconds": 50.074
+  },
+  {
+    "id": "1.1_B0007",
+    "seconds": 60.089,
+    "time": "1.1 · 00:01:00.089",
+    "image": "../1.1完整讲义/板书截图/frame_0007.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0007.png",
+    "part_id": "1.1",
+    "source_id": "B0007",
+    "source_seconds": 60.089
+  },
+  {
+    "id": "1.1_B0008",
+    "seconds": 70.104,
+    "time": "1.1 · 00:01:10.104",
+    "image": "../1.1完整讲义/板书截图/frame_0008.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0008.png",
+    "part_id": "1.1",
+    "source_id": "B0008",
+    "source_seconds": 70.104
+  },
+  {
+    "id": "1.1_B0009",
+    "seconds": 80.118,
+    "time": "1.1 · 00:01:20.118",
+    "image": "../1.1完整讲义/板书截图/frame_0009.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0009.png",
+    "part_id": "1.1",
+    "source_id": "B0009",
+    "source_seconds": 80.118
+  },
+  {
+    "id": "1.1_B0010",
+    "seconds": 90.133,
+    "time": "1.1 · 00:01:30.133",
+    "image": "../1.1完整讲义/板书截图/frame_0010.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0010.png",
+    "part_id": "1.1",
+    "source_id": "B0010",
+    "source_seconds": 90.133
+  },
+  {
+    "id": "1.1_B0011",
+    "seconds": 100.148,
+    "time": "1.1 · 00:01:40.148",
+    "image": "../1.1完整讲义/板书截图/frame_0011.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0011.png",
+    "part_id": "1.1",
+    "source_id": "B0011",
+    "source_seconds": 100.148
+  },
+  {
+    "id": "1.1_B0012",
+    "seconds": 110.163,
+    "time": "1.1 · 00:01:50.163",
+    "image": "../1.1完整讲义/板书截图/frame_0012.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0012.png",
+    "part_id": "1.1",
+    "source_id": "B0012",
+    "source_seconds": 110.163
+  },
+  {
+    "id": "1.1_B0013",
+    "seconds": 120.178,
+    "time": "1.1 · 00:02:00.178",
+    "image": "../1.1完整讲义/板书截图/frame_0013.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0013.png",
+    "part_id": "1.1",
+    "source_id": "B0013",
+    "source_seconds": 120.178
+  },
+  {
+    "id": "1.1_B0014",
+    "seconds": 130.192,
+    "time": "1.1 · 00:02:10.192",
+    "image": "../1.1完整讲义/板书截图/frame_0014.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0014.png",
+    "part_id": "1.1",
+    "source_id": "B0014",
+    "source_seconds": 130.192
+  },
+  {
+    "id": "1.1_B0015",
+    "seconds": 140.207,
+    "time": "1.1 · 00:02:20.207",
+    "image": "../1.1完整讲义/板书截图/frame_0015.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0015.png",
+    "part_id": "1.1",
+    "source_id": "B0015",
+    "source_seconds": 140.207
+  },
+  {
+    "id": "1.1_B0016",
+    "seconds": 150.222,
+    "time": "1.1 · 00:02:30.222",
+    "image": "../1.1完整讲义/板书截图/frame_0016.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0016.png",
+    "part_id": "1.1",
+    "source_id": "B0016",
+    "source_seconds": 150.222
+  },
+  {
+    "id": "1.1_B0017",
+    "seconds": 160.237,
+    "time": "1.1 · 00:02:40.237",
+    "image": "../1.1完整讲义/板书截图/frame_0017.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0017.png",
+    "part_id": "1.1",
+    "source_id": "B0017",
+    "source_seconds": 160.237
+  },
+  {
+    "id": "1.1_B0018",
+    "seconds": 170.252,
+    "time": "1.1 · 00:02:50.252",
+    "image": "../1.1完整讲义/板书截图/frame_0018.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0018.png",
+    "part_id": "1.1",
+    "source_id": "B0018",
+    "source_seconds": 170.252
+  },
+  {
+    "id": "1.1_B0019",
+    "seconds": 180.266,
+    "time": "1.1 · 00:03:00.266",
+    "image": "../1.1完整讲义/板书截图/frame_0019.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0019.png",
+    "part_id": "1.1",
+    "source_id": "B0019",
+    "source_seconds": 180.266
+  },
+  {
+    "id": "1.1_B0020",
+    "seconds": 190.281,
+    "time": "1.1 · 00:03:10.281",
+    "image": "../1.1完整讲义/板书截图/frame_0020.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0020.png",
+    "part_id": "1.1",
+    "source_id": "B0020",
+    "source_seconds": 190.281
+  },
+  {
+    "id": "1.1_B0021",
+    "seconds": 200.296,
+    "time": "1.1 · 00:03:20.296",
+    "image": "../1.1完整讲义/板书截图/frame_0021.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0021.png",
+    "part_id": "1.1",
+    "source_id": "B0021",
+    "source_seconds": 200.296
+  },
+  {
+    "id": "1.1_B0022",
+    "seconds": 210.311,
+    "time": "1.1 · 00:03:30.311",
+    "image": "../1.1完整讲义/板书截图/frame_0022.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0022.png",
+    "part_id": "1.1",
+    "source_id": "B0022",
+    "source_seconds": 210.311
+  },
+  {
+    "id": "1.1_B0023",
+    "seconds": 220.326,
+    "time": "1.1 · 00:03:40.326",
+    "image": "../1.1完整讲义/板书截图/frame_0023.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0023.png",
+    "part_id": "1.1",
+    "source_id": "B0023",
+    "source_seconds": 220.326
+  },
+  {
+    "id": "1.1_B0024",
+    "seconds": 230.341,
+    "time": "1.1 · 00:03:50.341",
+    "image": "../1.1完整讲义/板书截图/frame_0024.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0024.png",
+    "part_id": "1.1",
+    "source_id": "B0024",
+    "source_seconds": 230.341
+  },
+  {
+    "id": "1.1_B0025",
+    "seconds": 240.355,
+    "time": "1.1 · 00:04:00.355",
+    "image": "../1.1完整讲义/板书截图/frame_0025.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0025.png",
+    "part_id": "1.1",
+    "source_id": "B0025",
+    "source_seconds": 240.355
+  },
+  {
+    "id": "1.1_B0026",
+    "seconds": 250.37,
+    "time": "1.1 · 00:04:10.370",
+    "image": "../1.1完整讲义/板书截图/frame_0026.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0026.png",
+    "part_id": "1.1",
+    "source_id": "B0026",
+    "source_seconds": 250.37
+  },
+  {
+    "id": "1.1_B0027",
+    "seconds": 260.385,
+    "time": "1.1 · 00:04:20.385",
+    "image": "../1.1完整讲义/板书截图/frame_0027.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0027.png",
+    "part_id": "1.1",
+    "source_id": "B0027",
+    "source_seconds": 260.385
+  },
+  {
+    "id": "1.1_B0028",
+    "seconds": 270.4,
+    "time": "1.1 · 00:04:30.400",
+    "image": "../1.1完整讲义/板书截图/frame_0028.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0028.png",
+    "part_id": "1.1",
+    "source_id": "B0028",
+    "source_seconds": 270.4
+  },
+  {
+    "id": "1.1_B0029",
+    "seconds": 280.415,
+    "time": "1.1 · 00:04:40.415",
+    "image": "../1.1完整讲义/板书截图/frame_0029.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0029.png",
+    "part_id": "1.1",
+    "source_id": "B0029",
+    "source_seconds": 280.415
+  },
+  {
+    "id": "1.1_B0030",
+    "seconds": 290.429,
+    "time": "1.1 · 00:04:50.429",
+    "image": "../1.1完整讲义/板书截图/frame_0030.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0030.png",
+    "part_id": "1.1",
+    "source_id": "B0030",
+    "source_seconds": 290.429
+  },
+  {
+    "id": "1.1_B0031",
+    "seconds": 300.444,
+    "time": "1.1 · 00:05:00.444",
+    "image": "../1.1完整讲义/板书截图/frame_0031.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0031.png",
+    "part_id": "1.1",
+    "source_id": "B0031",
+    "source_seconds": 300.444
+  },
+  {
+    "id": "1.1_B0032",
+    "seconds": 310.459,
+    "time": "1.1 · 00:05:10.459",
+    "image": "../1.1完整讲义/板书截图/frame_0032.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0032.png",
+    "part_id": "1.1",
+    "source_id": "B0032",
+    "source_seconds": 310.459
+  },
+  {
+    "id": "1.1_B0033",
+    "seconds": 320.474,
+    "time": "1.1 · 00:05:20.474",
+    "image": "../1.1完整讲义/板书截图/frame_0033.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0033.png",
+    "part_id": "1.1",
+    "source_id": "B0033",
+    "source_seconds": 320.474
+  },
+  {
+    "id": "1.1_B0034",
+    "seconds": 330.489,
+    "time": "1.1 · 00:05:30.489",
+    "image": "../1.1完整讲义/板书截图/frame_0034.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0034.png",
+    "part_id": "1.1",
+    "source_id": "B0034",
+    "source_seconds": 330.489
+  },
+  {
+    "id": "1.1_B0035",
+    "seconds": 340.504,
+    "time": "1.1 · 00:05:40.504",
+    "image": "../1.1完整讲义/板书截图/frame_0035.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0035.png",
+    "part_id": "1.1",
+    "source_id": "B0035",
+    "source_seconds": 340.504
+  },
+  {
+    "id": "1.1_B0036",
+    "seconds": 350.518,
+    "time": "1.1 · 00:05:50.518",
+    "image": "../1.1完整讲义/板书截图/frame_0036.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0036.png",
+    "part_id": "1.1",
+    "source_id": "B0036",
+    "source_seconds": 350.518
+  },
+  {
+    "id": "1.1_B0037",
+    "seconds": 360.533,
+    "time": "1.1 · 00:06:00.533",
+    "image": "../1.1完整讲义/板书截图/frame_0037.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0037.png",
+    "part_id": "1.1",
+    "source_id": "B0037",
+    "source_seconds": 360.533
+  },
+  {
+    "id": "1.1_B0038",
+    "seconds": 370.548,
+    "time": "1.1 · 00:06:10.548",
+    "image": "../1.1完整讲义/板书截图/frame_0038.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0038.png",
+    "part_id": "1.1",
+    "source_id": "B0038",
+    "source_seconds": 370.548
+  },
+  {
+    "id": "1.1_B0039",
+    "seconds": 380.563,
+    "time": "1.1 · 00:06:20.563",
+    "image": "../1.1完整讲义/板书截图/frame_0039.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0039.png",
+    "part_id": "1.1",
+    "source_id": "B0039",
+    "source_seconds": 380.563
+  },
+  {
+    "id": "1.1_B0040",
+    "seconds": 390.578,
+    "time": "1.1 · 00:06:30.578",
+    "image": "../1.1完整讲义/板书截图/frame_0040.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0040.png",
+    "part_id": "1.1",
+    "source_id": "B0040",
+    "source_seconds": 390.578
+  },
+  {
+    "id": "1.1_B0041",
+    "seconds": 400.592,
+    "time": "1.1 · 00:06:40.592",
+    "image": "../1.1完整讲义/板书截图/frame_0041.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0041.png",
+    "part_id": "1.1",
+    "source_id": "B0041",
+    "source_seconds": 400.592
+  },
+  {
+    "id": "1.1_B0042",
+    "seconds": 410.607,
+    "time": "1.1 · 00:06:50.607",
+    "image": "../1.1完整讲义/板书截图/frame_0042.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0042.png",
+    "part_id": "1.1",
+    "source_id": "B0042",
+    "source_seconds": 410.607
+  },
+  {
+    "id": "1.1_B0043",
+    "seconds": 420.622,
+    "time": "1.1 · 00:07:00.622",
+    "image": "../1.1完整讲义/板书截图/frame_0043.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0043.png",
+    "part_id": "1.1",
+    "source_id": "B0043",
+    "source_seconds": 420.622
+  },
+  {
+    "id": "1.1_B0044",
+    "seconds": 430.637,
+    "time": "1.1 · 00:07:10.637",
+    "image": "../1.1完整讲义/板书截图/frame_0044.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0044.png",
+    "part_id": "1.1",
+    "source_id": "B0044",
+    "source_seconds": 430.637
+  },
+  {
+    "id": "1.1_B0045",
+    "seconds": 440.652,
+    "time": "1.1 · 00:07:20.652",
+    "image": "../1.1完整讲义/板书截图/frame_0045.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0045.png",
+    "part_id": "1.1",
+    "source_id": "B0045",
+    "source_seconds": 440.652
+  },
+  {
+    "id": "1.1_B0046",
+    "seconds": 450.666,
+    "time": "1.1 · 00:07:30.666",
+    "image": "../1.1完整讲义/板书截图/frame_0046.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0046.png",
+    "part_id": "1.1",
+    "source_id": "B0046",
+    "source_seconds": 450.666
+  },
+  {
+    "id": "1.1_B0047",
+    "seconds": 460.681,
+    "time": "1.1 · 00:07:40.681",
+    "image": "../1.1完整讲义/板书截图/frame_0047.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0047.png",
+    "part_id": "1.1",
+    "source_id": "B0047",
+    "source_seconds": 460.681
+  },
+  {
+    "id": "1.1_B0048",
+    "seconds": 470.696,
+    "time": "1.1 · 00:07:50.696",
+    "image": "../1.1完整讲义/板书截图/frame_0048.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0048.png",
+    "part_id": "1.1",
+    "source_id": "B0048",
+    "source_seconds": 470.696
+  },
+  {
+    "id": "1.1_B0049",
+    "seconds": 480.711,
+    "time": "1.1 · 00:08:00.711",
+    "image": "../1.1完整讲义/板书截图/frame_0049.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0049.png",
+    "part_id": "1.1",
+    "source_id": "B0049",
+    "source_seconds": 480.711
+  },
+  {
+    "id": "1.1_B0050",
+    "seconds": 490.726,
+    "time": "1.1 · 00:08:10.726",
+    "image": "../1.1完整讲义/板书截图/frame_0050.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0050.png",
+    "part_id": "1.1",
+    "source_id": "B0050",
+    "source_seconds": 490.726
+  },
+  {
+    "id": "1.1_B0051",
+    "seconds": 500.741,
+    "time": "1.1 · 00:08:20.741",
+    "image": "../1.1完整讲义/板书截图/frame_0051.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0051.png",
+    "part_id": "1.1",
+    "source_id": "B0051",
+    "source_seconds": 500.741
+  },
+  {
+    "id": "1.1_B0052",
+    "seconds": 510.755,
+    "time": "1.1 · 00:08:30.755",
+    "image": "../1.1完整讲义/板书截图/frame_0052.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0052.png",
+    "part_id": "1.1",
+    "source_id": "B0052",
+    "source_seconds": 510.755
+  },
+  {
+    "id": "1.1_B0053",
+    "seconds": 520.77,
+    "time": "1.1 · 00:08:40.770",
+    "image": "../1.1完整讲义/板书截图/frame_0053.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0053.png",
+    "part_id": "1.1",
+    "source_id": "B0053",
+    "source_seconds": 520.77
+  },
+  {
+    "id": "1.1_B0054",
+    "seconds": 530.785,
+    "time": "1.1 · 00:08:50.785",
+    "image": "../1.1完整讲义/板书截图/frame_0054.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0054.png",
+    "part_id": "1.1",
+    "source_id": "B0054",
+    "source_seconds": 530.785
+  },
+  {
+    "id": "1.1_B0055",
+    "seconds": 540.8,
+    "time": "1.1 · 00:09:00.800",
+    "image": "../1.1完整讲义/板书截图/frame_0055.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0055.png",
+    "part_id": "1.1",
+    "source_id": "B0055",
+    "source_seconds": 540.8
+  },
+  {
+    "id": "1.1_B0056",
+    "seconds": 550.815,
+    "time": "1.1 · 00:09:10.815",
+    "image": "../1.1完整讲义/板书截图/frame_0056.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0056.png",
+    "part_id": "1.1",
+    "source_id": "B0056",
+    "source_seconds": 550.815
+  },
+  {
+    "id": "1.1_B0057",
+    "seconds": 560.829,
+    "time": "1.1 · 00:09:20.829",
+    "image": "../1.1完整讲义/板书截图/frame_0057.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0057.png",
+    "part_id": "1.1",
+    "source_id": "B0057",
+    "source_seconds": 560.829
+  },
+  {
+    "id": "1.1_B0058",
+    "seconds": 570.844,
+    "time": "1.1 · 00:09:30.844",
+    "image": "../1.1完整讲义/板书截图/frame_0058.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0058.png",
+    "part_id": "1.1",
+    "source_id": "B0058",
+    "source_seconds": 570.844
+  },
+  {
+    "id": "1.1_B0059",
+    "seconds": 580.859,
+    "time": "1.1 · 00:09:40.859",
+    "image": "../1.1完整讲义/板书截图/frame_0059.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0059.png",
+    "part_id": "1.1",
+    "source_id": "B0059",
+    "source_seconds": 580.859
+  },
+  {
+    "id": "1.1_B0060",
+    "seconds": 590.874,
+    "time": "1.1 · 00:09:50.874",
+    "image": "../1.1完整讲义/板书截图/frame_0060.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0060.png",
+    "part_id": "1.1",
+    "source_id": "B0060",
+    "source_seconds": 590.874
+  },
+  {
+    "id": "1.1_B0061",
+    "seconds": 600.889,
+    "time": "1.1 · 00:10:00.889",
+    "image": "../1.1完整讲义/板书截图/frame_0061.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0061.png",
+    "part_id": "1.1",
+    "source_id": "B0061",
+    "source_seconds": 600.889
+  },
+  {
+    "id": "1.1_B0062",
+    "seconds": 610.904,
+    "time": "1.1 · 00:10:10.904",
+    "image": "../1.1完整讲义/板书截图/frame_0062.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0062.png",
+    "part_id": "1.1",
+    "source_id": "B0062",
+    "source_seconds": 610.904
+  },
+  {
+    "id": "1.1_B0063",
+    "seconds": 620.918,
+    "time": "1.1 · 00:10:20.918",
+    "image": "../1.1完整讲义/板书截图/frame_0063.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0063.png",
+    "part_id": "1.1",
+    "source_id": "B0063",
+    "source_seconds": 620.918
+  },
+  {
+    "id": "1.1_B0064",
+    "seconds": 630.933,
+    "time": "1.1 · 00:10:30.933",
+    "image": "../1.1完整讲义/板书截图/frame_0064.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0064.png",
+    "part_id": "1.1",
+    "source_id": "B0064",
+    "source_seconds": 630.933
+  },
+  {
+    "id": "1.1_B0065",
+    "seconds": 640.948,
+    "time": "1.1 · 00:10:40.948",
+    "image": "../1.1完整讲义/板书截图/frame_0065.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0065.png",
+    "part_id": "1.1",
+    "source_id": "B0065",
+    "source_seconds": 640.948
+  },
+  {
+    "id": "1.1_B0066",
+    "seconds": 650.963,
+    "time": "1.1 · 00:10:50.963",
+    "image": "../1.1完整讲义/板书截图/frame_0066.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0066.png",
+    "part_id": "1.1",
+    "source_id": "B0066",
+    "source_seconds": 650.963
+  },
+  {
+    "id": "1.1_B0067",
+    "seconds": 660.978,
+    "time": "1.1 · 00:11:00.978",
+    "image": "../1.1完整讲义/板书截图/frame_0067.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0067.png",
+    "part_id": "1.1",
+    "source_id": "B0067",
+    "source_seconds": 660.978
+  },
+  {
+    "id": "1.1_B0068",
+    "seconds": 670.992,
+    "time": "1.1 · 00:11:10.992",
+    "image": "../1.1完整讲义/板书截图/frame_0068.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0068.png",
+    "part_id": "1.1",
+    "source_id": "B0068",
+    "source_seconds": 670.992
+  },
+  {
+    "id": "1.1_B0069",
+    "seconds": 681.007,
+    "time": "1.1 · 00:11:21.007",
+    "image": "../1.1完整讲义/板书截图/frame_0069.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0069.png",
+    "part_id": "1.1",
+    "source_id": "B0069",
+    "source_seconds": 681.007
+  },
+  {
+    "id": "1.1_B0070",
+    "seconds": 691.022,
+    "time": "1.1 · 00:11:31.022",
+    "image": "../1.1完整讲义/板书截图/frame_0070.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0070.png",
+    "part_id": "1.1",
+    "source_id": "B0070",
+    "source_seconds": 691.022
+  },
+  {
+    "id": "1.1_B0071",
+    "seconds": 701.037,
+    "time": "1.1 · 00:11:41.037",
+    "image": "../1.1完整讲义/板书截图/frame_0071.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0071.png",
+    "part_id": "1.1",
+    "source_id": "B0071",
+    "source_seconds": 701.037
+  },
+  {
+    "id": "1.1_B0072",
+    "seconds": 711.052,
+    "time": "1.1 · 00:11:51.052",
+    "image": "../1.1完整讲义/板书截图/frame_0072.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0072.png",
+    "part_id": "1.1",
+    "source_id": "B0072",
+    "source_seconds": 711.052
+  },
+  {
+    "id": "1.1_B0073",
+    "seconds": 721.066,
+    "time": "1.1 · 00:12:01.066",
+    "image": "../1.1完整讲义/板书截图/frame_0073.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0073.png",
+    "part_id": "1.1",
+    "source_id": "B0073",
+    "source_seconds": 721.066
+  },
+  {
+    "id": "1.1_B0074",
+    "seconds": 731.081,
+    "time": "1.1 · 00:12:11.081",
+    "image": "../1.1完整讲义/板书截图/frame_0074.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0074.png",
+    "part_id": "1.1",
+    "source_id": "B0074",
+    "source_seconds": 731.081
+  },
+  {
+    "id": "1.1_B0075",
+    "seconds": 741.096,
+    "time": "1.1 · 00:12:21.096",
+    "image": "../1.1完整讲义/板书截图/frame_0075.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0075.png",
+    "part_id": "1.1",
+    "source_id": "B0075",
+    "source_seconds": 741.096
+  },
+  {
+    "id": "1.1_B0076",
+    "seconds": 751.111,
+    "time": "1.1 · 00:12:31.111",
+    "image": "../1.1完整讲义/板书截图/frame_0076.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0076.png",
+    "part_id": "1.1",
+    "source_id": "B0076",
+    "source_seconds": 751.111
+  },
+  {
+    "id": "1.1_B0077",
+    "seconds": 761.126,
+    "time": "1.1 · 00:12:41.126",
+    "image": "../1.1完整讲义/板书截图/frame_0077.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0077.png",
+    "part_id": "1.1",
+    "source_id": "B0077",
+    "source_seconds": 761.126
+  },
+  {
+    "id": "1.1_B0078",
+    "seconds": 771.141,
+    "time": "1.1 · 00:12:51.141",
+    "image": "../1.1完整讲义/板书截图/frame_0078.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0078.png",
+    "part_id": "1.1",
+    "source_id": "B0078",
+    "source_seconds": 771.141
+  },
+  {
+    "id": "1.1_B0079",
+    "seconds": 781.155,
+    "time": "1.1 · 00:13:01.155",
+    "image": "../1.1完整讲义/板书截图/frame_0079.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0079.png",
+    "part_id": "1.1",
+    "source_id": "B0079",
+    "source_seconds": 781.155
+  },
+  {
+    "id": "1.1_B0080",
+    "seconds": 791.17,
+    "time": "1.1 · 00:13:11.170",
+    "image": "../1.1完整讲义/板书截图/frame_0080.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0080.png",
+    "part_id": "1.1",
+    "source_id": "B0080",
+    "source_seconds": 791.17
+  },
+  {
+    "id": "1.1_B0081",
+    "seconds": 801.185,
+    "time": "1.1 · 00:13:21.185",
+    "image": "../1.1完整讲义/板书截图/frame_0081.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0081.png",
+    "part_id": "1.1",
+    "source_id": "B0081",
+    "source_seconds": 801.185
+  },
+  {
+    "id": "1.1_B0082",
+    "seconds": 811.2,
+    "time": "1.1 · 00:13:31.200",
+    "image": "../1.1完整讲义/板书截图/frame_0082.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0082.png",
+    "part_id": "1.1",
+    "source_id": "B0082",
+    "source_seconds": 811.2
+  },
+  {
+    "id": "1.1_B0083",
+    "seconds": 821.215,
+    "time": "1.1 · 00:13:41.215",
+    "image": "../1.1完整讲义/板书截图/frame_0083.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0083.png",
+    "part_id": "1.1",
+    "source_id": "B0083",
+    "source_seconds": 821.215
+  },
+  {
+    "id": "1.1_B0084",
+    "seconds": 831.229,
+    "time": "1.1 · 00:13:51.229",
+    "image": "../1.1完整讲义/板书截图/frame_0084.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0084.png",
+    "part_id": "1.1",
+    "source_id": "B0084",
+    "source_seconds": 831.229
+  },
+  {
+    "id": "1.1_B0085",
+    "seconds": 841.244,
+    "time": "1.1 · 00:14:01.244",
+    "image": "../1.1完整讲义/板书截图/frame_0085.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0085.png",
+    "part_id": "1.1",
+    "source_id": "B0085",
+    "source_seconds": 841.244
+  },
+  {
+    "id": "1.1_B0086",
+    "seconds": 851.259,
+    "time": "1.1 · 00:14:11.259",
+    "image": "../1.1完整讲义/板书截图/frame_0086.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0086.png",
+    "part_id": "1.1",
+    "source_id": "B0086",
+    "source_seconds": 851.259
+  },
+  {
+    "id": "1.1_B0087",
+    "seconds": 861.274,
+    "time": "1.1 · 00:14:21.274",
+    "image": "../1.1完整讲义/板书截图/frame_0087.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0087.png",
+    "part_id": "1.1",
+    "source_id": "B0087",
+    "source_seconds": 861.274
+  },
+  {
+    "id": "1.1_B0088",
+    "seconds": 871.289,
+    "time": "1.1 · 00:14:31.289",
+    "image": "../1.1完整讲义/板书截图/frame_0088.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0088.png",
+    "part_id": "1.1",
+    "source_id": "B0088",
+    "source_seconds": 871.289
+  },
+  {
+    "id": "1.1_B0089",
+    "seconds": 881.304,
+    "time": "1.1 · 00:14:41.304",
+    "image": "../1.1完整讲义/板书截图/frame_0089.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0089.png",
+    "part_id": "1.1",
+    "source_id": "B0089",
+    "source_seconds": 881.304
+  },
+  {
+    "id": "1.1_B0090",
+    "seconds": 891.318,
+    "time": "1.1 · 00:14:51.318",
+    "image": "../1.1完整讲义/板书截图/frame_0090.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0090.png",
+    "part_id": "1.1",
+    "source_id": "B0090",
+    "source_seconds": 891.318
+  },
+  {
+    "id": "1.1_B0091",
+    "seconds": 901.333,
+    "time": "1.1 · 00:15:01.333",
+    "image": "../1.1完整讲义/板书截图/frame_0091.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0091.png",
+    "part_id": "1.1",
+    "source_id": "B0091",
+    "source_seconds": 901.333
+  },
+  {
+    "id": "1.1_B0092",
+    "seconds": 911.348,
+    "time": "1.1 · 00:15:11.348",
+    "image": "../1.1完整讲义/板书截图/frame_0092.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0092.png",
+    "part_id": "1.1",
+    "source_id": "B0092",
+    "source_seconds": 911.348
+  },
+  {
+    "id": "1.1_B0093",
+    "seconds": 921.363,
+    "time": "1.1 · 00:15:21.363",
+    "image": "../1.1完整讲义/板书截图/frame_0093.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0093.png",
+    "part_id": "1.1",
+    "source_id": "B0093",
+    "source_seconds": 921.363
+  },
+  {
+    "id": "1.1_B0094",
+    "seconds": 931.378,
+    "time": "1.1 · 00:15:31.378",
+    "image": "../1.1完整讲义/板书截图/frame_0094.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0094.png",
+    "part_id": "1.1",
+    "source_id": "B0094",
+    "source_seconds": 931.378
+  },
+  {
+    "id": "1.1_B0095",
+    "seconds": 941.392,
+    "time": "1.1 · 00:15:41.392",
+    "image": "../1.1完整讲义/板书截图/frame_0095.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0095.png",
+    "part_id": "1.1",
+    "source_id": "B0095",
+    "source_seconds": 941.392
+  },
+  {
+    "id": "1.1_B0096",
+    "seconds": 951.407,
+    "time": "1.1 · 00:15:51.407",
+    "image": "../1.1完整讲义/板书截图/frame_0096.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0096.png",
+    "part_id": "1.1",
+    "source_id": "B0096",
+    "source_seconds": 951.407
+  },
+  {
+    "id": "1.1_B0097",
+    "seconds": 961.422,
+    "time": "1.1 · 00:16:01.422",
+    "image": "../1.1完整讲义/板书截图/frame_0097.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0097.png",
+    "part_id": "1.1",
+    "source_id": "B0097",
+    "source_seconds": 961.422
+  },
+  {
+    "id": "1.1_B0098",
+    "seconds": 971.437,
+    "time": "1.1 · 00:16:11.437",
+    "image": "../1.1完整讲义/板书截图/frame_0098.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0098.png",
+    "part_id": "1.1",
+    "source_id": "B0098",
+    "source_seconds": 971.437
+  },
+  {
+    "id": "1.1_B0099",
+    "seconds": 981.452,
+    "time": "1.1 · 00:16:21.452",
+    "image": "../1.1完整讲义/板书截图/frame_0099.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0099.png",
+    "part_id": "1.1",
+    "source_id": "B0099",
+    "source_seconds": 981.452
+  },
+  {
+    "id": "1.1_B0100",
+    "seconds": 991.466,
+    "time": "1.1 · 00:16:31.466",
+    "image": "../1.1完整讲义/板书截图/frame_0100.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0100.png",
+    "part_id": "1.1",
+    "source_id": "B0100",
+    "source_seconds": 991.466
+  },
+  {
+    "id": "1.1_B0101",
+    "seconds": 1001.48,
+    "time": "1.1 · 00:16:41.480",
+    "image": "../1.1完整讲义/板书截图/frame_0101.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0101.png",
+    "part_id": "1.1",
+    "source_id": "B0101",
+    "source_seconds": 1001.48
+  },
+  {
+    "id": "1.1_B0102",
+    "seconds": 1011.5,
+    "time": "1.1 · 00:16:51.500",
+    "image": "../1.1完整讲义/板书截图/frame_0102.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0102.png",
+    "part_id": "1.1",
+    "source_id": "B0102",
+    "source_seconds": 1011.5
+  },
+  {
+    "id": "1.1_B0103",
+    "seconds": 1021.51,
+    "time": "1.1 · 00:17:01.510",
+    "image": "../1.1完整讲义/板书截图/frame_0103.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0103.png",
+    "part_id": "1.1",
+    "source_id": "B0103",
+    "source_seconds": 1021.51
+  },
+  {
+    "id": "1.1_B0104",
+    "seconds": 1031.53,
+    "time": "1.1 · 00:17:11.530",
+    "image": "../1.1完整讲义/板书截图/frame_0104.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0104.png",
+    "part_id": "1.1",
+    "source_id": "B0104",
+    "source_seconds": 1031.53
+  },
+  {
+    "id": "1.1_B0105",
+    "seconds": 1041.54,
+    "time": "1.1 · 00:17:21.540",
+    "image": "../1.1完整讲义/板书截图/frame_0105.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0105.png",
+    "part_id": "1.1",
+    "source_id": "B0105",
+    "source_seconds": 1041.54
+  },
+  {
+    "id": "1.1_B0106",
+    "seconds": 1051.56,
+    "time": "1.1 · 00:17:31.560",
+    "image": "../1.1完整讲义/板书截图/frame_0106.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0106.png",
+    "part_id": "1.1",
+    "source_id": "B0106",
+    "source_seconds": 1051.56
+  },
+  {
+    "id": "1.1_B0107",
+    "seconds": 1061.57,
+    "time": "1.1 · 00:17:41.570",
+    "image": "../1.1完整讲义/板书截图/frame_0107.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0107.png",
+    "part_id": "1.1",
+    "source_id": "B0107",
+    "source_seconds": 1061.57
+  },
+  {
+    "id": "1.1_B0108",
+    "seconds": 1071.59,
+    "time": "1.1 · 00:17:51.590",
+    "image": "../1.1完整讲义/板书截图/frame_0108.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0108.png",
+    "part_id": "1.1",
+    "source_id": "B0108",
+    "source_seconds": 1071.59
+  },
+  {
+    "id": "1.1_B0109",
+    "seconds": 1081.6,
+    "time": "1.1 · 00:18:01.600",
+    "image": "../1.1完整讲义/板书截图/frame_0109.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0109.png",
+    "part_id": "1.1",
+    "source_id": "B0109",
+    "source_seconds": 1081.6
+  },
+  {
+    "id": "1.1_B0110",
+    "seconds": 1091.62,
+    "time": "1.1 · 00:18:11.620",
+    "image": "../1.1完整讲义/板书截图/frame_0110.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0110.png",
+    "part_id": "1.1",
+    "source_id": "B0110",
+    "source_seconds": 1091.62
+  },
+  {
+    "id": "1.1_B0111",
+    "seconds": 1101.63,
+    "time": "1.1 · 00:18:21.630",
+    "image": "../1.1完整讲义/板书截图/frame_0111.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0111.png",
+    "part_id": "1.1",
+    "source_id": "B0111",
+    "source_seconds": 1101.63
+  },
+  {
+    "id": "1.1_B0112",
+    "seconds": 1111.64,
+    "time": "1.1 · 00:18:31.640",
+    "image": "../1.1完整讲义/板书截图/frame_0112.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0112.png",
+    "part_id": "1.1",
+    "source_id": "B0112",
+    "source_seconds": 1111.64
+  },
+  {
+    "id": "1.1_B0113",
+    "seconds": 1121.66,
+    "time": "1.1 · 00:18:41.660",
+    "image": "../1.1完整讲义/板书截图/frame_0113.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0113.png",
+    "part_id": "1.1",
+    "source_id": "B0113",
+    "source_seconds": 1121.66
+  },
+  {
+    "id": "1.1_B0114",
+    "seconds": 1131.67,
+    "time": "1.1 · 00:18:51.670",
+    "image": "../1.1完整讲义/板书截图/frame_0114.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0114.png",
+    "part_id": "1.1",
+    "source_id": "B0114",
+    "source_seconds": 1131.67
+  },
+  {
+    "id": "1.1_B0115",
+    "seconds": 1141.69,
+    "time": "1.1 · 00:19:01.690",
+    "image": "../1.1完整讲义/板书截图/frame_0115.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0115.png",
+    "part_id": "1.1",
+    "source_id": "B0115",
+    "source_seconds": 1141.69
+  },
+  {
+    "id": "1.1_B0116",
+    "seconds": 1151.7,
+    "time": "1.1 · 00:19:11.700",
+    "image": "../1.1完整讲义/板书截图/frame_0116.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0116.png",
+    "part_id": "1.1",
+    "source_id": "B0116",
+    "source_seconds": 1151.7
+  },
+  {
+    "id": "1.1_B0117",
+    "seconds": 1161.72,
+    "time": "1.1 · 00:19:21.720",
+    "image": "../1.1完整讲义/板书截图/frame_0117.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0117.png",
+    "part_id": "1.1",
+    "source_id": "B0117",
+    "source_seconds": 1161.72
+  },
+  {
+    "id": "1.1_B0118",
+    "seconds": 1171.73,
+    "time": "1.1 · 00:19:31.730",
+    "image": "../1.1完整讲义/板书截图/frame_0118.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0118.png",
+    "part_id": "1.1",
+    "source_id": "B0118",
+    "source_seconds": 1171.73
+  },
+  {
+    "id": "1.1_B0119",
+    "seconds": 1181.75,
+    "time": "1.1 · 00:19:41.750",
+    "image": "../1.1完整讲义/板书截图/frame_0119.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0119.png",
+    "part_id": "1.1",
+    "source_id": "B0119",
+    "source_seconds": 1181.75
+  },
+  {
+    "id": "1.1_B0120",
+    "seconds": 1191.76,
+    "time": "1.1 · 00:19:51.760",
+    "image": "../1.1完整讲义/板书截图/frame_0120.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0120.png",
+    "part_id": "1.1",
+    "source_id": "B0120",
+    "source_seconds": 1191.76
+  },
+  {
+    "id": "1.1_B0121",
+    "seconds": 1201.78,
+    "time": "1.1 · 00:20:01.780",
+    "image": "../1.1完整讲义/板书截图/frame_0121.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0121.png",
+    "part_id": "1.1",
+    "source_id": "B0121",
+    "source_seconds": 1201.78
+  },
+  {
+    "id": "1.1_B0122",
+    "seconds": 1211.79,
+    "time": "1.1 · 00:20:11.790",
+    "image": "../1.1完整讲义/板书截图/frame_0122.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0122.png",
+    "part_id": "1.1",
+    "source_id": "B0122",
+    "source_seconds": 1211.79
+  },
+  {
+    "id": "1.1_B0123",
+    "seconds": 1221.81,
+    "time": "1.1 · 00:20:21.810",
+    "image": "../1.1完整讲义/板书截图/frame_0123.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0123.png",
+    "part_id": "1.1",
+    "source_id": "B0123",
+    "source_seconds": 1221.81
+  },
+  {
+    "id": "1.1_B0124",
+    "seconds": 1231.82,
+    "time": "1.1 · 00:20:31.820",
+    "image": "../1.1完整讲义/板书截图/frame_0124.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0124.png",
+    "part_id": "1.1",
+    "source_id": "B0124",
+    "source_seconds": 1231.82
+  },
+  {
+    "id": "1.1_B0125",
+    "seconds": 1241.84,
+    "time": "1.1 · 00:20:41.840",
+    "image": "../1.1完整讲义/板书截图/frame_0125.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0125.png",
+    "part_id": "1.1",
+    "source_id": "B0125",
+    "source_seconds": 1241.84
+  },
+  {
+    "id": "1.1_B0126",
+    "seconds": 1251.85,
+    "time": "1.1 · 00:20:51.850",
+    "image": "../1.1完整讲义/板书截图/frame_0126.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0126.png",
+    "part_id": "1.1",
+    "source_id": "B0126",
+    "source_seconds": 1251.85
+  },
+  {
+    "id": "1.1_B0127",
+    "seconds": 1261.87,
+    "time": "1.1 · 00:21:01.870",
+    "image": "../1.1完整讲义/板书截图/frame_0127.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0127.png",
+    "part_id": "1.1",
+    "source_id": "B0127",
+    "source_seconds": 1261.87
+  },
+  {
+    "id": "1.1_B0128",
+    "seconds": 1271.88,
+    "time": "1.1 · 00:21:11.880",
+    "image": "../1.1完整讲义/板书截图/frame_0128.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0128.png",
+    "part_id": "1.1",
+    "source_id": "B0128",
+    "source_seconds": 1271.88
+  },
+  {
+    "id": "1.1_B0129",
+    "seconds": 1281.9,
+    "time": "1.1 · 00:21:21.900",
+    "image": "../1.1完整讲义/板书截图/frame_0129.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0129.png",
+    "part_id": "1.1",
+    "source_id": "B0129",
+    "source_seconds": 1281.9
+  },
+  {
+    "id": "1.1_B0130",
+    "seconds": 1291.91,
+    "time": "1.1 · 00:21:31.910",
+    "image": "../1.1完整讲义/板书截图/frame_0130.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0130.png",
+    "part_id": "1.1",
+    "source_id": "B0130",
+    "source_seconds": 1291.91
+  },
+  {
+    "id": "1.1_B0131",
+    "seconds": 1301.93,
+    "time": "1.1 · 00:21:41.930",
+    "image": "../1.1完整讲义/板书截图/frame_0131.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0131.png",
+    "part_id": "1.1",
+    "source_id": "B0131",
+    "source_seconds": 1301.93
+  },
+  {
+    "id": "1.1_B0132",
+    "seconds": 1311.94,
+    "time": "1.1 · 00:21:51.940",
+    "image": "../1.1完整讲义/板书截图/frame_0132.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0132.png",
+    "part_id": "1.1",
+    "source_id": "B0132",
+    "source_seconds": 1311.94
+  },
+  {
+    "id": "1.1_B0133",
+    "seconds": 1321.96,
+    "time": "1.1 · 00:22:01.960",
+    "image": "../1.1完整讲义/板书截图/frame_0133.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0133.png",
+    "part_id": "1.1",
+    "source_id": "B0133",
+    "source_seconds": 1321.96
+  },
+  {
+    "id": "1.1_B0134",
+    "seconds": 1331.97,
+    "time": "1.1 · 00:22:11.970",
+    "image": "../1.1完整讲义/板书截图/frame_0134.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0134.png",
+    "part_id": "1.1",
+    "source_id": "B0134",
+    "source_seconds": 1331.97
+  },
+  {
+    "id": "1.1_B0135",
+    "seconds": 1341.99,
+    "time": "1.1 · 00:22:21.990",
+    "image": "../1.1完整讲义/板书截图/frame_0135.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0135.png",
+    "part_id": "1.1",
+    "source_id": "B0135",
+    "source_seconds": 1341.99
+  },
+  {
+    "id": "1.1_B0136",
+    "seconds": 1352.0,
+    "time": "1.1 · 00:22:32.000",
+    "image": "../1.1完整讲义/板书截图/frame_0136.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0136.png",
+    "part_id": "1.1",
+    "source_id": "B0136",
+    "source_seconds": 1352.0
+  },
+  {
+    "id": "1.1_B0137",
+    "seconds": 1362.02,
+    "time": "1.1 · 00:22:42.020",
+    "image": "../1.1完整讲义/板书截图/frame_0137.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0137.png",
+    "part_id": "1.1",
+    "source_id": "B0137",
+    "source_seconds": 1362.02
+  },
+  {
+    "id": "1.1_B0138",
+    "seconds": 1372.03,
+    "time": "1.1 · 00:22:52.030",
+    "image": "../1.1完整讲义/板书截图/frame_0138.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0138.png",
+    "part_id": "1.1",
+    "source_id": "B0138",
+    "source_seconds": 1372.03
+  },
+  {
+    "id": "1.1_B0139",
+    "seconds": 1382.04,
+    "time": "1.1 · 00:23:02.040",
+    "image": "../1.1完整讲义/板书截图/frame_0139.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0139.png",
+    "part_id": "1.1",
+    "source_id": "B0139",
+    "source_seconds": 1382.04
+  },
+  {
+    "id": "1.1_B0140",
+    "seconds": 1392.06,
+    "time": "1.1 · 00:23:12.060",
+    "image": "../1.1完整讲义/板书截图/frame_0140.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0140.png",
+    "part_id": "1.1",
+    "source_id": "B0140",
+    "source_seconds": 1392.06
+  },
+  {
+    "id": "1.1_B0141",
+    "seconds": 1402.07,
+    "time": "1.1 · 00:23:22.070",
+    "image": "../1.1完整讲义/板书截图/frame_0141.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0141.png",
+    "part_id": "1.1",
+    "source_id": "B0141",
+    "source_seconds": 1402.07
+  },
+  {
+    "id": "1.1_B0142",
+    "seconds": 1412.09,
+    "time": "1.1 · 00:23:32.090",
+    "image": "../1.1完整讲义/板书截图/frame_0142.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0142.png",
+    "part_id": "1.1",
+    "source_id": "B0142",
+    "source_seconds": 1412.09
+  },
+  {
+    "id": "1.1_B0143",
+    "seconds": 1422.1,
+    "time": "1.1 · 00:23:42.100",
+    "image": "../1.1完整讲义/板书截图/frame_0143.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0143.png",
+    "part_id": "1.1",
+    "source_id": "B0143",
+    "source_seconds": 1422.1
+  },
+  {
+    "id": "1.1_B0144",
+    "seconds": 1432.12,
+    "time": "1.1 · 00:23:52.120",
+    "image": "../1.1完整讲义/板书截图/frame_0144.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0144.png",
+    "part_id": "1.1",
+    "source_id": "B0144",
+    "source_seconds": 1432.12
+  },
+  {
+    "id": "1.1_B0145",
+    "seconds": 1442.13,
+    "time": "1.1 · 00:24:02.130",
+    "image": "../1.1完整讲义/板书截图/frame_0145.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0145.png",
+    "part_id": "1.1",
+    "source_id": "B0145",
+    "source_seconds": 1442.13
+  },
+  {
+    "id": "1.1_B0146",
+    "seconds": 1452.15,
+    "time": "1.1 · 00:24:12.150",
+    "image": "../1.1完整讲义/板书截图/frame_0146.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0146.png",
+    "part_id": "1.1",
+    "source_id": "B0146",
+    "source_seconds": 1452.15
+  },
+  {
+    "id": "1.1_B0147",
+    "seconds": 1462.16,
+    "time": "1.1 · 00:24:22.160",
+    "image": "../1.1完整讲义/板书截图/frame_0147.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0147.png",
+    "part_id": "1.1",
+    "source_id": "B0147",
+    "source_seconds": 1462.16
+  },
+  {
+    "id": "1.1_B0148",
+    "seconds": 1472.18,
+    "time": "1.1 · 00:24:32.180",
+    "image": "../1.1完整讲义/板书截图/frame_0148.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0148.png",
+    "part_id": "1.1",
+    "source_id": "B0148",
+    "source_seconds": 1472.18
+  },
+  {
+    "id": "1.1_B0149",
+    "seconds": 1482.19,
+    "time": "1.1 · 00:24:42.190",
+    "image": "../1.1完整讲义/板书截图/frame_0149.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0149.png",
+    "part_id": "1.1",
+    "source_id": "B0149",
+    "source_seconds": 1482.19
+  },
+  {
+    "id": "1.1_B0150",
+    "seconds": 1492.21,
+    "time": "1.1 · 00:24:52.210",
+    "image": "../1.1完整讲义/板书截图/frame_0150.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0150.png",
+    "part_id": "1.1",
+    "source_id": "B0150",
+    "source_seconds": 1492.21
+  },
+  {
+    "id": "1.1_B0151",
+    "seconds": 1502.22,
+    "time": "1.1 · 00:25:02.220",
+    "image": "../1.1完整讲义/板书截图/frame_0151.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0151.png",
+    "part_id": "1.1",
+    "source_id": "B0151",
+    "source_seconds": 1502.22
+  },
+  {
+    "id": "1.1_B0152",
+    "seconds": 1512.24,
+    "time": "1.1 · 00:25:12.240",
+    "image": "../1.1完整讲义/板书截图/frame_0152.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0152.png",
+    "part_id": "1.1",
+    "source_id": "B0152",
+    "source_seconds": 1512.24
+  },
+  {
+    "id": "1.1_B0153",
+    "seconds": 1522.25,
+    "time": "1.1 · 00:25:22.250",
+    "image": "../1.1完整讲义/板书截图/frame_0153.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0153.png",
+    "part_id": "1.1",
+    "source_id": "B0153",
+    "source_seconds": 1522.25
+  },
+  {
+    "id": "1.1_B0154",
+    "seconds": 1532.27,
+    "time": "1.1 · 00:25:32.270",
+    "image": "../1.1完整讲义/板书截图/frame_0154.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0154.png",
+    "part_id": "1.1",
+    "source_id": "B0154",
+    "source_seconds": 1532.27
+  },
+  {
+    "id": "1.1_B0155",
+    "seconds": 1542.28,
+    "time": "1.1 · 00:25:42.280",
+    "image": "../1.1完整讲义/板书截图/frame_0155.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0155.png",
+    "part_id": "1.1",
+    "source_id": "B0155",
+    "source_seconds": 1542.28
+  },
+  {
+    "id": "1.1_B0156",
+    "seconds": 1552.3,
+    "time": "1.1 · 00:25:52.300",
+    "image": "../1.1完整讲义/板书截图/frame_0156.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0156.png",
+    "part_id": "1.1",
+    "source_id": "B0156",
+    "source_seconds": 1552.3
+  },
+  {
+    "id": "1.1_B0157",
+    "seconds": 1562.31,
+    "time": "1.1 · 00:26:02.310",
+    "image": "../1.1完整讲义/板书截图/frame_0157.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0157.png",
+    "part_id": "1.1",
+    "source_id": "B0157",
+    "source_seconds": 1562.31
+  },
+  {
+    "id": "1.1_B0158",
+    "seconds": 1572.33,
+    "time": "1.1 · 00:26:12.330",
+    "image": "../1.1完整讲义/板书截图/frame_0158.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0158.png",
+    "part_id": "1.1",
+    "source_id": "B0158",
+    "source_seconds": 1572.33
+  },
+  {
+    "id": "1.1_B0159",
+    "seconds": 1582.34,
+    "time": "1.1 · 00:26:22.340",
+    "image": "../1.1完整讲义/板书截图/frame_0159.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0159.png",
+    "part_id": "1.1",
+    "source_id": "B0159",
+    "source_seconds": 1582.34
+  },
+  {
+    "id": "1.1_B0160",
+    "seconds": 1592.36,
+    "time": "1.1 · 00:26:32.360",
+    "image": "../1.1完整讲义/板书截图/frame_0160.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0160.png",
+    "part_id": "1.1",
+    "source_id": "B0160",
+    "source_seconds": 1592.36
+  },
+  {
+    "id": "1.1_B0161",
+    "seconds": 1602.37,
+    "time": "1.1 · 00:26:42.370",
+    "image": "../1.1完整讲义/板书截图/frame_0161.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0161.png",
+    "part_id": "1.1",
+    "source_id": "B0161",
+    "source_seconds": 1602.37
+  },
+  {
+    "id": "1.1_B0162",
+    "seconds": 1612.38,
+    "time": "1.1 · 00:26:52.380",
+    "image": "../1.1完整讲义/板书截图/frame_0162.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0162.png",
+    "part_id": "1.1",
+    "source_id": "B0162",
+    "source_seconds": 1612.38
+  },
+  {
+    "id": "1.1_B0163",
+    "seconds": 1622.4,
+    "time": "1.1 · 00:27:02.400",
+    "image": "../1.1完整讲义/板书截图/frame_0163.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0163.png",
+    "part_id": "1.1",
+    "source_id": "B0163",
+    "source_seconds": 1622.4
+  },
+  {
+    "id": "1.1_B0164",
+    "seconds": 1632.42,
+    "time": "1.1 · 00:27:12.420",
+    "image": "../1.1完整讲义/板书截图/frame_0164.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0164.png",
+    "part_id": "1.1",
+    "source_id": "B0164",
+    "source_seconds": 1632.42
+  },
+  {
+    "id": "1.1_B0165",
+    "seconds": 1642.43,
+    "time": "1.1 · 00:27:22.430",
+    "image": "../1.1完整讲义/板书截图/frame_0165.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0165.png",
+    "part_id": "1.1",
+    "source_id": "B0165",
+    "source_seconds": 1642.43
+  },
+  {
+    "id": "1.1_B0166",
+    "seconds": 1652.44,
+    "time": "1.1 · 00:27:32.440",
+    "image": "../1.1完整讲义/板书截图/frame_0166.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0166.png",
+    "part_id": "1.1",
+    "source_id": "B0166",
+    "source_seconds": 1652.44
+  },
+  {
+    "id": "1.1_B0167",
+    "seconds": 1662.46,
+    "time": "1.1 · 00:27:42.460",
+    "image": "../1.1完整讲义/板书截图/frame_0167.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0167.png",
+    "part_id": "1.1",
+    "source_id": "B0167",
+    "source_seconds": 1662.46
+  },
+  {
+    "id": "1.1_B0168",
+    "seconds": 1672.47,
+    "time": "1.1 · 00:27:52.470",
+    "image": "../1.1完整讲义/板书截图/frame_0168.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0168.png",
+    "part_id": "1.1",
+    "source_id": "B0168",
+    "source_seconds": 1672.47
+  },
+  {
+    "id": "1.1_B0169",
+    "seconds": 1682.49,
+    "time": "1.1 · 00:28:02.490",
+    "image": "../1.1完整讲义/板书截图/frame_0169.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0169.png",
+    "part_id": "1.1",
+    "source_id": "B0169",
+    "source_seconds": 1682.49
+  },
+  {
+    "id": "1.1_B0170",
+    "seconds": 1692.5,
+    "time": "1.1 · 00:28:12.500",
+    "image": "../1.1完整讲义/板书截图/frame_0170.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0170.png",
+    "part_id": "1.1",
+    "source_id": "B0170",
+    "source_seconds": 1692.5
+  },
+  {
+    "id": "1.1_B0171",
+    "seconds": 1702.52,
+    "time": "1.1 · 00:28:22.520",
+    "image": "../1.1完整讲义/板书截图/frame_0171.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0171.png",
+    "part_id": "1.1",
+    "source_id": "B0171",
+    "source_seconds": 1702.52
+  },
+  {
+    "id": "1.1_B0172",
+    "seconds": 1712.53,
+    "time": "1.1 · 00:28:32.530",
+    "image": "../1.1完整讲义/板书截图/frame_0172.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0172.png",
+    "part_id": "1.1",
+    "source_id": "B0172",
+    "source_seconds": 1712.53
+  },
+  {
+    "id": "1.1_B0173",
+    "seconds": 1722.55,
+    "time": "1.1 · 00:28:42.550",
+    "image": "../1.1完整讲义/板书截图/frame_0173.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0173.png",
+    "part_id": "1.1",
+    "source_id": "B0173",
+    "source_seconds": 1722.55
+  },
+  {
+    "id": "1.1_B0174",
+    "seconds": 1732.56,
+    "time": "1.1 · 00:28:52.560",
+    "image": "../1.1完整讲义/板书截图/frame_0174.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0174.png",
+    "part_id": "1.1",
+    "source_id": "B0174",
+    "source_seconds": 1732.56
+  },
+  {
+    "id": "1.1_B0175",
+    "seconds": 1742.58,
+    "time": "1.1 · 00:29:02.580",
+    "image": "../1.1完整讲义/板书截图/frame_0175.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0175.png",
+    "part_id": "1.1",
+    "source_id": "B0175",
+    "source_seconds": 1742.58
+  },
+  {
+    "id": "1.1_B0176",
+    "seconds": 1752.59,
+    "time": "1.1 · 00:29:12.590",
+    "image": "../1.1完整讲义/板书截图/frame_0176.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0176.png",
+    "part_id": "1.1",
+    "source_id": "B0176",
+    "source_seconds": 1752.59
+  },
+  {
+    "id": "1.1_B0177",
+    "seconds": 1762.61,
+    "time": "1.1 · 00:29:22.610",
+    "image": "../1.1完整讲义/板书截图/frame_0177.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0177.png",
+    "part_id": "1.1",
+    "source_id": "B0177",
+    "source_seconds": 1762.61
+  },
+  {
+    "id": "1.1_B0178",
+    "seconds": 1772.62,
+    "time": "1.1 · 00:29:32.620",
+    "image": "../1.1完整讲义/板书截图/frame_0178.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0178.png",
+    "part_id": "1.1",
+    "source_id": "B0178",
+    "source_seconds": 1772.62
+  },
+  {
+    "id": "1.1_B0179",
+    "seconds": 1782.64,
+    "time": "1.1 · 00:29:42.640",
+    "image": "../1.1完整讲义/板书截图/frame_0179.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0179.png",
+    "part_id": "1.1",
+    "source_id": "B0179",
+    "source_seconds": 1782.64
+  },
+  {
+    "id": "1.1_B0180",
+    "seconds": 1792.65,
+    "time": "1.1 · 00:29:52.650",
+    "image": "../1.1完整讲义/板书截图/frame_0180.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0180.png",
+    "part_id": "1.1",
+    "source_id": "B0180",
+    "source_seconds": 1792.65
+  },
+  {
+    "id": "1.1_B0181",
+    "seconds": 1802.67,
+    "time": "1.1 · 00:30:02.670",
+    "image": "../1.1完整讲义/板书截图/frame_0181.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0181.png",
+    "part_id": "1.1",
+    "source_id": "B0181",
+    "source_seconds": 1802.67
+  },
+  {
+    "id": "1.1_B0182",
+    "seconds": 1812.68,
+    "time": "1.1 · 00:30:12.680",
+    "image": "../1.1完整讲义/板书截图/frame_0182.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0182.png",
+    "part_id": "1.1",
+    "source_id": "B0182",
+    "source_seconds": 1812.68
+  },
+  {
+    "id": "1.1_B0183",
+    "seconds": 1822.7,
+    "time": "1.1 · 00:30:22.700",
+    "image": "../1.1完整讲义/板书截图/frame_0183.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0183.png",
+    "part_id": "1.1",
+    "source_id": "B0183",
+    "source_seconds": 1822.7
+  },
+  {
+    "id": "1.1_B0184",
+    "seconds": 1832.71,
+    "time": "1.1 · 00:30:32.710",
+    "image": "../1.1完整讲义/板书截图/frame_0184.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0184.png",
+    "part_id": "1.1",
+    "source_id": "B0184",
+    "source_seconds": 1832.71
+  },
+  {
+    "id": "1.1_B0185",
+    "seconds": 1842.73,
+    "time": "1.1 · 00:30:42.730",
+    "image": "../1.1完整讲义/板书截图/frame_0185.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0185.png",
+    "part_id": "1.1",
+    "source_id": "B0185",
+    "source_seconds": 1842.73
+  },
+  {
+    "id": "1.1_B0186",
+    "seconds": 1852.74,
+    "time": "1.1 · 00:30:52.740",
+    "image": "../1.1完整讲义/板书截图/frame_0186.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0186.png",
+    "part_id": "1.1",
+    "source_id": "B0186",
+    "source_seconds": 1852.74
+  },
+  {
+    "id": "1.1_B0187",
+    "seconds": 1862.76,
+    "time": "1.1 · 00:31:02.760",
+    "image": "../1.1完整讲义/板书截图/frame_0187.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0187.png",
+    "part_id": "1.1",
+    "source_id": "B0187",
+    "source_seconds": 1862.76
+  },
+  {
+    "id": "1.1_B0188",
+    "seconds": 1872.77,
+    "time": "1.1 · 00:31:12.770",
+    "image": "../1.1完整讲义/板书截图/frame_0188.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0188.png",
+    "part_id": "1.1",
+    "source_id": "B0188",
+    "source_seconds": 1872.77
+  },
+  {
+    "id": "1.1_B0189",
+    "seconds": 1882.79,
+    "time": "1.1 · 00:31:22.790",
+    "image": "../1.1完整讲义/板书截图/frame_0189.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0189.png",
+    "part_id": "1.1",
+    "source_id": "B0189",
+    "source_seconds": 1882.79
+  },
+  {
+    "id": "1.1_B0190",
+    "seconds": 1892.8,
+    "time": "1.1 · 00:31:32.800",
+    "image": "../1.1完整讲义/板书截图/frame_0190.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0190.png",
+    "part_id": "1.1",
+    "source_id": "B0190",
+    "source_seconds": 1892.8
+  },
+  {
+    "id": "1.1_B0191",
+    "seconds": 1902.82,
+    "time": "1.1 · 00:31:42.820",
+    "image": "../1.1完整讲义/板书截图/frame_0191.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0191.png",
+    "part_id": "1.1",
+    "source_id": "B0191",
+    "source_seconds": 1902.82
+  },
+  {
+    "id": "1.1_B0192",
+    "seconds": 1912.83,
+    "time": "1.1 · 00:31:52.830",
+    "image": "../1.1完整讲义/板书截图/frame_0192.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0192.png",
+    "part_id": "1.1",
+    "source_id": "B0192",
+    "source_seconds": 1912.83
+  },
+  {
+    "id": "1.1_B0193",
+    "seconds": 1922.84,
+    "time": "1.1 · 00:32:02.840",
+    "image": "../1.1完整讲义/板书截图/frame_0193.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0193.png",
+    "part_id": "1.1",
+    "source_id": "B0193",
+    "source_seconds": 1922.84
+  },
+  {
+    "id": "1.1_B0194",
+    "seconds": 1932.86,
+    "time": "1.1 · 00:32:12.860",
+    "image": "../1.1完整讲义/板书截图/frame_0194.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0194.png",
+    "part_id": "1.1",
+    "source_id": "B0194",
+    "source_seconds": 1932.86
+  },
+  {
+    "id": "1.1_B0195",
+    "seconds": 1942.87,
+    "time": "1.1 · 00:32:22.870",
+    "image": "../1.1完整讲义/板书截图/frame_0195.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0195.png",
+    "part_id": "1.1",
+    "source_id": "B0195",
+    "source_seconds": 1942.87
+  },
+  {
+    "id": "1.1_B0196",
+    "seconds": 1952.89,
+    "time": "1.1 · 00:32:32.890",
+    "image": "../1.1完整讲义/板书截图/frame_0196.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0196.png",
+    "part_id": "1.1",
+    "source_id": "B0196",
+    "source_seconds": 1952.89
+  },
+  {
+    "id": "1.1_B0197",
+    "seconds": 1962.9,
+    "time": "1.1 · 00:32:42.900",
+    "image": "../1.1完整讲义/板书截图/frame_0197.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0197.png",
+    "part_id": "1.1",
+    "source_id": "B0197",
+    "source_seconds": 1962.9
+  },
+  {
+    "id": "1.1_B0198",
+    "seconds": 1972.92,
+    "time": "1.1 · 00:32:52.920",
+    "image": "../1.1完整讲义/板书截图/frame_0198.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0198.png",
+    "part_id": "1.1",
+    "source_id": "B0198",
+    "source_seconds": 1972.92
+  },
+  {
+    "id": "1.1_B0199",
+    "seconds": 1982.93,
+    "time": "1.1 · 00:33:02.930",
+    "image": "../1.1完整讲义/板书截图/frame_0199.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0199.png",
+    "part_id": "1.1",
+    "source_id": "B0199",
+    "source_seconds": 1982.93
+  },
+  {
+    "id": "1.1_B0200",
+    "seconds": 1992.95,
+    "time": "1.1 · 00:33:12.950",
+    "image": "../1.1完整讲义/板书截图/frame_0200.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0200.png",
+    "part_id": "1.1",
+    "source_id": "B0200",
+    "source_seconds": 1992.95
+  },
+  {
+    "id": "1.1_B0201",
+    "seconds": 2002.96,
+    "time": "1.1 · 00:33:22.960",
+    "image": "../1.1完整讲义/板书截图/frame_0201.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0201.png",
+    "part_id": "1.1",
+    "source_id": "B0201",
+    "source_seconds": 2002.96
+  },
+  {
+    "id": "1.1_B0202",
+    "seconds": 2012.98,
+    "time": "1.1 · 00:33:32.980",
+    "image": "../1.1完整讲义/板书截图/frame_0202.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0202.png",
+    "part_id": "1.1",
+    "source_id": "B0202",
+    "source_seconds": 2012.98
+  },
+  {
+    "id": "1.1_B0203",
+    "seconds": 2022.99,
+    "time": "1.1 · 00:33:42.990",
+    "image": "../1.1完整讲义/板书截图/frame_0203.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0203.png",
+    "part_id": "1.1",
+    "source_id": "B0203",
+    "source_seconds": 2022.99
+  },
+  {
+    "id": "1.1_B0204",
+    "seconds": 2033.01,
+    "time": "1.1 · 00:33:53.010",
+    "image": "../1.1完整讲义/板书截图/frame_0204.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0204.png",
+    "part_id": "1.1",
+    "source_id": "B0204",
+    "source_seconds": 2033.01
+  },
+  {
+    "id": "1.1_B0205",
+    "seconds": 2043.02,
+    "time": "1.1 · 00:34:03.020",
+    "image": "../1.1完整讲义/板书截图/frame_0205.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0205.png",
+    "part_id": "1.1",
+    "source_id": "B0205",
+    "source_seconds": 2043.02
+  },
+  {
+    "id": "1.1_B0206",
+    "seconds": 2053.04,
+    "time": "1.1 · 00:34:13.040",
+    "image": "../1.1完整讲义/板书截图/frame_0206.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0206.png",
+    "part_id": "1.1",
+    "source_id": "B0206",
+    "source_seconds": 2053.04
+  },
+  {
+    "id": "1.1_B0207",
+    "seconds": 2063.05,
+    "time": "1.1 · 00:34:23.050",
+    "image": "../1.1完整讲义/板书截图/frame_0207.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0207.png",
+    "part_id": "1.1",
+    "source_id": "B0207",
+    "source_seconds": 2063.05
+  },
+  {
+    "id": "1.1_B0208",
+    "seconds": 2073.07,
+    "time": "1.1 · 00:34:33.070",
+    "image": "../1.1完整讲义/板书截图/frame_0208.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0208.png",
+    "part_id": "1.1",
+    "source_id": "B0208",
+    "source_seconds": 2073.07
+  },
+  {
+    "id": "1.1_B0209",
+    "seconds": 2083.08,
+    "time": "1.1 · 00:34:43.080",
+    "image": "../1.1完整讲义/板书截图/frame_0209.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0209.png",
+    "part_id": "1.1",
+    "source_id": "B0209",
+    "source_seconds": 2083.08
+  },
+  {
+    "id": "1.1_B0210",
+    "seconds": 2093.1,
+    "time": "1.1 · 00:34:53.100",
+    "image": "../1.1完整讲义/板书截图/frame_0210.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0210.png",
+    "part_id": "1.1",
+    "source_id": "B0210",
+    "source_seconds": 2093.1
+  },
+  {
+    "id": "1.1_B0211",
+    "seconds": 2103.11,
+    "time": "1.1 · 00:35:03.110",
+    "image": "../1.1完整讲义/板书截图/frame_0211.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0211.png",
+    "part_id": "1.1",
+    "source_id": "B0211",
+    "source_seconds": 2103.11
+  },
+  {
+    "id": "1.1_B0212",
+    "seconds": 2113.13,
+    "time": "1.1 · 00:35:13.130",
+    "image": "../1.1完整讲义/板书截图/frame_0212.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0212.png",
+    "part_id": "1.1",
+    "source_id": "B0212",
+    "source_seconds": 2113.13
+  },
+  {
+    "id": "1.1_B0213",
+    "seconds": 2123.14,
+    "time": "1.1 · 00:35:23.140",
+    "image": "../1.1完整讲义/板书截图/frame_0213.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0213.png",
+    "part_id": "1.1",
+    "source_id": "B0213",
+    "source_seconds": 2123.14
+  },
+  {
+    "id": "1.1_B0214",
+    "seconds": 2133.16,
+    "time": "1.1 · 00:35:33.160",
+    "image": "../1.1完整讲义/板书截图/frame_0214.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0214.png",
+    "part_id": "1.1",
+    "source_id": "B0214",
+    "source_seconds": 2133.16
+  },
+  {
+    "id": "1.1_B0215",
+    "seconds": 2143.17,
+    "time": "1.1 · 00:35:43.170",
+    "image": "../1.1完整讲义/板书截图/frame_0215.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0215.png",
+    "part_id": "1.1",
+    "source_id": "B0215",
+    "source_seconds": 2143.17
+  },
+  {
+    "id": "1.1_B0216",
+    "seconds": 2153.18,
+    "time": "1.1 · 00:35:53.180",
+    "image": "../1.1完整讲义/板书截图/frame_0216.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0216.png",
+    "part_id": "1.1",
+    "source_id": "B0216",
+    "source_seconds": 2153.18
+  },
+  {
+    "id": "1.1_B0217",
+    "seconds": 2163.2,
+    "time": "1.1 · 00:36:03.200",
+    "image": "../1.1完整讲义/板书截图/frame_0217.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0217.png",
+    "part_id": "1.1",
+    "source_id": "B0217",
+    "source_seconds": 2163.2
+  },
+  {
+    "id": "1.1_B0218",
+    "seconds": 2173.22,
+    "time": "1.1 · 00:36:13.220",
+    "image": "../1.1完整讲义/板书截图/frame_0218.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0218.png",
+    "part_id": "1.1",
+    "source_id": "B0218",
+    "source_seconds": 2173.22
+  },
+  {
+    "id": "1.1_B0219",
+    "seconds": 2183.23,
+    "time": "1.1 · 00:36:23.230",
+    "image": "../1.1完整讲义/板书截图/frame_0219.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0219.png",
+    "part_id": "1.1",
+    "source_id": "B0219",
+    "source_seconds": 2183.23
+  },
+  {
+    "id": "1.1_B0220",
+    "seconds": 2193.24,
+    "time": "1.1 · 00:36:33.240",
+    "image": "../1.1完整讲义/板书截图/frame_0220.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0220.png",
+    "part_id": "1.1",
+    "source_id": "B0220",
+    "source_seconds": 2193.24
+  },
+  {
+    "id": "1.1_B0221",
+    "seconds": 2203.26,
+    "time": "1.1 · 00:36:43.260",
+    "image": "../1.1完整讲义/板书截图/frame_0221.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0221.png",
+    "part_id": "1.1",
+    "source_id": "B0221",
+    "source_seconds": 2203.26
+  },
+  {
+    "id": "1.1_B0222",
+    "seconds": 2213.27,
+    "time": "1.1 · 00:36:53.270",
+    "image": "../1.1完整讲义/板书截图/frame_0222.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0222.png",
+    "part_id": "1.1",
+    "source_id": "B0222",
+    "source_seconds": 2213.27
+  },
+  {
+    "id": "1.1_B0223",
+    "seconds": 2223.29,
+    "time": "1.1 · 00:37:03.290",
+    "image": "../1.1完整讲义/板书截图/frame_0223.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0223.png",
+    "part_id": "1.1",
+    "source_id": "B0223",
+    "source_seconds": 2223.29
+  },
+  {
+    "id": "1.1_B0224",
+    "seconds": 2233.3,
+    "time": "1.1 · 00:37:13.300",
+    "image": "../1.1完整讲义/板书截图/frame_0224.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0224.png",
+    "part_id": "1.1",
+    "source_id": "B0224",
+    "source_seconds": 2233.3
+  },
+  {
+    "id": "1.1_B0225",
+    "seconds": 2243.32,
+    "time": "1.1 · 00:37:23.320",
+    "image": "../1.1完整讲义/板书截图/frame_0225.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0225.png",
+    "part_id": "1.1",
+    "source_id": "B0225",
+    "source_seconds": 2243.32
+  },
+  {
+    "id": "1.1_B0226",
+    "seconds": 2253.33,
+    "time": "1.1 · 00:37:33.330",
+    "image": "../1.1完整讲义/板书截图/frame_0226.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0226.png",
+    "part_id": "1.1",
+    "source_id": "B0226",
+    "source_seconds": 2253.33
+  },
+  {
+    "id": "1.1_B0227",
+    "seconds": 2263.35,
+    "time": "1.1 · 00:37:43.350",
+    "image": "../1.1完整讲义/板书截图/frame_0227.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0227.png",
+    "part_id": "1.1",
+    "source_id": "B0227",
+    "source_seconds": 2263.35
+  },
+  {
+    "id": "1.1_B0228",
+    "seconds": 2273.36,
+    "time": "1.1 · 00:37:53.360",
+    "image": "../1.1完整讲义/板书截图/frame_0228.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0228.png",
+    "part_id": "1.1",
+    "source_id": "B0228",
+    "source_seconds": 2273.36
+  },
+  {
+    "id": "1.1_B0229",
+    "seconds": 2283.38,
+    "time": "1.1 · 00:38:03.380",
+    "image": "../1.1完整讲义/板书截图/frame_0229.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0229.png",
+    "part_id": "1.1",
+    "source_id": "B0229",
+    "source_seconds": 2283.38
+  },
+  {
+    "id": "1.1_B0230",
+    "seconds": 2293.39,
+    "time": "1.1 · 00:38:13.390",
+    "image": "../1.1完整讲义/板书截图/frame_0230.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0230.png",
+    "part_id": "1.1",
+    "source_id": "B0230",
+    "source_seconds": 2293.39
+  },
+  {
+    "id": "1.1_B0231",
+    "seconds": 2303.41,
+    "time": "1.1 · 00:38:23.410",
+    "image": "../1.1完整讲义/板书截图/frame_0231.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0231.png",
+    "part_id": "1.1",
+    "source_id": "B0231",
+    "source_seconds": 2303.41
+  },
+  {
+    "id": "1.1_B0232",
+    "seconds": 2313.42,
+    "time": "1.1 · 00:38:33.420",
+    "image": "../1.1完整讲义/板书截图/frame_0232.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0232.png",
+    "part_id": "1.1",
+    "source_id": "B0232",
+    "source_seconds": 2313.42
+  },
+  {
+    "id": "1.1_B0233",
+    "seconds": 2323.44,
+    "time": "1.1 · 00:38:43.440",
+    "image": "../1.1完整讲义/板书截图/frame_0233.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0233.png",
+    "part_id": "1.1",
+    "source_id": "B0233",
+    "source_seconds": 2323.44
+  },
+  {
+    "id": "1.1_B0234",
+    "seconds": 2333.45,
+    "time": "1.1 · 00:38:53.450",
+    "image": "../1.1完整讲义/板书截图/frame_0234.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0234.png",
+    "part_id": "1.1",
+    "source_id": "B0234",
+    "source_seconds": 2333.45
+  },
+  {
+    "id": "1.1_B0235",
+    "seconds": 2343.47,
+    "time": "1.1 · 00:39:03.470",
+    "image": "../1.1完整讲义/板书截图/frame_0235.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0235.png",
+    "part_id": "1.1",
+    "source_id": "B0235",
+    "source_seconds": 2343.47
+  },
+  {
+    "id": "1.1_B0236",
+    "seconds": 2353.48,
+    "time": "1.1 · 00:39:13.480",
+    "image": "../1.1完整讲义/板书截图/frame_0236.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0236.png",
+    "part_id": "1.1",
+    "source_id": "B0236",
+    "source_seconds": 2353.48
+  },
+  {
+    "id": "1.1_B0237",
+    "seconds": 2363.5,
+    "time": "1.1 · 00:39:23.500",
+    "image": "../1.1完整讲义/板书截图/frame_0237.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0237.png",
+    "part_id": "1.1",
+    "source_id": "B0237",
+    "source_seconds": 2363.5
+  },
+  {
+    "id": "1.1_B0238",
+    "seconds": 2373.51,
+    "time": "1.1 · 00:39:33.510",
+    "image": "../1.1完整讲义/板书截图/frame_0238.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0238.png",
+    "part_id": "1.1",
+    "source_id": "B0238",
+    "source_seconds": 2373.51
+  },
+  {
+    "id": "1.1_B0239",
+    "seconds": 2383.53,
+    "time": "1.1 · 00:39:43.530",
+    "image": "../1.1完整讲义/板书截图/frame_0239.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0239.png",
+    "part_id": "1.1",
+    "source_id": "B0239",
+    "source_seconds": 2383.53
+  },
+  {
+    "id": "1.1_B0240",
+    "seconds": 2393.54,
+    "time": "1.1 · 00:39:53.540",
+    "image": "../1.1完整讲义/板书截图/frame_0240.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0240.png",
+    "part_id": "1.1",
+    "source_id": "B0240",
+    "source_seconds": 2393.54
+  },
+  {
+    "id": "1.1_B0241",
+    "seconds": 2403.56,
+    "time": "1.1 · 00:40:03.560",
+    "image": "../1.1完整讲义/板书截图/frame_0241.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0241.png",
+    "part_id": "1.1",
+    "source_id": "B0241",
+    "source_seconds": 2403.56
+  },
+  {
+    "id": "1.1_B0242",
+    "seconds": 2413.57,
+    "time": "1.1 · 00:40:13.570",
+    "image": "../1.1完整讲义/板书截图/frame_0242.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0242.png",
+    "part_id": "1.1",
+    "source_id": "B0242",
+    "source_seconds": 2413.57
+  },
+  {
+    "id": "1.1_B0243",
+    "seconds": 2423.59,
+    "time": "1.1 · 00:40:23.590",
+    "image": "../1.1完整讲义/板书截图/frame_0243.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0243.png",
+    "part_id": "1.1",
+    "source_id": "B0243",
+    "source_seconds": 2423.59
+  },
+  {
+    "id": "1.1_B0244",
+    "seconds": 2433.6,
+    "time": "1.1 · 00:40:33.600",
+    "image": "../1.1完整讲义/板书截图/frame_0244.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0244.png",
+    "part_id": "1.1",
+    "source_id": "B0244",
+    "source_seconds": 2433.6
+  },
+  {
+    "id": "1.1_B0245",
+    "seconds": 2443.62,
+    "time": "1.1 · 00:40:43.620",
+    "image": "../1.1完整讲义/板书截图/frame_0245.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0245.png",
+    "part_id": "1.1",
+    "source_id": "B0245",
+    "source_seconds": 2443.62
+  },
+  {
+    "id": "1.1_B0246",
+    "seconds": 2453.63,
+    "time": "1.1 · 00:40:53.630",
+    "image": "../1.1完整讲义/板书截图/frame_0246.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0246.png",
+    "part_id": "1.1",
+    "source_id": "B0246",
+    "source_seconds": 2453.63
+  },
+  {
+    "id": "1.1_B0247",
+    "seconds": 2463.64,
+    "time": "1.1 · 00:41:03.640",
+    "image": "../1.1完整讲义/板书截图/frame_0247.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0247.png",
+    "part_id": "1.1",
+    "source_id": "B0247",
+    "source_seconds": 2463.64
+  },
+  {
+    "id": "1.1_B0248",
+    "seconds": 2473.66,
+    "time": "1.1 · 00:41:13.660",
+    "image": "../1.1完整讲义/板书截图/frame_0248.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0248.png",
+    "part_id": "1.1",
+    "source_id": "B0248",
+    "source_seconds": 2473.66
+  },
+  {
+    "id": "1.1_B0249",
+    "seconds": 2483.67,
+    "time": "1.1 · 00:41:23.670",
+    "image": "../1.1完整讲义/板书截图/frame_0249.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0249.png",
+    "part_id": "1.1",
+    "source_id": "B0249",
+    "source_seconds": 2483.67
+  },
+  {
+    "id": "1.1_B0250",
+    "seconds": 2493.69,
+    "time": "1.1 · 00:41:33.690",
+    "image": "../1.1完整讲义/板书截图/frame_0250.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0250.png",
+    "part_id": "1.1",
+    "source_id": "B0250",
+    "source_seconds": 2493.69
+  },
+  {
+    "id": "1.1_B0251",
+    "seconds": 2503.7,
+    "time": "1.1 · 00:41:43.700",
+    "image": "../1.1完整讲义/板书截图/frame_0251.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0251.png",
+    "part_id": "1.1",
+    "source_id": "B0251",
+    "source_seconds": 2503.7
+  },
+  {
+    "id": "1.1_B0252",
+    "seconds": 2513.72,
+    "time": "1.1 · 00:41:53.720",
+    "image": "../1.1完整讲义/板书截图/frame_0252.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0252.png",
+    "part_id": "1.1",
+    "source_id": "B0252",
+    "source_seconds": 2513.72
+  },
+  {
+    "id": "1.1_B0253",
+    "seconds": 2523.73,
+    "time": "1.1 · 00:42:03.730",
+    "image": "../1.1完整讲义/板书截图/frame_0253.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0253.png",
+    "part_id": "1.1",
+    "source_id": "B0253",
+    "source_seconds": 2523.73
+  },
+  {
+    "id": "1.1_B0254",
+    "seconds": 2533.75,
+    "time": "1.1 · 00:42:13.750",
+    "image": "../1.1完整讲义/板书截图/frame_0254.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0254.png",
+    "part_id": "1.1",
+    "source_id": "B0254",
+    "source_seconds": 2533.75
+  },
+  {
+    "id": "1.1_B0255",
+    "seconds": 2543.76,
+    "time": "1.1 · 00:42:23.760",
+    "image": "../1.1完整讲义/板书截图/frame_0255.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0255.png",
+    "part_id": "1.1",
+    "source_id": "B0255",
+    "source_seconds": 2543.76
+  },
+  {
+    "id": "1.1_B0256",
+    "seconds": 2553.78,
+    "time": "1.1 · 00:42:33.780",
+    "image": "../1.1完整讲义/板书截图/frame_0256.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0256.png",
+    "part_id": "1.1",
+    "source_id": "B0256",
+    "source_seconds": 2553.78
+  },
+  {
+    "id": "1.1_B0257",
+    "seconds": 2563.79,
+    "time": "1.1 · 00:42:43.790",
+    "image": "../1.1完整讲义/板书截图/frame_0257.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0257.png",
+    "part_id": "1.1",
+    "source_id": "B0257",
+    "source_seconds": 2563.79
+  },
+  {
+    "id": "1.1_B0258",
+    "seconds": 2573.81,
+    "time": "1.1 · 00:42:53.810",
+    "image": "../1.1完整讲义/板书截图/frame_0258.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0258.png",
+    "part_id": "1.1",
+    "source_id": "B0258",
+    "source_seconds": 2573.81
+  },
+  {
+    "id": "1.1_B0259",
+    "seconds": 2583.82,
+    "time": "1.1 · 00:43:03.820",
+    "image": "../1.1完整讲义/板书截图/frame_0259.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0259.png",
+    "part_id": "1.1",
+    "source_id": "B0259",
+    "source_seconds": 2583.82
+  },
+  {
+    "id": "1.1_B0260",
+    "seconds": 2593.84,
+    "time": "1.1 · 00:43:13.840",
+    "image": "../1.1完整讲义/板书截图/frame_0260.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0260.png",
+    "part_id": "1.1",
+    "source_id": "B0260",
+    "source_seconds": 2593.84
+  },
+  {
+    "id": "1.1_B0261",
+    "seconds": 2603.85,
+    "time": "1.1 · 00:43:23.850",
+    "image": "../1.1完整讲义/板书截图/frame_0261.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0261.png",
+    "part_id": "1.1",
+    "source_id": "B0261",
+    "source_seconds": 2603.85
+  },
+  {
+    "id": "1.1_B0262",
+    "seconds": 2613.87,
+    "time": "1.1 · 00:43:33.870",
+    "image": "../1.1完整讲义/板书截图/frame_0262.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0262.png",
+    "part_id": "1.1",
+    "source_id": "B0262",
+    "source_seconds": 2613.87
+  },
+  {
+    "id": "1.1_B0263",
+    "seconds": 2623.88,
+    "time": "1.1 · 00:43:43.880",
+    "image": "../1.1完整讲义/板书截图/frame_0263.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0263.png",
+    "part_id": "1.1",
+    "source_id": "B0263",
+    "source_seconds": 2623.88
+  },
+  {
+    "id": "1.1_B0264",
+    "seconds": 2633.9,
+    "time": "1.1 · 00:43:53.900",
+    "image": "../1.1完整讲义/板书截图/frame_0264.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0264.png",
+    "part_id": "1.1",
+    "source_id": "B0264",
+    "source_seconds": 2633.9
+  },
+  {
+    "id": "1.1_B0265",
+    "seconds": 2643.91,
+    "time": "1.1 · 00:44:03.910",
+    "image": "../1.1完整讲义/板书截图/frame_0265.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0265.png",
+    "part_id": "1.1",
+    "source_id": "B0265",
+    "source_seconds": 2643.91
+  },
+  {
+    "id": "1.1_B0266",
+    "seconds": 2653.93,
+    "time": "1.1 · 00:44:13.930",
+    "image": "../1.1完整讲义/板书截图/frame_0266.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0266.png",
+    "part_id": "1.1",
+    "source_id": "B0266",
+    "source_seconds": 2653.93
+  },
+  {
+    "id": "1.1_B0267",
+    "seconds": 2663.94,
+    "time": "1.1 · 00:44:23.940",
+    "image": "../1.1完整讲义/板书截图/frame_0267.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0267.png",
+    "part_id": "1.1",
+    "source_id": "B0267",
+    "source_seconds": 2663.94
+  },
+  {
+    "id": "1.1_B0268",
+    "seconds": 2673.95,
+    "time": "1.1 · 00:44:33.950",
+    "image": "../1.1完整讲义/板书截图/frame_0268.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0268.png",
+    "part_id": "1.1",
+    "source_id": "B0268",
+    "source_seconds": 2673.95
+  },
+  {
+    "id": "1.1_B0269",
+    "seconds": 2683.97,
+    "time": "1.1 · 00:44:43.970",
+    "image": "../1.1完整讲义/板书截图/frame_0269.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0269.png",
+    "part_id": "1.1",
+    "source_id": "B0269",
+    "source_seconds": 2683.97
+  },
+  {
+    "id": "1.1_B0270",
+    "seconds": 2693.99,
+    "time": "1.1 · 00:44:53.990",
+    "image": "../1.1完整讲义/板书截图/frame_0270.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0270.png",
+    "part_id": "1.1",
+    "source_id": "B0270",
+    "source_seconds": 2693.99
+  },
+  {
+    "id": "1.1_B0271",
+    "seconds": 2704.0,
+    "time": "1.1 · 00:45:04.000",
+    "image": "../1.1完整讲义/板书截图/frame_0271.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0271.png",
+    "part_id": "1.1",
+    "source_id": "B0271",
+    "source_seconds": 2704.0
+  },
+  {
+    "id": "1.1_B0272",
+    "seconds": 2714.02,
+    "time": "1.1 · 00:45:14.020",
+    "image": "../1.1完整讲义/板书截图/frame_0272.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0272.png",
+    "part_id": "1.1",
+    "source_id": "B0272",
+    "source_seconds": 2714.02
+  },
+  {
+    "id": "1.1_B0273",
+    "seconds": 2724.03,
+    "time": "1.1 · 00:45:24.030",
+    "image": "../1.1完整讲义/板书截图/frame_0273.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0273.png",
+    "part_id": "1.1",
+    "source_id": "B0273",
+    "source_seconds": 2724.03
+  },
+  {
+    "id": "1.1_B0274",
+    "seconds": 2734.04,
+    "time": "1.1 · 00:45:34.040",
+    "image": "../1.1完整讲义/板书截图/frame_0274.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0274.png",
+    "part_id": "1.1",
+    "source_id": "B0274",
+    "source_seconds": 2734.04
+  },
+  {
+    "id": "1.1_B0275",
+    "seconds": 2744.06,
+    "time": "1.1 · 00:45:44.060",
+    "image": "../1.1完整讲义/板书截图/frame_0275.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0275.png",
+    "part_id": "1.1",
+    "source_id": "B0275",
+    "source_seconds": 2744.06
+  },
+  {
+    "id": "1.1_B0276",
+    "seconds": 2754.07,
+    "time": "1.1 · 00:45:54.070",
+    "image": "../1.1完整讲义/板书截图/frame_0276.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0276.png",
+    "part_id": "1.1",
+    "source_id": "B0276",
+    "source_seconds": 2754.07
+  },
+  {
+    "id": "1.1_B0277",
+    "seconds": 2764.09,
+    "time": "1.1 · 00:46:04.090",
+    "image": "../1.1完整讲义/板书截图/frame_0277.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0277.png",
+    "part_id": "1.1",
+    "source_id": "B0277",
+    "source_seconds": 2764.09
+  },
+  {
+    "id": "1.1_B0278",
+    "seconds": 2774.1,
+    "time": "1.1 · 00:46:14.100",
+    "image": "../1.1完整讲义/板书截图/frame_0278.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0278.png",
+    "part_id": "1.1",
+    "source_id": "B0278",
+    "source_seconds": 2774.1
+  },
+  {
+    "id": "1.1_B0279",
+    "seconds": 2784.12,
+    "time": "1.1 · 00:46:24.120",
+    "image": "../1.1完整讲义/板书截图/frame_0279.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0279.png",
+    "part_id": "1.1",
+    "source_id": "B0279",
+    "source_seconds": 2784.12
+  },
+  {
+    "id": "1.1_B0280",
+    "seconds": 2794.13,
+    "time": "1.1 · 00:46:34.130",
+    "image": "../1.1完整讲义/板书截图/frame_0280.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0280.png",
+    "part_id": "1.1",
+    "source_id": "B0280",
+    "source_seconds": 2794.13
+  },
+  {
+    "id": "1.1_B0281",
+    "seconds": 2804.15,
+    "time": "1.1 · 00:46:44.150",
+    "image": "../1.1完整讲义/板书截图/frame_0281.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0281.png",
+    "part_id": "1.1",
+    "source_id": "B0281",
+    "source_seconds": 2804.15
+  },
+  {
+    "id": "1.1_B0282",
+    "seconds": 2814.16,
+    "time": "1.1 · 00:46:54.160",
+    "image": "../1.1完整讲义/板书截图/frame_0282.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0282.png",
+    "part_id": "1.1",
+    "source_id": "B0282",
+    "source_seconds": 2814.16
+  },
+  {
+    "id": "1.1_B0283",
+    "seconds": 2824.18,
+    "time": "1.1 · 00:47:04.180",
+    "image": "../1.1完整讲义/板书截图/frame_0283.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0283.png",
+    "part_id": "1.1",
+    "source_id": "B0283",
+    "source_seconds": 2824.18
+  },
+  {
+    "id": "1.1_B0284",
+    "seconds": 2834.19,
+    "time": "1.1 · 00:47:14.190",
+    "image": "../1.1完整讲义/板书截图/frame_0284.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0284.png",
+    "part_id": "1.1",
+    "source_id": "B0284",
+    "source_seconds": 2834.19
+  },
+  {
+    "id": "1.1_B0285",
+    "seconds": 2844.21,
+    "time": "1.1 · 00:47:24.210",
+    "image": "../1.1完整讲义/板书截图/frame_0285.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0285.png",
+    "part_id": "1.1",
+    "source_id": "B0285",
+    "source_seconds": 2844.21
+  },
+  {
+    "id": "1.1_B0286",
+    "seconds": 2854.22,
+    "time": "1.1 · 00:47:34.220",
+    "image": "../1.1完整讲义/板书截图/frame_0286.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0286.png",
+    "part_id": "1.1",
+    "source_id": "B0286",
+    "source_seconds": 2854.22
+  },
+  {
+    "id": "1.1_B0287",
+    "seconds": 2864.24,
+    "time": "1.1 · 00:47:44.240",
+    "image": "../1.1完整讲义/板书截图/frame_0287.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0287.png",
+    "part_id": "1.1",
+    "source_id": "B0287",
+    "source_seconds": 2864.24
+  },
+  {
+    "id": "1.1_B0288",
+    "seconds": 2874.25,
+    "time": "1.1 · 00:47:54.250",
+    "image": "../1.1完整讲义/板书截图/frame_0288.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0288.png",
+    "part_id": "1.1",
+    "source_id": "B0288",
+    "source_seconds": 2874.25
+  },
+  {
+    "id": "1.1_B0289",
+    "seconds": 2884.27,
+    "time": "1.1 · 00:48:04.270",
+    "image": "../1.1完整讲义/板书截图/frame_0289.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0289.png",
+    "part_id": "1.1",
+    "source_id": "B0289",
+    "source_seconds": 2884.27
+  },
+  {
+    "id": "1.1_B0290",
+    "seconds": 2894.28,
+    "time": "1.1 · 00:48:14.280",
+    "image": "../1.1完整讲义/板书截图/frame_0290.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0290.png",
+    "part_id": "1.1",
+    "source_id": "B0290",
+    "source_seconds": 2894.28
+  },
+  {
+    "id": "1.1_B0291",
+    "seconds": 2904.3,
+    "time": "1.1 · 00:48:24.300",
+    "image": "../1.1完整讲义/板书截图/frame_0291.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0291.png",
+    "part_id": "1.1",
+    "source_id": "B0291",
+    "source_seconds": 2904.3
+  },
+  {
+    "id": "1.1_B0292",
+    "seconds": 2914.31,
+    "time": "1.1 · 00:48:34.310",
+    "image": "../1.1完整讲义/板书截图/frame_0292.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0292.png",
+    "part_id": "1.1",
+    "source_id": "B0292",
+    "source_seconds": 2914.31
+  },
+  {
+    "id": "1.1_B0293",
+    "seconds": 2924.33,
+    "time": "1.1 · 00:48:44.330",
+    "image": "../1.1完整讲义/板书截图/frame_0293.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0293.png",
+    "part_id": "1.1",
+    "source_id": "B0293",
+    "source_seconds": 2924.33
+  },
+  {
+    "id": "1.1_B0294",
+    "seconds": 2934.34,
+    "time": "1.1 · 00:48:54.340",
+    "image": "../1.1完整讲义/板书截图/frame_0294.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0294.png",
+    "part_id": "1.1",
+    "source_id": "B0294",
+    "source_seconds": 2934.34
+  },
+  {
+    "id": "1.1_B0295",
+    "seconds": 2944.36,
+    "time": "1.1 · 00:49:04.360",
+    "image": "../1.1完整讲义/板书截图/frame_0295.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0295.png",
+    "part_id": "1.1",
+    "source_id": "B0295",
+    "source_seconds": 2944.36
+  },
+  {
+    "id": "1.1_B0296",
+    "seconds": 2954.37,
+    "time": "1.1 · 00:49:14.370",
+    "image": "../1.1完整讲义/板书截图/frame_0296.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0296.png",
+    "part_id": "1.1",
+    "source_id": "B0296",
+    "source_seconds": 2954.37
+  },
+  {
+    "id": "1.1_B0297",
+    "seconds": 2964.39,
+    "time": "1.1 · 00:49:24.390",
+    "image": "../1.1完整讲义/板书截图/frame_0297.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0297.png",
+    "part_id": "1.1",
+    "source_id": "B0297",
+    "source_seconds": 2964.39
+  },
+  {
+    "id": "1.1_B0298",
+    "seconds": 2974.4,
+    "time": "1.1 · 00:49:34.400",
+    "image": "../1.1完整讲义/板书截图/frame_0298.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0298.png",
+    "part_id": "1.1",
+    "source_id": "B0298",
+    "source_seconds": 2974.4
+  },
+  {
+    "id": "1.1_B0299",
+    "seconds": 2984.41,
+    "time": "1.1 · 00:49:44.410",
+    "image": "../1.1完整讲义/板书截图/frame_0299.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0299.png",
+    "part_id": "1.1",
+    "source_id": "B0299",
+    "source_seconds": 2984.41
+  },
+  {
+    "id": "1.1_B0300",
+    "seconds": 2994.43,
+    "time": "1.1 · 00:49:54.430",
+    "image": "../1.1完整讲义/板书截图/frame_0300.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0300.png",
+    "part_id": "1.1",
+    "source_id": "B0300",
+    "source_seconds": 2994.43
+  },
+  {
+    "id": "1.1_B0301",
+    "seconds": 3004.44,
+    "time": "1.1 · 00:50:04.440",
+    "image": "../1.1完整讲义/板书截图/frame_0301.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0301.png",
+    "part_id": "1.1",
+    "source_id": "B0301",
+    "source_seconds": 3004.44
+  },
+  {
+    "id": "1.1_B0302",
+    "seconds": 3014.46,
+    "time": "1.1 · 00:50:14.460",
+    "image": "../1.1完整讲义/板书截图/frame_0302.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0302.png",
+    "part_id": "1.1",
+    "source_id": "B0302",
+    "source_seconds": 3014.46
+  },
+  {
+    "id": "1.1_B0303",
+    "seconds": 3024.47,
+    "time": "1.1 · 00:50:24.470",
+    "image": "../1.1完整讲义/板书截图/frame_0303.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0303.png",
+    "part_id": "1.1",
+    "source_id": "B0303",
+    "source_seconds": 3024.47
+  },
+  {
+    "id": "1.1_B0304",
+    "seconds": 3034.49,
+    "time": "1.1 · 00:50:34.490",
+    "image": "../1.1完整讲义/板书截图/frame_0304.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0304.png",
+    "part_id": "1.1",
+    "source_id": "B0304",
+    "source_seconds": 3034.49
+  },
+  {
+    "id": "1.1_B0305",
+    "seconds": 3044.5,
+    "time": "1.1 · 00:50:44.500",
+    "image": "../1.1完整讲义/板书截图/frame_0305.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0305.png",
+    "part_id": "1.1",
+    "source_id": "B0305",
+    "source_seconds": 3044.5
+  },
+  {
+    "id": "1.1_B0306",
+    "seconds": 3054.52,
+    "time": "1.1 · 00:50:54.520",
+    "image": "../1.1完整讲义/板书截图/frame_0306.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0306.png",
+    "part_id": "1.1",
+    "source_id": "B0306",
+    "source_seconds": 3054.52
+  },
+  {
+    "id": "1.1_B0307",
+    "seconds": 3064.53,
+    "time": "1.1 · 00:51:04.530",
+    "image": "../1.1完整讲义/板书截图/frame_0307.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0307.png",
+    "part_id": "1.1",
+    "source_id": "B0307",
+    "source_seconds": 3064.53
+  },
+  {
+    "id": "1.1_B0308",
+    "seconds": 3074.55,
+    "time": "1.1 · 00:51:14.550",
+    "image": "../1.1完整讲义/板书截图/frame_0308.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0308.png",
+    "part_id": "1.1",
+    "source_id": "B0308",
+    "source_seconds": 3074.55
+  },
+  {
+    "id": "1.1_B0309",
+    "seconds": 3084.56,
+    "time": "1.1 · 00:51:24.560",
+    "image": "../1.1完整讲义/板书截图/frame_0309.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0309.png",
+    "part_id": "1.1",
+    "source_id": "B0309",
+    "source_seconds": 3084.56
+  },
+  {
+    "id": "1.1_B0310",
+    "seconds": 3094.58,
+    "time": "1.1 · 00:51:34.580",
+    "image": "../1.1完整讲义/板书截图/frame_0310.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0310.png",
+    "part_id": "1.1",
+    "source_id": "B0310",
+    "source_seconds": 3094.58
+  },
+  {
+    "id": "1.1_B0311",
+    "seconds": 3104.59,
+    "time": "1.1 · 00:51:44.590",
+    "image": "../1.1完整讲义/板书截图/frame_0311.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0311.png",
+    "part_id": "1.1",
+    "source_id": "B0311",
+    "source_seconds": 3104.59
+  },
+  {
+    "id": "1.1_B0312",
+    "seconds": 3114.61,
+    "time": "1.1 · 00:51:54.610",
+    "image": "../1.1完整讲义/板书截图/frame_0312.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0312.png",
+    "part_id": "1.1",
+    "source_id": "B0312",
+    "source_seconds": 3114.61
+  },
+  {
+    "id": "1.1_B0313",
+    "seconds": 3124.62,
+    "time": "1.1 · 00:52:04.620",
+    "image": "../1.1完整讲义/板书截图/frame_0313.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0313.png",
+    "part_id": "1.1",
+    "source_id": "B0313",
+    "source_seconds": 3124.62
+  },
+  {
+    "id": "1.1_B0314",
+    "seconds": 3134.64,
+    "time": "1.1 · 00:52:14.640",
+    "image": "../1.1完整讲义/板书截图/frame_0314.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0314.png",
+    "part_id": "1.1",
+    "source_id": "B0314",
+    "source_seconds": 3134.64
+  },
+  {
+    "id": "1.1_B0315",
+    "seconds": 3144.65,
+    "time": "1.1 · 00:52:24.650",
+    "image": "../1.1完整讲义/板书截图/frame_0315.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0315.png",
+    "part_id": "1.1",
+    "source_id": "B0315",
+    "source_seconds": 3144.65
+  },
+  {
+    "id": "1.1_B0316",
+    "seconds": 3154.67,
+    "time": "1.1 · 00:52:34.670",
+    "image": "../1.1完整讲义/板书截图/frame_0316.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0316.png",
+    "part_id": "1.1",
+    "source_id": "B0316",
+    "source_seconds": 3154.67
+  },
+  {
+    "id": "1.1_B0317",
+    "seconds": 3164.68,
+    "time": "1.1 · 00:52:44.680",
+    "image": "../1.1完整讲义/板书截图/frame_0317.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0317.png",
+    "part_id": "1.1",
+    "source_id": "B0317",
+    "source_seconds": 3164.68
+  },
+  {
+    "id": "1.1_B0318",
+    "seconds": 3174.7,
+    "time": "1.1 · 00:52:54.700",
+    "image": "../1.1完整讲义/板书截图/frame_0318.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0318.png",
+    "part_id": "1.1",
+    "source_id": "B0318",
+    "source_seconds": 3174.7
+  },
+  {
+    "id": "1.1_B0319",
+    "seconds": 3184.71,
+    "time": "1.1 · 00:53:04.710",
+    "image": "../1.1完整讲义/板书截图/frame_0319.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0319.png",
+    "part_id": "1.1",
+    "source_id": "B0319",
+    "source_seconds": 3184.71
+  },
+  {
+    "id": "1.1_B0320",
+    "seconds": 3194.73,
+    "time": "1.1 · 00:53:14.730",
+    "image": "../1.1完整讲义/板书截图/frame_0320.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0320.png",
+    "part_id": "1.1",
+    "source_id": "B0320",
+    "source_seconds": 3194.73
+  },
+  {
+    "id": "1.1_B0321",
+    "seconds": 3204.74,
+    "time": "1.1 · 00:53:24.740",
+    "image": "../1.1完整讲义/板书截图/frame_0321.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0321.png",
+    "part_id": "1.1",
+    "source_id": "B0321",
+    "source_seconds": 3204.74
+  },
+  {
+    "id": "1.1_B0322",
+    "seconds": 3214.76,
+    "time": "1.1 · 00:53:34.760",
+    "image": "../1.1完整讲义/板书截图/frame_0322.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0322.png",
+    "part_id": "1.1",
+    "source_id": "B0322",
+    "source_seconds": 3214.76
+  },
+  {
+    "id": "1.1_B0323",
+    "seconds": 3224.77,
+    "time": "1.1 · 00:53:44.770",
+    "image": "../1.1完整讲义/板书截图/frame_0323.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0323.png",
+    "part_id": "1.1",
+    "source_id": "B0323",
+    "source_seconds": 3224.77
+  },
+  {
+    "id": "1.1_B0324",
+    "seconds": 3234.79,
+    "time": "1.1 · 00:53:54.790",
+    "image": "../1.1完整讲义/板书截图/frame_0324.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0324.png",
+    "part_id": "1.1",
+    "source_id": "B0324",
+    "source_seconds": 3234.79
+  },
+  {
+    "id": "1.1_B0325",
+    "seconds": 3244.8,
+    "time": "1.1 · 00:54:04.800",
+    "image": "../1.1完整讲义/板书截图/frame_0325.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0325.png",
+    "part_id": "1.1",
+    "source_id": "B0325",
+    "source_seconds": 3244.8
+  },
+  {
+    "id": "1.1_B0326",
+    "seconds": 3254.82,
+    "time": "1.1 · 00:54:14.820",
+    "image": "../1.1完整讲义/板书截图/frame_0326.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0326.png",
+    "part_id": "1.1",
+    "source_id": "B0326",
+    "source_seconds": 3254.82
+  },
+  {
+    "id": "1.1_B0327",
+    "seconds": 3264.83,
+    "time": "1.1 · 00:54:24.830",
+    "image": "../1.1完整讲义/板书截图/frame_0327.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0327.png",
+    "part_id": "1.1",
+    "source_id": "B0327",
+    "source_seconds": 3264.83
+  },
+  {
+    "id": "1.1_B0328",
+    "seconds": 3274.84,
+    "time": "1.1 · 00:54:34.840",
+    "image": "../1.1完整讲义/板书截图/frame_0328.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0328.png",
+    "part_id": "1.1",
+    "source_id": "B0328",
+    "source_seconds": 3274.84
+  },
+  {
+    "id": "1.1_B0329",
+    "seconds": 3284.86,
+    "time": "1.1 · 00:54:44.860",
+    "image": "../1.1完整讲义/板书截图/frame_0329.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0329.png",
+    "part_id": "1.1",
+    "source_id": "B0329",
+    "source_seconds": 3284.86
+  },
+  {
+    "id": "1.1_B0330",
+    "seconds": 3294.87,
+    "time": "1.1 · 00:54:54.870",
+    "image": "../1.1完整讲义/板书截图/frame_0330.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0330.png",
+    "part_id": "1.1",
+    "source_id": "B0330",
+    "source_seconds": 3294.87
+  },
+  {
+    "id": "1.1_B0331",
+    "seconds": 3304.89,
+    "time": "1.1 · 00:55:04.890",
+    "image": "../1.1完整讲义/板书截图/frame_0331.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0331.png",
+    "part_id": "1.1",
+    "source_id": "B0331",
+    "source_seconds": 3304.89
+  },
+  {
+    "id": "1.1_B0332",
+    "seconds": 3314.9,
+    "time": "1.1 · 00:55:14.900",
+    "image": "../1.1完整讲义/板书截图/frame_0332.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0332.png",
+    "part_id": "1.1",
+    "source_id": "B0332",
+    "source_seconds": 3314.9
+  },
+  {
+    "id": "1.1_B0333",
+    "seconds": 3324.92,
+    "time": "1.1 · 00:55:24.920",
+    "image": "../1.1完整讲义/板书截图/frame_0333.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0333.png",
+    "part_id": "1.1",
+    "source_id": "B0333",
+    "source_seconds": 3324.92
+  },
+  {
+    "id": "1.1_B0334",
+    "seconds": 3334.93,
+    "time": "1.1 · 00:55:34.930",
+    "image": "../1.1完整讲义/板书截图/frame_0334.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0334.png",
+    "part_id": "1.1",
+    "source_id": "B0334",
+    "source_seconds": 3334.93
+  },
+  {
+    "id": "1.1_B0335",
+    "seconds": 3344.95,
+    "time": "1.1 · 00:55:44.950",
+    "image": "../1.1完整讲义/板书截图/frame_0335.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0335.png",
+    "part_id": "1.1",
+    "source_id": "B0335",
+    "source_seconds": 3344.95
+  },
+  {
+    "id": "1.1_B0336",
+    "seconds": 3354.96,
+    "time": "1.1 · 00:55:54.960",
+    "image": "../1.1完整讲义/板书截图/frame_0336.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0336.png",
+    "part_id": "1.1",
+    "source_id": "B0336",
+    "source_seconds": 3354.96
+  },
+  {
+    "id": "1.1_B0337",
+    "seconds": 3364.98,
+    "time": "1.1 · 00:56:04.980",
+    "image": "../1.1完整讲义/板书截图/frame_0337.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0337.png",
+    "part_id": "1.1",
+    "source_id": "B0337",
+    "source_seconds": 3364.98
+  },
+  {
+    "id": "1.1_B0338",
+    "seconds": 3374.99,
+    "time": "1.1 · 00:56:14.990",
+    "image": "../1.1完整讲义/板书截图/frame_0338.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0338.png",
+    "part_id": "1.1",
+    "source_id": "B0338",
+    "source_seconds": 3374.99
+  },
+  {
+    "id": "1.1_B0339",
+    "seconds": 3385.01,
+    "time": "1.1 · 00:56:25.010",
+    "image": "../1.1完整讲义/板书截图/frame_0339.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0339.png",
+    "part_id": "1.1",
+    "source_id": "B0339",
+    "source_seconds": 3385.01
+  },
+  {
+    "id": "1.1_B0340",
+    "seconds": 3395.02,
+    "time": "1.1 · 00:56:35.020",
+    "image": "../1.1完整讲义/板书截图/frame_0340.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0340.png",
+    "part_id": "1.1",
+    "source_id": "B0340",
+    "source_seconds": 3395.02
+  },
+  {
+    "id": "1.1_B0341",
+    "seconds": 3405.04,
+    "time": "1.1 · 00:56:45.040",
+    "image": "../1.1完整讲义/板书截图/frame_0341.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0341.png",
+    "part_id": "1.1",
+    "source_id": "B0341",
+    "source_seconds": 3405.04
+  },
+  {
+    "id": "1.1_B0342",
+    "seconds": 3415.05,
+    "time": "1.1 · 00:56:55.050",
+    "image": "../1.1完整讲义/板书截图/frame_0342.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0342.png",
+    "part_id": "1.1",
+    "source_id": "B0342",
+    "source_seconds": 3415.05
+  },
+  {
+    "id": "1.1_B0343",
+    "seconds": 3425.07,
+    "time": "1.1 · 00:57:05.070",
+    "image": "../1.1完整讲义/板书截图/frame_0343.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0343.png",
+    "part_id": "1.1",
+    "source_id": "B0343",
+    "source_seconds": 3425.07
+  },
+  {
+    "id": "1.1_B0344",
+    "seconds": 3435.08,
+    "time": "1.1 · 00:57:15.080",
+    "image": "../1.1完整讲义/板书截图/frame_0344.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0344.png",
+    "part_id": "1.1",
+    "source_id": "B0344",
+    "source_seconds": 3435.08
+  },
+  {
+    "id": "1.1_B0345",
+    "seconds": 3445.1,
+    "time": "1.1 · 00:57:25.100",
+    "image": "../1.1完整讲义/板书截图/frame_0345.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0345.png",
+    "part_id": "1.1",
+    "source_id": "B0345",
+    "source_seconds": 3445.1
+  },
+  {
+    "id": "1.1_B0346",
+    "seconds": 3455.11,
+    "time": "1.1 · 00:57:35.110",
+    "image": "../1.1完整讲义/板书截图/frame_0346.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0346.png",
+    "part_id": "1.1",
+    "source_id": "B0346",
+    "source_seconds": 3455.11
+  },
+  {
+    "id": "1.1_B0347",
+    "seconds": 3465.13,
+    "time": "1.1 · 00:57:45.130",
+    "image": "../1.1完整讲义/板书截图/frame_0347.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0347.png",
+    "part_id": "1.1",
+    "source_id": "B0347",
+    "source_seconds": 3465.13
+  },
+  {
+    "id": "1.1_B0348",
+    "seconds": 3475.14,
+    "time": "1.1 · 00:57:55.140",
+    "image": "../1.1完整讲义/板书截图/frame_0348.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0348.png",
+    "part_id": "1.1",
+    "source_id": "B0348",
+    "source_seconds": 3475.14
+  },
+  {
+    "id": "1.1_B0349",
+    "seconds": 3485.16,
+    "time": "1.1 · 00:58:05.160",
+    "image": "../1.1完整讲义/板书截图/frame_0349.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0349.png",
+    "part_id": "1.1",
+    "source_id": "B0349",
+    "source_seconds": 3485.16
+  },
+  {
+    "id": "1.1_B0350",
+    "seconds": 3495.17,
+    "time": "1.1 · 00:58:15.170",
+    "image": "../1.1完整讲义/板书截图/frame_0350.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0350.png",
+    "part_id": "1.1",
+    "source_id": "B0350",
+    "source_seconds": 3495.17
+  },
+  {
+    "id": "1.1_B0351",
+    "seconds": 3505.18,
+    "time": "1.1 · 00:58:25.180",
+    "image": "../1.1完整讲义/板书截图/frame_0351.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0351.png",
+    "part_id": "1.1",
+    "source_id": "B0351",
+    "source_seconds": 3505.18
+  },
+  {
+    "id": "1.1_B0352",
+    "seconds": 3515.2,
+    "time": "1.1 · 00:58:35.200",
+    "image": "../1.1完整讲义/板书截图/frame_0352.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0352.png",
+    "part_id": "1.1",
+    "source_id": "B0352",
+    "source_seconds": 3515.2
+  },
+  {
+    "id": "1.1_B0353",
+    "seconds": 3525.22,
+    "time": "1.1 · 00:58:45.220",
+    "image": "../1.1完整讲义/板书截图/frame_0353.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0353.png",
+    "part_id": "1.1",
+    "source_id": "B0353",
+    "source_seconds": 3525.22
+  },
+  {
+    "id": "1.1_B0354",
+    "seconds": 3535.23,
+    "time": "1.1 · 00:58:55.230",
+    "image": "../1.1完整讲义/板书截图/frame_0354.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0354.png",
+    "part_id": "1.1",
+    "source_id": "B0354",
+    "source_seconds": 3535.23
+  },
+  {
+    "id": "1.1_B0355",
+    "seconds": 3545.24,
+    "time": "1.1 · 00:59:05.240",
+    "image": "../1.1完整讲义/板书截图/frame_0355.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0355.png",
+    "part_id": "1.1",
+    "source_id": "B0355",
+    "source_seconds": 3545.24
+  },
+  {
+    "id": "1.1_B0356",
+    "seconds": 3555.26,
+    "time": "1.1 · 00:59:15.260",
+    "image": "../1.1完整讲义/板书截图/frame_0356.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0356.png",
+    "part_id": "1.1",
+    "source_id": "B0356",
+    "source_seconds": 3555.26
+  },
+  {
+    "id": "1.1_B0357",
+    "seconds": 3565.27,
+    "time": "1.1 · 00:59:25.270",
+    "image": "../1.1完整讲义/板书截图/frame_0357.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0357.png",
+    "part_id": "1.1",
+    "source_id": "B0357",
+    "source_seconds": 3565.27
+  },
+  {
+    "id": "1.1_B0358",
+    "seconds": 3575.29,
+    "time": "1.1 · 00:59:35.290",
+    "image": "../1.1完整讲义/板书截图/frame_0358.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0358.png",
+    "part_id": "1.1",
+    "source_id": "B0358",
+    "source_seconds": 3575.29
+  },
+  {
+    "id": "1.1_B0359",
+    "seconds": 3585.3,
+    "time": "1.1 · 00:59:45.300",
+    "image": "../1.1完整讲义/板书截图/frame_0359.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0359.png",
+    "part_id": "1.1",
+    "source_id": "B0359",
+    "source_seconds": 3585.3
+  },
+  {
+    "id": "1.1_B0360",
+    "seconds": 3595.32,
+    "time": "1.1 · 00:59:55.320",
+    "image": "../1.1完整讲义/板书截图/frame_0360.jpg",
+    "board_image": "../1.1完整讲义/板书裁剪/B0360.png",
+    "part_id": "1.1",
+    "source_id": "B0360",
+    "source_seconds": 3595.32
+  },
+  {
+    "id": "1.2_B0001",
+    "seconds": 3600.0,
+    "time": "1.2 · 00:00:00.000",
+    "image": "../1.2完整讲义/板书截图/frame_0001.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0001.png",
+    "part_id": "1.2",
+    "source_id": "B0001",
+    "source_seconds": 0.0
+  },
+  {
+    "id": "1.2_B0002",
+    "seconds": 3610.015,
+    "time": "1.2 · 00:00:10.015",
+    "image": "../1.2完整讲义/板书截图/frame_0002.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0002.png",
+    "part_id": "1.2",
+    "source_id": "B0002",
+    "source_seconds": 10.015
+  },
+  {
+    "id": "1.2_B0003",
+    "seconds": 3620.03,
+    "time": "1.2 · 00:00:20.030",
+    "image": "../1.2完整讲义/板书截图/frame_0003.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0003.png",
+    "part_id": "1.2",
+    "source_id": "B0003",
+    "source_seconds": 20.03
+  },
+  {
+    "id": "1.2_B0004",
+    "seconds": 3630.045,
+    "time": "1.2 · 00:00:30.045",
+    "image": "../1.2完整讲义/板书截图/frame_0004.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0004.png",
+    "part_id": "1.2",
+    "source_id": "B0004",
+    "source_seconds": 30.045
+  },
+  {
+    "id": "1.2_B0005",
+    "seconds": 3640.059,
+    "time": "1.2 · 00:00:40.059",
+    "image": "../1.2完整讲义/板书截图/frame_0005.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0005.png",
+    "part_id": "1.2",
+    "source_id": "B0005",
+    "source_seconds": 40.059
+  },
+  {
+    "id": "1.2_B0006",
+    "seconds": 3650.074,
+    "time": "1.2 · 00:00:50.074",
+    "image": "../1.2完整讲义/板书截图/frame_0006.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0006.png",
+    "part_id": "1.2",
+    "source_id": "B0006",
+    "source_seconds": 50.074
+  },
+  {
+    "id": "1.2_B0007",
+    "seconds": 3660.089,
+    "time": "1.2 · 00:01:00.089",
+    "image": "../1.2完整讲义/板书截图/frame_0007.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0007.png",
+    "part_id": "1.2",
+    "source_id": "B0007",
+    "source_seconds": 60.089
+  },
+  {
+    "id": "1.2_B0008",
+    "seconds": 3670.104,
+    "time": "1.2 · 00:01:10.104",
+    "image": "../1.2完整讲义/板书截图/frame_0008.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0008.png",
+    "part_id": "1.2",
+    "source_id": "B0008",
+    "source_seconds": 70.104
+  },
+  {
+    "id": "1.2_B0009",
+    "seconds": 3680.119,
+    "time": "1.2 · 00:01:20.119",
+    "image": "../1.2完整讲义/板书截图/frame_0009.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0009.png",
+    "part_id": "1.2",
+    "source_id": "B0009",
+    "source_seconds": 80.119
+  },
+  {
+    "id": "1.2_B0010",
+    "seconds": 3690.133,
+    "time": "1.2 · 00:01:30.133",
+    "image": "../1.2完整讲义/板书截图/frame_0010.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0010.png",
+    "part_id": "1.2",
+    "source_id": "B0010",
+    "source_seconds": 90.133
+  },
+  {
+    "id": "1.2_B0011",
+    "seconds": 3700.148,
+    "time": "1.2 · 00:01:40.148",
+    "image": "../1.2完整讲义/板书截图/frame_0011.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0011.png",
+    "part_id": "1.2",
+    "source_id": "B0011",
+    "source_seconds": 100.148
+  },
+  {
+    "id": "1.2_B0012",
+    "seconds": 3710.163,
+    "time": "1.2 · 00:01:50.163",
+    "image": "../1.2完整讲义/板书截图/frame_0012.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0012.png",
+    "part_id": "1.2",
+    "source_id": "B0012",
+    "source_seconds": 110.163
+  },
+  {
+    "id": "1.2_B0013",
+    "seconds": 3720.178,
+    "time": "1.2 · 00:02:00.178",
+    "image": "../1.2完整讲义/板书截图/frame_0013.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0013.png",
+    "part_id": "1.2",
+    "source_id": "B0013",
+    "source_seconds": 120.178
+  },
+  {
+    "id": "1.2_B0014",
+    "seconds": 3730.193,
+    "time": "1.2 · 00:02:10.193",
+    "image": "../1.2完整讲义/板书截图/frame_0014.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0014.png",
+    "part_id": "1.2",
+    "source_id": "B0014",
+    "source_seconds": 130.193
+  },
+  {
+    "id": "1.2_B0015",
+    "seconds": 3740.207,
+    "time": "1.2 · 00:02:20.207",
+    "image": "../1.2完整讲义/板书截图/frame_0015.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0015.png",
+    "part_id": "1.2",
+    "source_id": "B0015",
+    "source_seconds": 140.207
+  },
+  {
+    "id": "1.2_B0016",
+    "seconds": 3750.222,
+    "time": "1.2 · 00:02:30.222",
+    "image": "../1.2完整讲义/板书截图/frame_0016.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0016.png",
+    "part_id": "1.2",
+    "source_id": "B0016",
+    "source_seconds": 150.222
+  },
+  {
+    "id": "1.2_B0017",
+    "seconds": 3760.237,
+    "time": "1.2 · 00:02:40.237",
+    "image": "../1.2完整讲义/板书截图/frame_0017.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0017.png",
+    "part_id": "1.2",
+    "source_id": "B0017",
+    "source_seconds": 160.237
+  },
+  {
+    "id": "1.2_B0018",
+    "seconds": 3770.252,
+    "time": "1.2 · 00:02:50.252",
+    "image": "../1.2完整讲义/板书截图/frame_0018.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0018.png",
+    "part_id": "1.2",
+    "source_id": "B0018",
+    "source_seconds": 170.252
+  },
+  {
+    "id": "1.2_B0019",
+    "seconds": 3780.267,
+    "time": "1.2 · 00:03:00.267",
+    "image": "../1.2完整讲义/板书截图/frame_0019.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0019.png",
+    "part_id": "1.2",
+    "source_id": "B0019",
+    "source_seconds": 180.267
+  },
+  {
+    "id": "1.2_B0020",
+    "seconds": 3790.282,
+    "time": "1.2 · 00:03:10.282",
+    "image": "../1.2完整讲义/板书截图/frame_0020.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0020.png",
+    "part_id": "1.2",
+    "source_id": "B0020",
+    "source_seconds": 190.282
+  },
+  {
+    "id": "1.2_B0021",
+    "seconds": 3800.296,
+    "time": "1.2 · 00:03:20.296",
+    "image": "../1.2完整讲义/板书截图/frame_0021.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0021.png",
+    "part_id": "1.2",
+    "source_id": "B0021",
+    "source_seconds": 200.296
+  },
+  {
+    "id": "1.2_B0022",
+    "seconds": 3810.311,
+    "time": "1.2 · 00:03:30.311",
+    "image": "../1.2完整讲义/板书截图/frame_0022.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0022.png",
+    "part_id": "1.2",
+    "source_id": "B0022",
+    "source_seconds": 210.311
+  },
+  {
+    "id": "1.2_B0023",
+    "seconds": 3820.326,
+    "time": "1.2 · 00:03:40.326",
+    "image": "../1.2完整讲义/板书截图/frame_0023.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0023.png",
+    "part_id": "1.2",
+    "source_id": "B0023",
+    "source_seconds": 220.326
+  },
+  {
+    "id": "1.2_B0024",
+    "seconds": 3830.341,
+    "time": "1.2 · 00:03:50.341",
+    "image": "../1.2完整讲义/板书截图/frame_0024.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0024.png",
+    "part_id": "1.2",
+    "source_id": "B0024",
+    "source_seconds": 230.341
+  },
+  {
+    "id": "1.2_B0025",
+    "seconds": 3840.3559999999998,
+    "time": "1.2 · 00:04:00.356",
+    "image": "../1.2完整讲义/板书截图/frame_0025.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0025.png",
+    "part_id": "1.2",
+    "source_id": "B0025",
+    "source_seconds": 240.356
+  },
+  {
+    "id": "1.2_B0026",
+    "seconds": 3850.37,
+    "time": "1.2 · 00:04:10.370",
+    "image": "../1.2完整讲义/板书截图/frame_0026.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0026.png",
+    "part_id": "1.2",
+    "source_id": "B0026",
+    "source_seconds": 250.37
+  },
+  {
+    "id": "1.2_B0027",
+    "seconds": 3860.385,
+    "time": "1.2 · 00:04:20.385",
+    "image": "../1.2完整讲义/板书截图/frame_0027.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0027.png",
+    "part_id": "1.2",
+    "source_id": "B0027",
+    "source_seconds": 260.385
+  },
+  {
+    "id": "1.2_B0028",
+    "seconds": 3870.4,
+    "time": "1.2 · 00:04:30.400",
+    "image": "../1.2完整讲义/板书截图/frame_0028.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0028.png",
+    "part_id": "1.2",
+    "source_id": "B0028",
+    "source_seconds": 270.4
+  },
+  {
+    "id": "1.2_B0029",
+    "seconds": 3880.415,
+    "time": "1.2 · 00:04:40.415",
+    "image": "../1.2完整讲义/板书截图/frame_0029.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0029.png",
+    "part_id": "1.2",
+    "source_id": "B0029",
+    "source_seconds": 280.415
+  },
+  {
+    "id": "1.2_B0030",
+    "seconds": 3890.43,
+    "time": "1.2 · 00:04:50.430",
+    "image": "../1.2完整讲义/板书截图/frame_0030.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0030.png",
+    "part_id": "1.2",
+    "source_id": "B0030",
+    "source_seconds": 290.43
+  },
+  {
+    "id": "1.2_B0031",
+    "seconds": 3900.445,
+    "time": "1.2 · 00:05:00.445",
+    "image": "../1.2完整讲义/板书截图/frame_0031.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0031.png",
+    "part_id": "1.2",
+    "source_id": "B0031",
+    "source_seconds": 300.445
+  },
+  {
+    "id": "1.2_B0032",
+    "seconds": 3910.459,
+    "time": "1.2 · 00:05:10.459",
+    "image": "../1.2完整讲义/板书截图/frame_0032.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0032.png",
+    "part_id": "1.2",
+    "source_id": "B0032",
+    "source_seconds": 310.459
+  },
+  {
+    "id": "1.2_B0033",
+    "seconds": 3920.474,
+    "time": "1.2 · 00:05:20.474",
+    "image": "../1.2完整讲义/板书截图/frame_0033.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0033.png",
+    "part_id": "1.2",
+    "source_id": "B0033",
+    "source_seconds": 320.474
+  },
+  {
+    "id": "1.2_B0034",
+    "seconds": 3930.489,
+    "time": "1.2 · 00:05:30.489",
+    "image": "../1.2完整讲义/板书截图/frame_0034.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0034.png",
+    "part_id": "1.2",
+    "source_id": "B0034",
+    "source_seconds": 330.489
+  },
+  {
+    "id": "1.2_B0035",
+    "seconds": 3940.504,
+    "time": "1.2 · 00:05:40.504",
+    "image": "../1.2完整讲义/板书截图/frame_0035.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0035.png",
+    "part_id": "1.2",
+    "source_id": "B0035",
+    "source_seconds": 340.504
+  },
+  {
+    "id": "1.2_B0036",
+    "seconds": 3950.5190000000002,
+    "time": "1.2 · 00:05:50.519",
+    "image": "../1.2完整讲义/板书截图/frame_0036.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0036.png",
+    "part_id": "1.2",
+    "source_id": "B0036",
+    "source_seconds": 350.519
+  },
+  {
+    "id": "1.2_B0037",
+    "seconds": 3960.533,
+    "time": "1.2 · 00:06:00.533",
+    "image": "../1.2完整讲义/板书截图/frame_0037.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0037.png",
+    "part_id": "1.2",
+    "source_id": "B0037",
+    "source_seconds": 360.533
+  },
+  {
+    "id": "1.2_B0038",
+    "seconds": 3970.548,
+    "time": "1.2 · 00:06:10.548",
+    "image": "../1.2完整讲义/板书截图/frame_0038.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0038.png",
+    "part_id": "1.2",
+    "source_id": "B0038",
+    "source_seconds": 370.548
+  },
+  {
+    "id": "1.2_B0039",
+    "seconds": 3980.563,
+    "time": "1.2 · 00:06:20.563",
+    "image": "../1.2完整讲义/板书截图/frame_0039.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0039.png",
+    "part_id": "1.2",
+    "source_id": "B0039",
+    "source_seconds": 380.563
+  },
+  {
+    "id": "1.2_B0040",
+    "seconds": 3990.578,
+    "time": "1.2 · 00:06:30.578",
+    "image": "../1.2完整讲义/板书截图/frame_0040.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0040.png",
+    "part_id": "1.2",
+    "source_id": "B0040",
+    "source_seconds": 390.578
+  },
+  {
+    "id": "1.2_B0041",
+    "seconds": 4000.593,
+    "time": "1.2 · 00:06:40.593",
+    "image": "../1.2完整讲义/板书截图/frame_0041.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0041.png",
+    "part_id": "1.2",
+    "source_id": "B0041",
+    "source_seconds": 400.593
+  },
+  {
+    "id": "1.2_B0042",
+    "seconds": 4010.607,
+    "time": "1.2 · 00:06:50.607",
+    "image": "../1.2完整讲义/板书截图/frame_0042.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0042.png",
+    "part_id": "1.2",
+    "source_id": "B0042",
+    "source_seconds": 410.607
+  },
+  {
+    "id": "1.2_B0043",
+    "seconds": 4020.622,
+    "time": "1.2 · 00:07:00.622",
+    "image": "../1.2完整讲义/板书截图/frame_0043.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0043.png",
+    "part_id": "1.2",
+    "source_id": "B0043",
+    "source_seconds": 420.622
+  },
+  {
+    "id": "1.2_B0044",
+    "seconds": 4030.637,
+    "time": "1.2 · 00:07:10.637",
+    "image": "../1.2完整讲义/板书截图/frame_0044.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0044.png",
+    "part_id": "1.2",
+    "source_id": "B0044",
+    "source_seconds": 430.637
+  },
+  {
+    "id": "1.2_B0045",
+    "seconds": 4040.652,
+    "time": "1.2 · 00:07:20.652",
+    "image": "../1.2完整讲义/板书截图/frame_0045.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0045.png",
+    "part_id": "1.2",
+    "source_id": "B0045",
+    "source_seconds": 440.652
+  },
+  {
+    "id": "1.2_B0046",
+    "seconds": 4050.667,
+    "time": "1.2 · 00:07:30.667",
+    "image": "../1.2完整讲义/板书截图/frame_0046.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0046.png",
+    "part_id": "1.2",
+    "source_id": "B0046",
+    "source_seconds": 450.667
+  },
+  {
+    "id": "1.2_B0047",
+    "seconds": 4060.682,
+    "time": "1.2 · 00:07:40.682",
+    "image": "../1.2完整讲义/板书截图/frame_0047.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0047.png",
+    "part_id": "1.2",
+    "source_id": "B0047",
+    "source_seconds": 460.682
+  },
+  {
+    "id": "1.2_B0048",
+    "seconds": 4070.696,
+    "time": "1.2 · 00:07:50.696",
+    "image": "../1.2完整讲义/板书截图/frame_0048.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0048.png",
+    "part_id": "1.2",
+    "source_id": "B0048",
+    "source_seconds": 470.696
+  },
+  {
+    "id": "1.2_B0049",
+    "seconds": 4080.7110000000002,
+    "time": "1.2 · 00:08:00.711",
+    "image": "../1.2完整讲义/板书截图/frame_0049.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0049.png",
+    "part_id": "1.2",
+    "source_id": "B0049",
+    "source_seconds": 480.711
+  },
+  {
+    "id": "1.2_B0050",
+    "seconds": 4090.726,
+    "time": "1.2 · 00:08:10.726",
+    "image": "../1.2完整讲义/板书截图/frame_0050.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0050.png",
+    "part_id": "1.2",
+    "source_id": "B0050",
+    "source_seconds": 490.726
+  },
+  {
+    "id": "1.2_B0051",
+    "seconds": 4100.741,
+    "time": "1.2 · 00:08:20.741",
+    "image": "../1.2完整讲义/板书截图/frame_0051.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0051.png",
+    "part_id": "1.2",
+    "source_id": "B0051",
+    "source_seconds": 500.741
+  },
+  {
+    "id": "1.2_B0052",
+    "seconds": 4110.756,
+    "time": "1.2 · 00:08:30.756",
+    "image": "../1.2完整讲义/板书截图/frame_0052.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0052.png",
+    "part_id": "1.2",
+    "source_id": "B0052",
+    "source_seconds": 510.756
+  },
+  {
+    "id": "1.2_B0053",
+    "seconds": 4120.77,
+    "time": "1.2 · 00:08:40.770",
+    "image": "../1.2完整讲义/板书截图/frame_0053.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0053.png",
+    "part_id": "1.2",
+    "source_id": "B0053",
+    "source_seconds": 520.77
+  },
+  {
+    "id": "1.2_B0054",
+    "seconds": 4130.785,
+    "time": "1.2 · 00:08:50.785",
+    "image": "../1.2完整讲义/板书截图/frame_0054.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0054.png",
+    "part_id": "1.2",
+    "source_id": "B0054",
+    "source_seconds": 530.785
+  },
+  {
+    "id": "1.2_B0055",
+    "seconds": 4140.8,
+    "time": "1.2 · 00:09:00.800",
+    "image": "../1.2完整讲义/板书截图/frame_0055.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0055.png",
+    "part_id": "1.2",
+    "source_id": "B0055",
+    "source_seconds": 540.8
+  },
+  {
+    "id": "1.2_B0056",
+    "seconds": 4150.8150000000005,
+    "time": "1.2 · 00:09:10.815",
+    "image": "../1.2完整讲义/板书截图/frame_0056.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0056.png",
+    "part_id": "1.2",
+    "source_id": "B0056",
+    "source_seconds": 550.815
+  },
+  {
+    "id": "1.2_B0057",
+    "seconds": 4160.83,
+    "time": "1.2 · 00:09:20.830",
+    "image": "../1.2完整讲义/板书截图/frame_0057.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0057.png",
+    "part_id": "1.2",
+    "source_id": "B0057",
+    "source_seconds": 560.83
+  },
+  {
+    "id": "1.2_B0058",
+    "seconds": 4170.845,
+    "time": "1.2 · 00:09:30.845",
+    "image": "../1.2完整讲义/板书截图/frame_0058.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0058.png",
+    "part_id": "1.2",
+    "source_id": "B0058",
+    "source_seconds": 570.845
+  },
+  {
+    "id": "1.2_B0059",
+    "seconds": 4180.859,
+    "time": "1.2 · 00:09:40.859",
+    "image": "../1.2完整讲义/板书截图/frame_0059.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0059.png",
+    "part_id": "1.2",
+    "source_id": "B0059",
+    "source_seconds": 580.859
+  },
+  {
+    "id": "1.2_B0060",
+    "seconds": 4190.874,
+    "time": "1.2 · 00:09:50.874",
+    "image": "../1.2完整讲义/板书截图/frame_0060.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0060.png",
+    "part_id": "1.2",
+    "source_id": "B0060",
+    "source_seconds": 590.874
+  },
+  {
+    "id": "1.2_B0061",
+    "seconds": 4200.889,
+    "time": "1.2 · 00:10:00.889",
+    "image": "../1.2完整讲义/板书截图/frame_0061.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0061.png",
+    "part_id": "1.2",
+    "source_id": "B0061",
+    "source_seconds": 600.889
+  },
+  {
+    "id": "1.2_B0062",
+    "seconds": 4210.904,
+    "time": "1.2 · 00:10:10.904",
+    "image": "../1.2完整讲义/板书截图/frame_0062.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0062.png",
+    "part_id": "1.2",
+    "source_id": "B0062",
+    "source_seconds": 610.904
+  },
+  {
+    "id": "1.2_B0063",
+    "seconds": 4220.919,
+    "time": "1.2 · 00:10:20.919",
+    "image": "../1.2完整讲义/板书截图/frame_0063.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0063.png",
+    "part_id": "1.2",
+    "source_id": "B0063",
+    "source_seconds": 620.919
+  },
+  {
+    "id": "1.2_B0064",
+    "seconds": 4230.933,
+    "time": "1.2 · 00:10:30.933",
+    "image": "../1.2完整讲义/板书截图/frame_0064.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0064.png",
+    "part_id": "1.2",
+    "source_id": "B0064",
+    "source_seconds": 630.933
+  },
+  {
+    "id": "1.2_B0065",
+    "seconds": 4240.948,
+    "time": "1.2 · 00:10:40.948",
+    "image": "../1.2完整讲义/板书截图/frame_0065.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0065.png",
+    "part_id": "1.2",
+    "source_id": "B0065",
+    "source_seconds": 640.948
+  },
+  {
+    "id": "1.2_B0066",
+    "seconds": 4250.963,
+    "time": "1.2 · 00:10:50.963",
+    "image": "../1.2完整讲义/板书截图/frame_0066.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0066.png",
+    "part_id": "1.2",
+    "source_id": "B0066",
+    "source_seconds": 650.963
+  },
+  {
+    "id": "1.2_B0067",
+    "seconds": 4260.978,
+    "time": "1.2 · 00:11:00.978",
+    "image": "../1.2完整讲义/板书截图/frame_0067.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0067.png",
+    "part_id": "1.2",
+    "source_id": "B0067",
+    "source_seconds": 660.978
+  },
+  {
+    "id": "1.2_B0068",
+    "seconds": 4270.993,
+    "time": "1.2 · 00:11:10.993",
+    "image": "../1.2完整讲义/板书截图/frame_0068.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0068.png",
+    "part_id": "1.2",
+    "source_id": "B0068",
+    "source_seconds": 670.993
+  },
+  {
+    "id": "1.2_B0069",
+    "seconds": 4281.007,
+    "time": "1.2 · 00:11:21.007",
+    "image": "../1.2完整讲义/板书截图/frame_0069.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0069.png",
+    "part_id": "1.2",
+    "source_id": "B0069",
+    "source_seconds": 681.007
+  },
+  {
+    "id": "1.2_B0070",
+    "seconds": 4291.022,
+    "time": "1.2 · 00:11:31.022",
+    "image": "../1.2完整讲义/板书截图/frame_0070.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0070.png",
+    "part_id": "1.2",
+    "source_id": "B0070",
+    "source_seconds": 691.022
+  },
+  {
+    "id": "1.2_B0071",
+    "seconds": 4301.037,
+    "time": "1.2 · 00:11:41.037",
+    "image": "../1.2完整讲义/板书截图/frame_0071.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0071.png",
+    "part_id": "1.2",
+    "source_id": "B0071",
+    "source_seconds": 701.037
+  },
+  {
+    "id": "1.2_B0072",
+    "seconds": 4311.052,
+    "time": "1.2 · 00:11:51.052",
+    "image": "../1.2完整讲义/板书截图/frame_0072.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0072.png",
+    "part_id": "1.2",
+    "source_id": "B0072",
+    "source_seconds": 711.052
+  },
+  {
+    "id": "1.2_B0073",
+    "seconds": 4321.067,
+    "time": "1.2 · 00:12:01.067",
+    "image": "../1.2完整讲义/板书截图/frame_0073.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0073.png",
+    "part_id": "1.2",
+    "source_id": "B0073",
+    "source_seconds": 721.067
+  },
+  {
+    "id": "1.2_B0074",
+    "seconds": 4331.082,
+    "time": "1.2 · 00:12:11.082",
+    "image": "../1.2完整讲义/板书截图/frame_0074.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0074.png",
+    "part_id": "1.2",
+    "source_id": "B0074",
+    "source_seconds": 731.082
+  },
+  {
+    "id": "1.2_B0075",
+    "seconds": 4341.096,
+    "time": "1.2 · 00:12:21.096",
+    "image": "../1.2完整讲义/板书截图/frame_0075.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0075.png",
+    "part_id": "1.2",
+    "source_id": "B0075",
+    "source_seconds": 741.096
+  },
+  {
+    "id": "1.2_B0076",
+    "seconds": 4351.111,
+    "time": "1.2 · 00:12:31.111",
+    "image": "../1.2完整讲义/板书截图/frame_0076.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0076.png",
+    "part_id": "1.2",
+    "source_id": "B0076",
+    "source_seconds": 751.111
+  },
+  {
+    "id": "1.2_B0077",
+    "seconds": 4361.126,
+    "time": "1.2 · 00:12:41.126",
+    "image": "../1.2完整讲义/板书截图/frame_0077.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0077.png",
+    "part_id": "1.2",
+    "source_id": "B0077",
+    "source_seconds": 761.126
+  },
+  {
+    "id": "1.2_B0078",
+    "seconds": 4371.141,
+    "time": "1.2 · 00:12:51.141",
+    "image": "../1.2完整讲义/板书截图/frame_0078.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0078.png",
+    "part_id": "1.2",
+    "source_id": "B0078",
+    "source_seconds": 771.141
+  },
+  {
+    "id": "1.2_B0079",
+    "seconds": 4381.156,
+    "time": "1.2 · 00:13:01.156",
+    "image": "../1.2完整讲义/板书截图/frame_0079.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0079.png",
+    "part_id": "1.2",
+    "source_id": "B0079",
+    "source_seconds": 781.156
+  },
+  {
+    "id": "1.2_B0080",
+    "seconds": 4391.17,
+    "time": "1.2 · 00:13:11.170",
+    "image": "../1.2完整讲义/板书截图/frame_0080.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0080.png",
+    "part_id": "1.2",
+    "source_id": "B0080",
+    "source_seconds": 791.17
+  },
+  {
+    "id": "1.2_B0081",
+    "seconds": 4401.1849999999995,
+    "time": "1.2 · 00:13:21.185",
+    "image": "../1.2完整讲义/板书截图/frame_0081.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0081.png",
+    "part_id": "1.2",
+    "source_id": "B0081",
+    "source_seconds": 801.185
+  },
+  {
+    "id": "1.2_B0082",
+    "seconds": 4411.2,
+    "time": "1.2 · 00:13:31.200",
+    "image": "../1.2完整讲义/板书截图/frame_0082.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0082.png",
+    "part_id": "1.2",
+    "source_id": "B0082",
+    "source_seconds": 811.2
+  },
+  {
+    "id": "1.2_B0083",
+    "seconds": 4421.215,
+    "time": "1.2 · 00:13:41.215",
+    "image": "../1.2完整讲义/板书截图/frame_0083.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0083.png",
+    "part_id": "1.2",
+    "source_id": "B0083",
+    "source_seconds": 821.215
+  },
+  {
+    "id": "1.2_B0084",
+    "seconds": 4431.23,
+    "time": "1.2 · 00:13:51.230",
+    "image": "../1.2完整讲义/板书截图/frame_0084.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0084.png",
+    "part_id": "1.2",
+    "source_id": "B0084",
+    "source_seconds": 831.23
+  },
+  {
+    "id": "1.2_B0085",
+    "seconds": 4441.245,
+    "time": "1.2 · 00:14:01.245",
+    "image": "../1.2完整讲义/板书截图/frame_0085.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0085.png",
+    "part_id": "1.2",
+    "source_id": "B0085",
+    "source_seconds": 841.245
+  },
+  {
+    "id": "1.2_B0086",
+    "seconds": 4451.259,
+    "time": "1.2 · 00:14:11.259",
+    "image": "../1.2完整讲义/板书截图/frame_0086.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0086.png",
+    "part_id": "1.2",
+    "source_id": "B0086",
+    "source_seconds": 851.259
+  },
+  {
+    "id": "1.2_B0087",
+    "seconds": 4461.274,
+    "time": "1.2 · 00:14:21.274",
+    "image": "../1.2完整讲义/板书截图/frame_0087.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0087.png",
+    "part_id": "1.2",
+    "source_id": "B0087",
+    "source_seconds": 861.274
+  },
+  {
+    "id": "1.2_B0088",
+    "seconds": 4471.289,
+    "time": "1.2 · 00:14:31.289",
+    "image": "../1.2完整讲义/板书截图/frame_0088.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0088.png",
+    "part_id": "1.2",
+    "source_id": "B0088",
+    "source_seconds": 871.289
+  },
+  {
+    "id": "1.2_B0089",
+    "seconds": 4481.304,
+    "time": "1.2 · 00:14:41.304",
+    "image": "../1.2完整讲义/板书截图/frame_0089.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0089.png",
+    "part_id": "1.2",
+    "source_id": "B0089",
+    "source_seconds": 881.304
+  },
+  {
+    "id": "1.2_B0090",
+    "seconds": 4491.3189999999995,
+    "time": "1.2 · 00:14:51.319",
+    "image": "../1.2完整讲义/板书截图/frame_0090.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0090.png",
+    "part_id": "1.2",
+    "source_id": "B0090",
+    "source_seconds": 891.319
+  },
+  {
+    "id": "1.2_B0091",
+    "seconds": 4501.333,
+    "time": "1.2 · 00:15:01.333",
+    "image": "../1.2完整讲义/板书截图/frame_0091.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0091.png",
+    "part_id": "1.2",
+    "source_id": "B0091",
+    "source_seconds": 901.333
+  },
+  {
+    "id": "1.2_B0092",
+    "seconds": 4511.348,
+    "time": "1.2 · 00:15:11.348",
+    "image": "../1.2完整讲义/板书截图/frame_0092.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0092.png",
+    "part_id": "1.2",
+    "source_id": "B0092",
+    "source_seconds": 911.348
+  },
+  {
+    "id": "1.2_B0093",
+    "seconds": 4521.363,
+    "time": "1.2 · 00:15:21.363",
+    "image": "../1.2完整讲义/板书截图/frame_0093.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0093.png",
+    "part_id": "1.2",
+    "source_id": "B0093",
+    "source_seconds": 921.363
+  },
+  {
+    "id": "1.2_B0094",
+    "seconds": 4531.378,
+    "time": "1.2 · 00:15:31.378",
+    "image": "../1.2完整讲义/板书截图/frame_0094.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0094.png",
+    "part_id": "1.2",
+    "source_id": "B0094",
+    "source_seconds": 931.378
+  },
+  {
+    "id": "1.2_B0095",
+    "seconds": 4541.393,
+    "time": "1.2 · 00:15:41.393",
+    "image": "../1.2完整讲义/板书截图/frame_0095.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0095.png",
+    "part_id": "1.2",
+    "source_id": "B0095",
+    "source_seconds": 941.393
+  },
+  {
+    "id": "1.2_B0096",
+    "seconds": 4551.407,
+    "time": "1.2 · 00:15:51.407",
+    "image": "../1.2完整讲义/板书截图/frame_0096.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0096.png",
+    "part_id": "1.2",
+    "source_id": "B0096",
+    "source_seconds": 951.407
+  },
+  {
+    "id": "1.2_B0097",
+    "seconds": 4561.4220000000005,
+    "time": "1.2 · 00:16:01.422",
+    "image": "../1.2完整讲义/板书截图/frame_0097.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0097.png",
+    "part_id": "1.2",
+    "source_id": "B0097",
+    "source_seconds": 961.422
+  },
+  {
+    "id": "1.2_B0098",
+    "seconds": 4571.437,
+    "time": "1.2 · 00:16:11.437",
+    "image": "../1.2完整讲义/板书截图/frame_0098.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0098.png",
+    "part_id": "1.2",
+    "source_id": "B0098",
+    "source_seconds": 971.437
+  },
+  {
+    "id": "1.2_B0099",
+    "seconds": 4581.452,
+    "time": "1.2 · 00:16:21.452",
+    "image": "../1.2完整讲义/板书截图/frame_0099.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0099.png",
+    "part_id": "1.2",
+    "source_id": "B0099",
+    "source_seconds": 981.452
+  },
+  {
+    "id": "1.2_B0100",
+    "seconds": 4591.467,
+    "time": "1.2 · 00:16:31.467",
+    "image": "../1.2完整讲义/板书截图/frame_0100.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0100.png",
+    "part_id": "1.2",
+    "source_id": "B0100",
+    "source_seconds": 991.467
+  },
+  {
+    "id": "1.2_B0101",
+    "seconds": 4601.48,
+    "time": "1.2 · 00:16:41.480",
+    "image": "../1.2完整讲义/板书截图/frame_0101.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0101.png",
+    "part_id": "1.2",
+    "source_id": "B0101",
+    "source_seconds": 1001.48
+  },
+  {
+    "id": "1.2_B0102",
+    "seconds": 4611.5,
+    "time": "1.2 · 00:16:51.500",
+    "image": "../1.2完整讲义/板书截图/frame_0102.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0102.png",
+    "part_id": "1.2",
+    "source_id": "B0102",
+    "source_seconds": 1011.5
+  },
+  {
+    "id": "1.2_B0103",
+    "seconds": 4621.51,
+    "time": "1.2 · 00:17:01.510",
+    "image": "../1.2完整讲义/板书截图/frame_0103.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0103.png",
+    "part_id": "1.2",
+    "source_id": "B0103",
+    "source_seconds": 1021.51
+  },
+  {
+    "id": "1.2_B0104",
+    "seconds": 4631.53,
+    "time": "1.2 · 00:17:11.530",
+    "image": "../1.2完整讲义/板书截图/frame_0104.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0104.png",
+    "part_id": "1.2",
+    "source_id": "B0104",
+    "source_seconds": 1031.53
+  },
+  {
+    "id": "1.2_B0105",
+    "seconds": 4641.54,
+    "time": "1.2 · 00:17:21.540",
+    "image": "../1.2完整讲义/板书截图/frame_0105.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0105.png",
+    "part_id": "1.2",
+    "source_id": "B0105",
+    "source_seconds": 1041.54
+  },
+  {
+    "id": "1.2_B0106",
+    "seconds": 4651.5599999999995,
+    "time": "1.2 · 00:17:31.560",
+    "image": "../1.2完整讲义/板书截图/frame_0106.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0106.png",
+    "part_id": "1.2",
+    "source_id": "B0106",
+    "source_seconds": 1051.56
+  },
+  {
+    "id": "1.2_B0107",
+    "seconds": 4661.57,
+    "time": "1.2 · 00:17:41.570",
+    "image": "../1.2完整讲义/板书截图/frame_0107.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0107.png",
+    "part_id": "1.2",
+    "source_id": "B0107",
+    "source_seconds": 1061.57
+  },
+  {
+    "id": "1.2_B0108",
+    "seconds": 4671.59,
+    "time": "1.2 · 00:17:51.590",
+    "image": "../1.2完整讲义/板书截图/frame_0108.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0108.png",
+    "part_id": "1.2",
+    "source_id": "B0108",
+    "source_seconds": 1071.59
+  },
+  {
+    "id": "1.2_B0109",
+    "seconds": 4681.6,
+    "time": "1.2 · 00:18:01.600",
+    "image": "../1.2完整讲义/板书截图/frame_0109.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0109.png",
+    "part_id": "1.2",
+    "source_id": "B0109",
+    "source_seconds": 1081.6
+  },
+  {
+    "id": "1.2_B0110",
+    "seconds": 4691.62,
+    "time": "1.2 · 00:18:11.620",
+    "image": "../1.2完整讲义/板书截图/frame_0110.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0110.png",
+    "part_id": "1.2",
+    "source_id": "B0110",
+    "source_seconds": 1091.62
+  },
+  {
+    "id": "1.2_B0111",
+    "seconds": 4701.63,
+    "time": "1.2 · 00:18:21.630",
+    "image": "../1.2完整讲义/板书截图/frame_0111.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0111.png",
+    "part_id": "1.2",
+    "source_id": "B0111",
+    "source_seconds": 1101.63
+  },
+  {
+    "id": "1.2_B0112",
+    "seconds": 4711.64,
+    "time": "1.2 · 00:18:31.640",
+    "image": "../1.2完整讲义/板书截图/frame_0112.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0112.png",
+    "part_id": "1.2",
+    "source_id": "B0112",
+    "source_seconds": 1111.64
+  },
+  {
+    "id": "1.2_B0113",
+    "seconds": 4721.66,
+    "time": "1.2 · 00:18:41.660",
+    "image": "../1.2完整讲义/板书截图/frame_0113.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0113.png",
+    "part_id": "1.2",
+    "source_id": "B0113",
+    "source_seconds": 1121.66
+  },
+  {
+    "id": "1.2_B0114",
+    "seconds": 4731.67,
+    "time": "1.2 · 00:18:51.670",
+    "image": "../1.2完整讲义/板书截图/frame_0114.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0114.png",
+    "part_id": "1.2",
+    "source_id": "B0114",
+    "source_seconds": 1131.67
+  },
+  {
+    "id": "1.2_B0115",
+    "seconds": 4741.6900000000005,
+    "time": "1.2 · 00:19:01.690",
+    "image": "../1.2完整讲义/板书截图/frame_0115.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0115.png",
+    "part_id": "1.2",
+    "source_id": "B0115",
+    "source_seconds": 1141.69
+  },
+  {
+    "id": "1.2_B0116",
+    "seconds": 4751.7,
+    "time": "1.2 · 00:19:11.700",
+    "image": "../1.2完整讲义/板书截图/frame_0116.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0116.png",
+    "part_id": "1.2",
+    "source_id": "B0116",
+    "source_seconds": 1151.7
+  },
+  {
+    "id": "1.2_B0117",
+    "seconds": 4761.72,
+    "time": "1.2 · 00:19:21.720",
+    "image": "../1.2完整讲义/板书截图/frame_0117.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0117.png",
+    "part_id": "1.2",
+    "source_id": "B0117",
+    "source_seconds": 1161.72
+  },
+  {
+    "id": "1.2_B0118",
+    "seconds": 4771.73,
+    "time": "1.2 · 00:19:31.730",
+    "image": "../1.2完整讲义/板书截图/frame_0118.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0118.png",
+    "part_id": "1.2",
+    "source_id": "B0118",
+    "source_seconds": 1171.73
+  },
+  {
+    "id": "1.2_B0119",
+    "seconds": 4781.75,
+    "time": "1.2 · 00:19:41.750",
+    "image": "../1.2完整讲义/板书截图/frame_0119.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0119.png",
+    "part_id": "1.2",
+    "source_id": "B0119",
+    "source_seconds": 1181.75
+  },
+  {
+    "id": "1.2_B0120",
+    "seconds": 4791.76,
+    "time": "1.2 · 00:19:51.760",
+    "image": "../1.2完整讲义/板书截图/frame_0120.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0120.png",
+    "part_id": "1.2",
+    "source_id": "B0120",
+    "source_seconds": 1191.76
+  },
+  {
+    "id": "1.2_B0121",
+    "seconds": 4801.78,
+    "time": "1.2 · 00:20:01.780",
+    "image": "../1.2完整讲义/板书截图/frame_0121.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0121.png",
+    "part_id": "1.2",
+    "source_id": "B0121",
+    "source_seconds": 1201.78
+  },
+  {
+    "id": "1.2_B0122",
+    "seconds": 4811.79,
+    "time": "1.2 · 00:20:11.790",
+    "image": "../1.2完整讲义/板书截图/frame_0122.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0122.png",
+    "part_id": "1.2",
+    "source_id": "B0122",
+    "source_seconds": 1211.79
+  },
+  {
+    "id": "1.2_B0123",
+    "seconds": 4821.8099999999995,
+    "time": "1.2 · 00:20:21.810",
+    "image": "../1.2完整讲义/板书截图/frame_0123.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0123.png",
+    "part_id": "1.2",
+    "source_id": "B0123",
+    "source_seconds": 1221.81
+  },
+  {
+    "id": "1.2_B0124",
+    "seconds": 4831.82,
+    "time": "1.2 · 00:20:31.820",
+    "image": "../1.2完整讲义/板书截图/frame_0124.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0124.png",
+    "part_id": "1.2",
+    "source_id": "B0124",
+    "source_seconds": 1231.82
+  },
+  {
+    "id": "1.2_B0125",
+    "seconds": 4841.84,
+    "time": "1.2 · 00:20:41.840",
+    "image": "../1.2完整讲义/板书截图/frame_0125.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0125.png",
+    "part_id": "1.2",
+    "source_id": "B0125",
+    "source_seconds": 1241.84
+  },
+  {
+    "id": "1.2_B0126",
+    "seconds": 4851.85,
+    "time": "1.2 · 00:20:51.850",
+    "image": "../1.2完整讲义/板书截图/frame_0126.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0126.png",
+    "part_id": "1.2",
+    "source_id": "B0126",
+    "source_seconds": 1251.85
+  },
+  {
+    "id": "1.2_B0127",
+    "seconds": 4861.87,
+    "time": "1.2 · 00:21:01.870",
+    "image": "../1.2完整讲义/板书截图/frame_0127.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0127.png",
+    "part_id": "1.2",
+    "source_id": "B0127",
+    "source_seconds": 1261.87
+  },
+  {
+    "id": "1.2_B0128",
+    "seconds": 4871.88,
+    "time": "1.2 · 00:21:11.880",
+    "image": "../1.2完整讲义/板书截图/frame_0128.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0128.png",
+    "part_id": "1.2",
+    "source_id": "B0128",
+    "source_seconds": 1271.88
+  },
+  {
+    "id": "1.2_B0129",
+    "seconds": 4881.9,
+    "time": "1.2 · 00:21:21.900",
+    "image": "../1.2完整讲义/板书截图/frame_0129.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0129.png",
+    "part_id": "1.2",
+    "source_id": "B0129",
+    "source_seconds": 1281.9
+  },
+  {
+    "id": "1.2_B0130",
+    "seconds": 4891.91,
+    "time": "1.2 · 00:21:31.910",
+    "image": "../1.2完整讲义/板书截图/frame_0130.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0130.png",
+    "part_id": "1.2",
+    "source_id": "B0130",
+    "source_seconds": 1291.91
+  },
+  {
+    "id": "1.2_B0131",
+    "seconds": 4901.93,
+    "time": "1.2 · 00:21:41.930",
+    "image": "../1.2完整讲义/板书截图/frame_0131.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0131.png",
+    "part_id": "1.2",
+    "source_id": "B0131",
+    "source_seconds": 1301.93
+  },
+  {
+    "id": "1.2_B0132",
+    "seconds": 4911.9400000000005,
+    "time": "1.2 · 00:21:51.940",
+    "image": "../1.2完整讲义/板书截图/frame_0132.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0132.png",
+    "part_id": "1.2",
+    "source_id": "B0132",
+    "source_seconds": 1311.94
+  },
+  {
+    "id": "1.2_B0133",
+    "seconds": 4921.96,
+    "time": "1.2 · 00:22:01.960",
+    "image": "../1.2完整讲义/板书截图/frame_0133.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0133.png",
+    "part_id": "1.2",
+    "source_id": "B0133",
+    "source_seconds": 1321.96
+  },
+  {
+    "id": "1.2_B0134",
+    "seconds": 4931.97,
+    "time": "1.2 · 00:22:11.970",
+    "image": "../1.2完整讲义/板书截图/frame_0134.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0134.png",
+    "part_id": "1.2",
+    "source_id": "B0134",
+    "source_seconds": 1331.97
+  },
+  {
+    "id": "1.2_B0135",
+    "seconds": 4941.99,
+    "time": "1.2 · 00:22:21.990",
+    "image": "../1.2完整讲义/板书截图/frame_0135.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0135.png",
+    "part_id": "1.2",
+    "source_id": "B0135",
+    "source_seconds": 1341.99
+  },
+  {
+    "id": "1.2_B0136",
+    "seconds": 4952.0,
+    "time": "1.2 · 00:22:32.000",
+    "image": "../1.2完整讲义/板书截图/frame_0136.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0136.png",
+    "part_id": "1.2",
+    "source_id": "B0136",
+    "source_seconds": 1352.0
+  },
+  {
+    "id": "1.2_B0137",
+    "seconds": 4962.02,
+    "time": "1.2 · 00:22:42.020",
+    "image": "../1.2完整讲义/板书截图/frame_0137.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0137.png",
+    "part_id": "1.2",
+    "source_id": "B0137",
+    "source_seconds": 1362.02
+  },
+  {
+    "id": "1.2_B0138",
+    "seconds": 4972.03,
+    "time": "1.2 · 00:22:52.030",
+    "image": "../1.2完整讲义/板书截图/frame_0138.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0138.png",
+    "part_id": "1.2",
+    "source_id": "B0138",
+    "source_seconds": 1372.03
+  },
+  {
+    "id": "1.2_B0139",
+    "seconds": 4982.05,
+    "time": "1.2 · 00:23:02.050",
+    "image": "../1.2完整讲义/板书截图/frame_0139.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0139.png",
+    "part_id": "1.2",
+    "source_id": "B0139",
+    "source_seconds": 1382.05
+  },
+  {
+    "id": "1.2_B0140",
+    "seconds": 4992.0599999999995,
+    "time": "1.2 · 00:23:12.060",
+    "image": "../1.2完整讲义/板书截图/frame_0140.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0140.png",
+    "part_id": "1.2",
+    "source_id": "B0140",
+    "source_seconds": 1392.06
+  },
+  {
+    "id": "1.2_B0141",
+    "seconds": 5002.07,
+    "time": "1.2 · 00:23:22.070",
+    "image": "../1.2完整讲义/板书截图/frame_0141.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0141.png",
+    "part_id": "1.2",
+    "source_id": "B0141",
+    "source_seconds": 1402.07
+  },
+  {
+    "id": "1.2_B0142",
+    "seconds": 5012.09,
+    "time": "1.2 · 00:23:32.090",
+    "image": "../1.2完整讲义/板书截图/frame_0142.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0142.png",
+    "part_id": "1.2",
+    "source_id": "B0142",
+    "source_seconds": 1412.09
+  },
+  {
+    "id": "1.2_B0143",
+    "seconds": 5022.1,
+    "time": "1.2 · 00:23:42.100",
+    "image": "../1.2完整讲义/板书截图/frame_0143.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0143.png",
+    "part_id": "1.2",
+    "source_id": "B0143",
+    "source_seconds": 1422.1
+  },
+  {
+    "id": "1.2_B0144",
+    "seconds": 5032.12,
+    "time": "1.2 · 00:23:52.120",
+    "image": "../1.2完整讲义/板书截图/frame_0144.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0144.png",
+    "part_id": "1.2",
+    "source_id": "B0144",
+    "source_seconds": 1432.12
+  },
+  {
+    "id": "1.2_B0145",
+    "seconds": 5042.13,
+    "time": "1.2 · 00:24:02.130",
+    "image": "../1.2完整讲义/板书截图/frame_0145.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0145.png",
+    "part_id": "1.2",
+    "source_id": "B0145",
+    "source_seconds": 1442.13
+  },
+  {
+    "id": "1.2_B0146",
+    "seconds": 5052.15,
+    "time": "1.2 · 00:24:12.150",
+    "image": "../1.2完整讲义/板书截图/frame_0146.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0146.png",
+    "part_id": "1.2",
+    "source_id": "B0146",
+    "source_seconds": 1452.15
+  },
+  {
+    "id": "1.2_B0147",
+    "seconds": 5062.16,
+    "time": "1.2 · 00:24:22.160",
+    "image": "../1.2完整讲义/板书截图/frame_0147.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0147.png",
+    "part_id": "1.2",
+    "source_id": "B0147",
+    "source_seconds": 1462.16
+  },
+  {
+    "id": "1.2_B0148",
+    "seconds": 5072.18,
+    "time": "1.2 · 00:24:32.180",
+    "image": "../1.2完整讲义/板书截图/frame_0148.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0148.png",
+    "part_id": "1.2",
+    "source_id": "B0148",
+    "source_seconds": 1472.18
+  },
+  {
+    "id": "1.2_B0149",
+    "seconds": 5082.1900000000005,
+    "time": "1.2 · 00:24:42.190",
+    "image": "../1.2完整讲义/板书截图/frame_0149.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0149.png",
+    "part_id": "1.2",
+    "source_id": "B0149",
+    "source_seconds": 1482.19
+  },
+  {
+    "id": "1.2_B0150",
+    "seconds": 5092.21,
+    "time": "1.2 · 00:24:52.210",
+    "image": "../1.2完整讲义/板书截图/frame_0150.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0150.png",
+    "part_id": "1.2",
+    "source_id": "B0150",
+    "source_seconds": 1492.21
+  },
+  {
+    "id": "1.2_B0151",
+    "seconds": 5102.22,
+    "time": "1.2 · 00:25:02.220",
+    "image": "../1.2完整讲义/板书截图/frame_0151.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0151.png",
+    "part_id": "1.2",
+    "source_id": "B0151",
+    "source_seconds": 1502.22
+  },
+  {
+    "id": "1.2_B0152",
+    "seconds": 5112.24,
+    "time": "1.2 · 00:25:12.240",
+    "image": "../1.2完整讲义/板书截图/frame_0152.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0152.png",
+    "part_id": "1.2",
+    "source_id": "B0152",
+    "source_seconds": 1512.24
+  },
+  {
+    "id": "1.2_B0153",
+    "seconds": 5122.25,
+    "time": "1.2 · 00:25:22.250",
+    "image": "../1.2完整讲义/板书截图/frame_0153.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0153.png",
+    "part_id": "1.2",
+    "source_id": "B0153",
+    "source_seconds": 1522.25
+  },
+  {
+    "id": "1.2_B0154",
+    "seconds": 5132.27,
+    "time": "1.2 · 00:25:32.270",
+    "image": "../1.2完整讲义/板书截图/frame_0154.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0154.png",
+    "part_id": "1.2",
+    "source_id": "B0154",
+    "source_seconds": 1532.27
+  },
+  {
+    "id": "1.2_B0155",
+    "seconds": 5142.28,
+    "time": "1.2 · 00:25:42.280",
+    "image": "../1.2完整讲义/板书截图/frame_0155.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0155.png",
+    "part_id": "1.2",
+    "source_id": "B0155",
+    "source_seconds": 1542.28
+  },
+  {
+    "id": "1.2_B0156",
+    "seconds": 5152.3,
+    "time": "1.2 · 00:25:52.300",
+    "image": "../1.2完整讲义/板书截图/frame_0156.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0156.png",
+    "part_id": "1.2",
+    "source_id": "B0156",
+    "source_seconds": 1552.3
+  },
+  {
+    "id": "1.2_B0157",
+    "seconds": 5162.3099999999995,
+    "time": "1.2 · 00:26:02.310",
+    "image": "../1.2完整讲义/板书截图/frame_0157.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0157.png",
+    "part_id": "1.2",
+    "source_id": "B0157",
+    "source_seconds": 1562.31
+  },
+  {
+    "id": "1.2_B0158",
+    "seconds": 5172.33,
+    "time": "1.2 · 00:26:12.330",
+    "image": "../1.2完整讲义/板书截图/frame_0158.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0158.png",
+    "part_id": "1.2",
+    "source_id": "B0158",
+    "source_seconds": 1572.33
+  },
+  {
+    "id": "1.2_B0159",
+    "seconds": 5182.34,
+    "time": "1.2 · 00:26:22.340",
+    "image": "../1.2完整讲义/板书截图/frame_0159.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0159.png",
+    "part_id": "1.2",
+    "source_id": "B0159",
+    "source_seconds": 1582.34
+  },
+  {
+    "id": "1.2_B0160",
+    "seconds": 5192.36,
+    "time": "1.2 · 00:26:32.360",
+    "image": "../1.2完整讲义/板书截图/frame_0160.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0160.png",
+    "part_id": "1.2",
+    "source_id": "B0160",
+    "source_seconds": 1592.36
+  },
+  {
+    "id": "1.2_B0161",
+    "seconds": 5202.37,
+    "time": "1.2 · 00:26:42.370",
+    "image": "../1.2完整讲义/板书截图/frame_0161.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0161.png",
+    "part_id": "1.2",
+    "source_id": "B0161",
+    "source_seconds": 1602.37
+  },
+  {
+    "id": "1.2_B0162",
+    "seconds": 5212.38,
+    "time": "1.2 · 00:26:52.380",
+    "image": "../1.2完整讲义/板书截图/frame_0162.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0162.png",
+    "part_id": "1.2",
+    "source_id": "B0162",
+    "source_seconds": 1612.38
+  },
+  {
+    "id": "1.2_B0163",
+    "seconds": 5222.4,
+    "time": "1.2 · 00:27:02.400",
+    "image": "../1.2完整讲义/板书截图/frame_0163.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0163.png",
+    "part_id": "1.2",
+    "source_id": "B0163",
+    "source_seconds": 1622.4
+  },
+  {
+    "id": "1.2_B0164",
+    "seconds": 5232.42,
+    "time": "1.2 · 00:27:12.420",
+    "image": "../1.2完整讲义/板书截图/frame_0164.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0164.png",
+    "part_id": "1.2",
+    "source_id": "B0164",
+    "source_seconds": 1632.42
+  },
+  {
+    "id": "1.2_B0165",
+    "seconds": 5242.43,
+    "time": "1.2 · 00:27:22.430",
+    "image": "../1.2完整讲义/板书截图/frame_0165.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0165.png",
+    "part_id": "1.2",
+    "source_id": "B0165",
+    "source_seconds": 1642.43
+  },
+  {
+    "id": "1.2_B0166",
+    "seconds": 5252.45,
+    "time": "1.2 · 00:27:32.450",
+    "image": "../1.2完整讲义/板书截图/frame_0166.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0166.png",
+    "part_id": "1.2",
+    "source_id": "B0166",
+    "source_seconds": 1652.45
+  },
+  {
+    "id": "1.2_B0167",
+    "seconds": 5262.46,
+    "time": "1.2 · 00:27:42.460",
+    "image": "../1.2完整讲义/板书截图/frame_0167.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0167.png",
+    "part_id": "1.2",
+    "source_id": "B0167",
+    "source_seconds": 1662.46
+  },
+  {
+    "id": "1.2_B0168",
+    "seconds": 5272.47,
+    "time": "1.2 · 00:27:52.470",
+    "image": "../1.2完整讲义/板书截图/frame_0168.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0168.png",
+    "part_id": "1.2",
+    "source_id": "B0168",
+    "source_seconds": 1672.47
+  },
+  {
+    "id": "1.2_B0169",
+    "seconds": 5282.49,
+    "time": "1.2 · 00:28:02.490",
+    "image": "../1.2完整讲义/板书截图/frame_0169.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0169.png",
+    "part_id": "1.2",
+    "source_id": "B0169",
+    "source_seconds": 1682.49
+  },
+  {
+    "id": "1.2_B0170",
+    "seconds": 5292.5,
+    "time": "1.2 · 00:28:12.500",
+    "image": "../1.2完整讲义/板书截图/frame_0170.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0170.png",
+    "part_id": "1.2",
+    "source_id": "B0170",
+    "source_seconds": 1692.5
+  },
+  {
+    "id": "1.2_B0171",
+    "seconds": 5302.52,
+    "time": "1.2 · 00:28:22.520",
+    "image": "../1.2完整讲义/板书截图/frame_0171.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0171.png",
+    "part_id": "1.2",
+    "source_id": "B0171",
+    "source_seconds": 1702.52
+  },
+  {
+    "id": "1.2_B0172",
+    "seconds": 5312.53,
+    "time": "1.2 · 00:28:32.530",
+    "image": "../1.2完整讲义/板书截图/frame_0172.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0172.png",
+    "part_id": "1.2",
+    "source_id": "B0172",
+    "source_seconds": 1712.53
+  },
+  {
+    "id": "1.2_B0173",
+    "seconds": 5322.55,
+    "time": "1.2 · 00:28:42.550",
+    "image": "../1.2完整讲义/板书截图/frame_0173.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0173.png",
+    "part_id": "1.2",
+    "source_id": "B0173",
+    "source_seconds": 1722.55
+  },
+  {
+    "id": "1.2_B0174",
+    "seconds": 5332.5599999999995,
+    "time": "1.2 · 00:28:52.560",
+    "image": "../1.2完整讲义/板书截图/frame_0174.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0174.png",
+    "part_id": "1.2",
+    "source_id": "B0174",
+    "source_seconds": 1732.56
+  },
+  {
+    "id": "1.2_B0175",
+    "seconds": 5342.58,
+    "time": "1.2 · 00:29:02.580",
+    "image": "../1.2完整讲义/板书截图/frame_0175.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0175.png",
+    "part_id": "1.2",
+    "source_id": "B0175",
+    "source_seconds": 1742.58
+  },
+  {
+    "id": "1.2_B0176",
+    "seconds": 5352.59,
+    "time": "1.2 · 00:29:12.590",
+    "image": "../1.2完整讲义/板书截图/frame_0176.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0176.png",
+    "part_id": "1.2",
+    "source_id": "B0176",
+    "source_seconds": 1752.59
+  },
+  {
+    "id": "1.2_B0177",
+    "seconds": 5362.61,
+    "time": "1.2 · 00:29:22.610",
+    "image": "../1.2完整讲义/板书截图/frame_0177.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0177.png",
+    "part_id": "1.2",
+    "source_id": "B0177",
+    "source_seconds": 1762.61
+  },
+  {
+    "id": "1.2_B0178",
+    "seconds": 5372.62,
+    "time": "1.2 · 00:29:32.620",
+    "image": "../1.2完整讲义/板书截图/frame_0178.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0178.png",
+    "part_id": "1.2",
+    "source_id": "B0178",
+    "source_seconds": 1772.62
+  },
+  {
+    "id": "1.2_B0179",
+    "seconds": 5382.64,
+    "time": "1.2 · 00:29:42.640",
+    "image": "../1.2完整讲义/板书截图/frame_0179.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0179.png",
+    "part_id": "1.2",
+    "source_id": "B0179",
+    "source_seconds": 1782.64
+  },
+  {
+    "id": "1.2_B0180",
+    "seconds": 5392.65,
+    "time": "1.2 · 00:29:52.650",
+    "image": "../1.2完整讲义/板书截图/frame_0180.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0180.png",
+    "part_id": "1.2",
+    "source_id": "B0180",
+    "source_seconds": 1792.65
+  },
+  {
+    "id": "1.2_B0181",
+    "seconds": 5402.67,
+    "time": "1.2 · 00:30:02.670",
+    "image": "../1.2完整讲义/板书截图/frame_0181.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0181.png",
+    "part_id": "1.2",
+    "source_id": "B0181",
+    "source_seconds": 1802.67
+  },
+  {
+    "id": "1.2_B0182",
+    "seconds": 5412.68,
+    "time": "1.2 · 00:30:12.680",
+    "image": "../1.2完整讲义/板书截图/frame_0182.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0182.png",
+    "part_id": "1.2",
+    "source_id": "B0182",
+    "source_seconds": 1812.68
+  },
+  {
+    "id": "1.2_B0183",
+    "seconds": 5422.7,
+    "time": "1.2 · 00:30:22.700",
+    "image": "../1.2完整讲义/板书截图/frame_0183.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0183.png",
+    "part_id": "1.2",
+    "source_id": "B0183",
+    "source_seconds": 1822.7
+  },
+  {
+    "id": "1.2_B0184",
+    "seconds": 5432.71,
+    "time": "1.2 · 00:30:32.710",
+    "image": "../1.2完整讲义/板书截图/frame_0184.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0184.png",
+    "part_id": "1.2",
+    "source_id": "B0184",
+    "source_seconds": 1832.71
+  },
+  {
+    "id": "1.2_B0185",
+    "seconds": 5442.73,
+    "time": "1.2 · 00:30:42.730",
+    "image": "../1.2完整讲义/板书截图/frame_0185.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0185.png",
+    "part_id": "1.2",
+    "source_id": "B0185",
+    "source_seconds": 1842.73
+  },
+  {
+    "id": "1.2_B0186",
+    "seconds": 5452.74,
+    "time": "1.2 · 00:30:52.740",
+    "image": "../1.2完整讲义/板书截图/frame_0186.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0186.png",
+    "part_id": "1.2",
+    "source_id": "B0186",
+    "source_seconds": 1852.74
+  },
+  {
+    "id": "1.2_B0187",
+    "seconds": 5462.76,
+    "time": "1.2 · 00:31:02.760",
+    "image": "../1.2完整讲义/板书截图/frame_0187.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0187.png",
+    "part_id": "1.2",
+    "source_id": "B0187",
+    "source_seconds": 1862.76
+  },
+  {
+    "id": "1.2_B0188",
+    "seconds": 5472.77,
+    "time": "1.2 · 00:31:12.770",
+    "image": "../1.2完整讲义/板书截图/frame_0188.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0188.png",
+    "part_id": "1.2",
+    "source_id": "B0188",
+    "source_seconds": 1872.77
+  },
+  {
+    "id": "1.2_B0189",
+    "seconds": 5482.79,
+    "time": "1.2 · 00:31:22.790",
+    "image": "../1.2完整讲义/板书截图/frame_0189.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0189.png",
+    "part_id": "1.2",
+    "source_id": "B0189",
+    "source_seconds": 1882.79
+  },
+  {
+    "id": "1.2_B0190",
+    "seconds": 5492.8,
+    "time": "1.2 · 00:31:32.800",
+    "image": "../1.2完整讲义/板书截图/frame_0190.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0190.png",
+    "part_id": "1.2",
+    "source_id": "B0190",
+    "source_seconds": 1892.8
+  },
+  {
+    "id": "1.2_B0191",
+    "seconds": 5502.82,
+    "time": "1.2 · 00:31:42.820",
+    "image": "../1.2完整讲义/板书截图/frame_0191.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0191.png",
+    "part_id": "1.2",
+    "source_id": "B0191",
+    "source_seconds": 1902.82
+  },
+  {
+    "id": "1.2_B0192",
+    "seconds": 5512.83,
+    "time": "1.2 · 00:31:52.830",
+    "image": "../1.2完整讲义/板书截图/frame_0192.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0192.png",
+    "part_id": "1.2",
+    "source_id": "B0192",
+    "source_seconds": 1912.83
+  },
+  {
+    "id": "1.2_B0193",
+    "seconds": 5522.85,
+    "time": "1.2 · 00:32:02.850",
+    "image": "../1.2完整讲义/板书截图/frame_0193.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0193.png",
+    "part_id": "1.2",
+    "source_id": "B0193",
+    "source_seconds": 1922.85
+  },
+  {
+    "id": "1.2_B0194",
+    "seconds": 5532.86,
+    "time": "1.2 · 00:32:12.860",
+    "image": "../1.2完整讲义/板书截图/frame_0194.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0194.png",
+    "part_id": "1.2",
+    "source_id": "B0194",
+    "source_seconds": 1932.86
+  },
+  {
+    "id": "1.2_B0195",
+    "seconds": 5542.87,
+    "time": "1.2 · 00:32:22.870",
+    "image": "../1.2完整讲义/板书截图/frame_0195.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0195.png",
+    "part_id": "1.2",
+    "source_id": "B0195",
+    "source_seconds": 1942.87
+  },
+  {
+    "id": "1.2_B0196",
+    "seconds": 5552.89,
+    "time": "1.2 · 00:32:32.890",
+    "image": "../1.2完整讲义/板书截图/frame_0196.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0196.png",
+    "part_id": "1.2",
+    "source_id": "B0196",
+    "source_seconds": 1952.89
+  },
+  {
+    "id": "1.2_B0197",
+    "seconds": 5562.9,
+    "time": "1.2 · 00:32:42.900",
+    "image": "../1.2完整讲义/板书截图/frame_0197.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0197.png",
+    "part_id": "1.2",
+    "source_id": "B0197",
+    "source_seconds": 1962.9
+  },
+  {
+    "id": "1.2_B0198",
+    "seconds": 5572.92,
+    "time": "1.2 · 00:32:52.920",
+    "image": "../1.2完整讲义/板书截图/frame_0198.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0198.png",
+    "part_id": "1.2",
+    "source_id": "B0198",
+    "source_seconds": 1972.92
+  },
+  {
+    "id": "1.2_B0199",
+    "seconds": 5582.93,
+    "time": "1.2 · 00:33:02.930",
+    "image": "../1.2完整讲义/板书截图/frame_0199.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0199.png",
+    "part_id": "1.2",
+    "source_id": "B0199",
+    "source_seconds": 1982.93
+  },
+  {
+    "id": "1.2_B0200",
+    "seconds": 5592.95,
+    "time": "1.2 · 00:33:12.950",
+    "image": "../1.2完整讲义/板书截图/frame_0200.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0200.png",
+    "part_id": "1.2",
+    "source_id": "B0200",
+    "source_seconds": 1992.95
+  },
+  {
+    "id": "1.2_B0201",
+    "seconds": 5602.96,
+    "time": "1.2 · 00:33:22.960",
+    "image": "../1.2完整讲义/板书截图/frame_0201.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0201.png",
+    "part_id": "1.2",
+    "source_id": "B0201",
+    "source_seconds": 2002.96
+  },
+  {
+    "id": "1.2_B0202",
+    "seconds": 5612.98,
+    "time": "1.2 · 00:33:32.980",
+    "image": "../1.2完整讲义/板书截图/frame_0202.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0202.png",
+    "part_id": "1.2",
+    "source_id": "B0202",
+    "source_seconds": 2012.98
+  },
+  {
+    "id": "1.2_B0203",
+    "seconds": 5622.99,
+    "time": "1.2 · 00:33:42.990",
+    "image": "../1.2完整讲义/板书截图/frame_0203.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0203.png",
+    "part_id": "1.2",
+    "source_id": "B0203",
+    "source_seconds": 2022.99
+  },
+  {
+    "id": "1.2_B0204",
+    "seconds": 5633.01,
+    "time": "1.2 · 00:33:53.010",
+    "image": "../1.2完整讲义/板书截图/frame_0204.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0204.png",
+    "part_id": "1.2",
+    "source_id": "B0204",
+    "source_seconds": 2033.01
+  },
+  {
+    "id": "1.2_B0205",
+    "seconds": 5643.02,
+    "time": "1.2 · 00:34:03.020",
+    "image": "../1.2完整讲义/板书截图/frame_0205.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0205.png",
+    "part_id": "1.2",
+    "source_id": "B0205",
+    "source_seconds": 2043.02
+  },
+  {
+    "id": "1.2_B0206",
+    "seconds": 5653.04,
+    "time": "1.2 · 00:34:13.040",
+    "image": "../1.2完整讲义/板书截图/frame_0206.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0206.png",
+    "part_id": "1.2",
+    "source_id": "B0206",
+    "source_seconds": 2053.04
+  },
+  {
+    "id": "1.2_B0207",
+    "seconds": 5663.05,
+    "time": "1.2 · 00:34:23.050",
+    "image": "../1.2完整讲义/板书截图/frame_0207.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0207.png",
+    "part_id": "1.2",
+    "source_id": "B0207",
+    "source_seconds": 2063.05
+  },
+  {
+    "id": "1.2_B0208",
+    "seconds": 5673.07,
+    "time": "1.2 · 00:34:33.070",
+    "image": "../1.2完整讲义/板书截图/frame_0208.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0208.png",
+    "part_id": "1.2",
+    "source_id": "B0208",
+    "source_seconds": 2073.07
+  },
+  {
+    "id": "1.2_B0209",
+    "seconds": 5683.08,
+    "time": "1.2 · 00:34:43.080",
+    "image": "../1.2完整讲义/板书截图/frame_0209.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0209.png",
+    "part_id": "1.2",
+    "source_id": "B0209",
+    "source_seconds": 2083.08
+  },
+  {
+    "id": "1.2_B0210",
+    "seconds": 5693.1,
+    "time": "1.2 · 00:34:53.100",
+    "image": "../1.2完整讲义/板书截图/frame_0210.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0210.png",
+    "part_id": "1.2",
+    "source_id": "B0210",
+    "source_seconds": 2093.1
+  },
+  {
+    "id": "1.2_B0211",
+    "seconds": 5703.110000000001,
+    "time": "1.2 · 00:35:03.110",
+    "image": "../1.2完整讲义/板书截图/frame_0211.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0211.png",
+    "part_id": "1.2",
+    "source_id": "B0211",
+    "source_seconds": 2103.11
+  },
+  {
+    "id": "1.2_B0212",
+    "seconds": 5713.13,
+    "time": "1.2 · 00:35:13.130",
+    "image": "../1.2完整讲义/板书截图/frame_0212.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0212.png",
+    "part_id": "1.2",
+    "source_id": "B0212",
+    "source_seconds": 2113.13
+  },
+  {
+    "id": "1.2_B0213",
+    "seconds": 5723.139999999999,
+    "time": "1.2 · 00:35:23.140",
+    "image": "../1.2完整讲义/板书截图/frame_0213.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0213.png",
+    "part_id": "1.2",
+    "source_id": "B0213",
+    "source_seconds": 2123.14
+  },
+  {
+    "id": "1.2_B0214",
+    "seconds": 5733.16,
+    "time": "1.2 · 00:35:33.160",
+    "image": "../1.2完整讲义/板书截图/frame_0214.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0214.png",
+    "part_id": "1.2",
+    "source_id": "B0214",
+    "source_seconds": 2133.16
+  },
+  {
+    "id": "1.2_B0215",
+    "seconds": 5743.17,
+    "time": "1.2 · 00:35:43.170",
+    "image": "../1.2完整讲义/板书截图/frame_0215.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0215.png",
+    "part_id": "1.2",
+    "source_id": "B0215",
+    "source_seconds": 2143.17
+  },
+  {
+    "id": "1.2_B0216",
+    "seconds": 5753.18,
+    "time": "1.2 · 00:35:53.180",
+    "image": "../1.2完整讲义/板书截图/frame_0216.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0216.png",
+    "part_id": "1.2",
+    "source_id": "B0216",
+    "source_seconds": 2153.18
+  },
+  {
+    "id": "1.2_B0217",
+    "seconds": 5763.2,
+    "time": "1.2 · 00:36:03.200",
+    "image": "../1.2完整讲义/板书截图/frame_0217.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0217.png",
+    "part_id": "1.2",
+    "source_id": "B0217",
+    "source_seconds": 2163.2
+  },
+  {
+    "id": "1.2_B0218",
+    "seconds": 5773.219999999999,
+    "time": "1.2 · 00:36:13.220",
+    "image": "../1.2完整讲义/板书截图/frame_0218.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0218.png",
+    "part_id": "1.2",
+    "source_id": "B0218",
+    "source_seconds": 2173.22
+  },
+  {
+    "id": "1.2_B0219",
+    "seconds": 5783.23,
+    "time": "1.2 · 00:36:23.230",
+    "image": "../1.2完整讲义/板书截图/frame_0219.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0219.png",
+    "part_id": "1.2",
+    "source_id": "B0219",
+    "source_seconds": 2183.23
+  },
+  {
+    "id": "1.2_B0220",
+    "seconds": 5793.24,
+    "time": "1.2 · 00:36:33.240",
+    "image": "../1.2完整讲义/板书截图/frame_0220.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0220.png",
+    "part_id": "1.2",
+    "source_id": "B0220",
+    "source_seconds": 2193.24
+  },
+  {
+    "id": "1.2_B0221",
+    "seconds": 5803.26,
+    "time": "1.2 · 00:36:43.260",
+    "image": "../1.2完整讲义/板书截图/frame_0221.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0221.png",
+    "part_id": "1.2",
+    "source_id": "B0221",
+    "source_seconds": 2203.26
+  },
+  {
+    "id": "1.2_B0222",
+    "seconds": 5813.27,
+    "time": "1.2 · 00:36:53.270",
+    "image": "../1.2完整讲义/板书截图/frame_0222.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0222.png",
+    "part_id": "1.2",
+    "source_id": "B0222",
+    "source_seconds": 2213.27
+  },
+  {
+    "id": "1.2_B0223",
+    "seconds": 5823.29,
+    "time": "1.2 · 00:37:03.290",
+    "image": "../1.2完整讲义/板书截图/frame_0223.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0223.png",
+    "part_id": "1.2",
+    "source_id": "B0223",
+    "source_seconds": 2223.29
+  },
+  {
+    "id": "1.2_B0224",
+    "seconds": 5833.3,
+    "time": "1.2 · 00:37:13.300",
+    "image": "../1.2完整讲义/板书截图/frame_0224.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0224.png",
+    "part_id": "1.2",
+    "source_id": "B0224",
+    "source_seconds": 2233.3
+  },
+  {
+    "id": "1.2_B0225",
+    "seconds": 5843.32,
+    "time": "1.2 · 00:37:23.320",
+    "image": "../1.2完整讲义/板书截图/frame_0225.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0225.png",
+    "part_id": "1.2",
+    "source_id": "B0225",
+    "source_seconds": 2243.32
+  },
+  {
+    "id": "1.2_B0226",
+    "seconds": 5853.33,
+    "time": "1.2 · 00:37:33.330",
+    "image": "../1.2完整讲义/板书截图/frame_0226.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0226.png",
+    "part_id": "1.2",
+    "source_id": "B0226",
+    "source_seconds": 2253.33
+  },
+  {
+    "id": "1.2_B0227",
+    "seconds": 5863.35,
+    "time": "1.2 · 00:37:43.350",
+    "image": "../1.2完整讲义/板书截图/frame_0227.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0227.png",
+    "part_id": "1.2",
+    "source_id": "B0227",
+    "source_seconds": 2263.35
+  },
+  {
+    "id": "1.2_B0228",
+    "seconds": 5873.360000000001,
+    "time": "1.2 · 00:37:53.360",
+    "image": "../1.2完整讲义/板书截图/frame_0228.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0228.png",
+    "part_id": "1.2",
+    "source_id": "B0228",
+    "source_seconds": 2273.36
+  },
+  {
+    "id": "1.2_B0229",
+    "seconds": 5883.38,
+    "time": "1.2 · 00:38:03.380",
+    "image": "../1.2完整讲义/板书截图/frame_0229.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0229.png",
+    "part_id": "1.2",
+    "source_id": "B0229",
+    "source_seconds": 2283.38
+  },
+  {
+    "id": "1.2_B0230",
+    "seconds": 5893.389999999999,
+    "time": "1.2 · 00:38:13.390",
+    "image": "../1.2完整讲义/板书截图/frame_0230.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0230.png",
+    "part_id": "1.2",
+    "source_id": "B0230",
+    "source_seconds": 2293.39
+  },
+  {
+    "id": "1.2_B0231",
+    "seconds": 5903.41,
+    "time": "1.2 · 00:38:23.410",
+    "image": "../1.2完整讲义/板书截图/frame_0231.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0231.png",
+    "part_id": "1.2",
+    "source_id": "B0231",
+    "source_seconds": 2303.41
+  },
+  {
+    "id": "1.2_B0232",
+    "seconds": 5913.42,
+    "time": "1.2 · 00:38:33.420",
+    "image": "../1.2完整讲义/板书截图/frame_0232.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0232.png",
+    "part_id": "1.2",
+    "source_id": "B0232",
+    "source_seconds": 2313.42
+  },
+  {
+    "id": "1.2_B0233",
+    "seconds": 5923.4400000000005,
+    "time": "1.2 · 00:38:43.440",
+    "image": "../1.2完整讲义/板书截图/frame_0233.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0233.png",
+    "part_id": "1.2",
+    "source_id": "B0233",
+    "source_seconds": 2323.44
+  },
+  {
+    "id": "1.2_B0234",
+    "seconds": 5933.45,
+    "time": "1.2 · 00:38:53.450",
+    "image": "../1.2完整讲义/板书截图/frame_0234.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0234.png",
+    "part_id": "1.2",
+    "source_id": "B0234",
+    "source_seconds": 2333.45
+  },
+  {
+    "id": "1.2_B0235",
+    "seconds": 5943.469999999999,
+    "time": "1.2 · 00:39:03.470",
+    "image": "../1.2完整讲义/板书截图/frame_0235.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0235.png",
+    "part_id": "1.2",
+    "source_id": "B0235",
+    "source_seconds": 2343.47
+  },
+  {
+    "id": "1.2_B0236",
+    "seconds": 5953.48,
+    "time": "1.2 · 00:39:13.480",
+    "image": "../1.2完整讲义/板书截图/frame_0236.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0236.png",
+    "part_id": "1.2",
+    "source_id": "B0236",
+    "source_seconds": 2353.48
+  },
+  {
+    "id": "1.2_B0237",
+    "seconds": 5963.5,
+    "time": "1.2 · 00:39:23.500",
+    "image": "../1.2完整讲义/板书截图/frame_0237.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0237.png",
+    "part_id": "1.2",
+    "source_id": "B0237",
+    "source_seconds": 2363.5
+  },
+  {
+    "id": "1.2_B0238",
+    "seconds": 5973.51,
+    "time": "1.2 · 00:39:33.510",
+    "image": "../1.2完整讲义/板书截图/frame_0238.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0238.png",
+    "part_id": "1.2",
+    "source_id": "B0238",
+    "source_seconds": 2373.51
+  },
+  {
+    "id": "1.2_B0239",
+    "seconds": 5983.530000000001,
+    "time": "1.2 · 00:39:43.530",
+    "image": "../1.2完整讲义/板书截图/frame_0239.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0239.png",
+    "part_id": "1.2",
+    "source_id": "B0239",
+    "source_seconds": 2383.53
+  },
+  {
+    "id": "1.2_B0240",
+    "seconds": 5993.54,
+    "time": "1.2 · 00:39:53.540",
+    "image": "../1.2完整讲义/板书截图/frame_0240.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0240.png",
+    "part_id": "1.2",
+    "source_id": "B0240",
+    "source_seconds": 2393.54
+  },
+  {
+    "id": "1.2_B0241",
+    "seconds": 6003.5599999999995,
+    "time": "1.2 · 00:40:03.560",
+    "image": "../1.2完整讲义/板书截图/frame_0241.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0241.png",
+    "part_id": "1.2",
+    "source_id": "B0241",
+    "source_seconds": 2403.56
+  },
+  {
+    "id": "1.2_B0242",
+    "seconds": 6013.57,
+    "time": "1.2 · 00:40:13.570",
+    "image": "../1.2完整讲义/板书截图/frame_0242.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0242.png",
+    "part_id": "1.2",
+    "source_id": "B0242",
+    "source_seconds": 2413.57
+  },
+  {
+    "id": "1.2_B0243",
+    "seconds": 6023.59,
+    "time": "1.2 · 00:40:23.590",
+    "image": "../1.2完整讲义/板书截图/frame_0243.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0243.png",
+    "part_id": "1.2",
+    "source_id": "B0243",
+    "source_seconds": 2423.59
+  },
+  {
+    "id": "1.2_B0244",
+    "seconds": 6033.6,
+    "time": "1.2 · 00:40:33.600",
+    "image": "../1.2完整讲义/板书截图/frame_0244.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0244.png",
+    "part_id": "1.2",
+    "source_id": "B0244",
+    "source_seconds": 2433.6
+  },
+  {
+    "id": "1.2_B0245",
+    "seconds": 6043.62,
+    "time": "1.2 · 00:40:43.620",
+    "image": "../1.2完整讲义/板书截图/frame_0245.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0245.png",
+    "part_id": "1.2",
+    "source_id": "B0245",
+    "source_seconds": 2443.62
+  },
+  {
+    "id": "1.2_B0246",
+    "seconds": 6053.63,
+    "time": "1.2 · 00:40:53.630",
+    "image": "../1.2完整讲义/板书截图/frame_0246.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0246.png",
+    "part_id": "1.2",
+    "source_id": "B0246",
+    "source_seconds": 2453.63
+  },
+  {
+    "id": "1.2_B0247",
+    "seconds": 6063.639999999999,
+    "time": "1.2 · 00:41:03.640",
+    "image": "../1.2完整讲义/板书截图/frame_0247.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0247.png",
+    "part_id": "1.2",
+    "source_id": "B0247",
+    "source_seconds": 2463.64
+  },
+  {
+    "id": "1.2_B0248",
+    "seconds": 6073.66,
+    "time": "1.2 · 00:41:13.660",
+    "image": "../1.2完整讲义/板书截图/frame_0248.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0248.png",
+    "part_id": "1.2",
+    "source_id": "B0248",
+    "source_seconds": 2473.66
+  },
+  {
+    "id": "1.2_B0249",
+    "seconds": 6083.67,
+    "time": "1.2 · 00:41:23.670",
+    "image": "../1.2完整讲义/板书截图/frame_0249.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0249.png",
+    "part_id": "1.2",
+    "source_id": "B0249",
+    "source_seconds": 2483.67
+  },
+  {
+    "id": "1.2_B0250",
+    "seconds": 6093.6900000000005,
+    "time": "1.2 · 00:41:33.690",
+    "image": "../1.2完整讲义/板书截图/frame_0250.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0250.png",
+    "part_id": "1.2",
+    "source_id": "B0250",
+    "source_seconds": 2493.69
+  },
+  {
+    "id": "1.2_B0251",
+    "seconds": 6103.7,
+    "time": "1.2 · 00:41:43.700",
+    "image": "../1.2完整讲义/板书截图/frame_0251.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0251.png",
+    "part_id": "1.2",
+    "source_id": "B0251",
+    "source_seconds": 2503.7
+  },
+  {
+    "id": "1.2_B0252",
+    "seconds": 6113.719999999999,
+    "time": "1.2 · 00:41:53.720",
+    "image": "../1.2完整讲义/板书截图/frame_0252.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0252.png",
+    "part_id": "1.2",
+    "source_id": "B0252",
+    "source_seconds": 2513.72
+  },
+  {
+    "id": "1.2_B0253",
+    "seconds": 6123.73,
+    "time": "1.2 · 00:42:03.730",
+    "image": "../1.2完整讲义/板书截图/frame_0253.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0253.png",
+    "part_id": "1.2",
+    "source_id": "B0253",
+    "source_seconds": 2523.73
+  },
+  {
+    "id": "1.2_B0254",
+    "seconds": 6133.75,
+    "time": "1.2 · 00:42:13.750",
+    "image": "../1.2完整讲义/板书截图/frame_0254.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0254.png",
+    "part_id": "1.2",
+    "source_id": "B0254",
+    "source_seconds": 2533.75
+  },
+  {
+    "id": "1.2_B0255",
+    "seconds": 6143.76,
+    "time": "1.2 · 00:42:23.760",
+    "image": "../1.2完整讲义/板书截图/frame_0255.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0255.png",
+    "part_id": "1.2",
+    "source_id": "B0255",
+    "source_seconds": 2543.76
+  },
+  {
+    "id": "1.2_B0256",
+    "seconds": 6153.780000000001,
+    "time": "1.2 · 00:42:33.780",
+    "image": "../1.2完整讲义/板书截图/frame_0256.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0256.png",
+    "part_id": "1.2",
+    "source_id": "B0256",
+    "source_seconds": 2553.78
+  },
+  {
+    "id": "1.2_B0257",
+    "seconds": 6163.79,
+    "time": "1.2 · 00:42:43.790",
+    "image": "../1.2完整讲义/板书截图/frame_0257.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0257.png",
+    "part_id": "1.2",
+    "source_id": "B0257",
+    "source_seconds": 2563.79
+  },
+  {
+    "id": "1.2_B0258",
+    "seconds": 6173.8099999999995,
+    "time": "1.2 · 00:42:53.810",
+    "image": "../1.2完整讲义/板书截图/frame_0258.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0258.png",
+    "part_id": "1.2",
+    "source_id": "B0258",
+    "source_seconds": 2573.81
+  },
+  {
+    "id": "1.2_B0259",
+    "seconds": 6183.82,
+    "time": "1.2 · 00:43:03.820",
+    "image": "../1.2完整讲义/板书截图/frame_0259.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0259.png",
+    "part_id": "1.2",
+    "source_id": "B0259",
+    "source_seconds": 2583.82
+  },
+  {
+    "id": "1.2_B0260",
+    "seconds": 6193.84,
+    "time": "1.2 · 00:43:13.840",
+    "image": "../1.2完整讲义/板书截图/frame_0260.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0260.png",
+    "part_id": "1.2",
+    "source_id": "B0260",
+    "source_seconds": 2593.84
+  },
+  {
+    "id": "1.2_B0261",
+    "seconds": 6203.85,
+    "time": "1.2 · 00:43:23.850",
+    "image": "../1.2完整讲义/板书截图/frame_0261.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0261.png",
+    "part_id": "1.2",
+    "source_id": "B0261",
+    "source_seconds": 2603.85
+  },
+  {
+    "id": "1.2_B0262",
+    "seconds": 6213.87,
+    "time": "1.2 · 00:43:33.870",
+    "image": "../1.2完整讲义/板书截图/frame_0262.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0262.png",
+    "part_id": "1.2",
+    "source_id": "B0262",
+    "source_seconds": 2613.87
+  },
+  {
+    "id": "1.2_B0263",
+    "seconds": 6223.88,
+    "time": "1.2 · 00:43:43.880",
+    "image": "../1.2完整讲义/板书截图/frame_0263.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0263.png",
+    "part_id": "1.2",
+    "source_id": "B0263",
+    "source_seconds": 2623.88
+  },
+  {
+    "id": "1.2_B0264",
+    "seconds": 6233.9,
+    "time": "1.2 · 00:43:53.900",
+    "image": "../1.2完整讲义/板书截图/frame_0264.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0264.png",
+    "part_id": "1.2",
+    "source_id": "B0264",
+    "source_seconds": 2633.9
+  },
+  {
+    "id": "1.2_B0265",
+    "seconds": 6243.91,
+    "time": "1.2 · 00:44:03.910",
+    "image": "../1.2完整讲义/板书截图/frame_0265.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0265.png",
+    "part_id": "1.2",
+    "source_id": "B0265",
+    "source_seconds": 2643.91
+  },
+  {
+    "id": "1.2_B0266",
+    "seconds": 6253.93,
+    "time": "1.2 · 00:44:13.930",
+    "image": "../1.2完整讲义/板书截图/frame_0266.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0266.png",
+    "part_id": "1.2",
+    "source_id": "B0266",
+    "source_seconds": 2653.93
+  },
+  {
+    "id": "1.2_B0267",
+    "seconds": 6263.9400000000005,
+    "time": "1.2 · 00:44:23.940",
+    "image": "../1.2完整讲义/板书截图/frame_0267.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0267.png",
+    "part_id": "1.2",
+    "source_id": "B0267",
+    "source_seconds": 2663.94
+  },
+  {
+    "id": "1.2_B0268",
+    "seconds": 6273.96,
+    "time": "1.2 · 00:44:33.960",
+    "image": "../1.2完整讲义/板书截图/frame_0268.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0268.png",
+    "part_id": "1.2",
+    "source_id": "B0268",
+    "source_seconds": 2673.96
+  },
+  {
+    "id": "1.2_B0269",
+    "seconds": 6283.969999999999,
+    "time": "1.2 · 00:44:43.970",
+    "image": "../1.2完整讲义/板书截图/frame_0269.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0269.png",
+    "part_id": "1.2",
+    "source_id": "B0269",
+    "source_seconds": 2683.97
+  },
+  {
+    "id": "1.2_B0270",
+    "seconds": 6293.99,
+    "time": "1.2 · 00:44:53.990",
+    "image": "../1.2完整讲义/板书截图/frame_0270.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0270.png",
+    "part_id": "1.2",
+    "source_id": "B0270",
+    "source_seconds": 2693.99
+  },
+  {
+    "id": "1.2_B0271",
+    "seconds": 6304.0,
+    "time": "1.2 · 00:45:04.000",
+    "image": "../1.2完整讲义/板书截图/frame_0271.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0271.png",
+    "part_id": "1.2",
+    "source_id": "B0271",
+    "source_seconds": 2704.0
+  },
+  {
+    "id": "1.2_B0272",
+    "seconds": 6314.02,
+    "time": "1.2 · 00:45:14.020",
+    "image": "../1.2完整讲义/板书截图/frame_0272.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0272.png",
+    "part_id": "1.2",
+    "source_id": "B0272",
+    "source_seconds": 2714.02
+  },
+  {
+    "id": "1.2_B0273",
+    "seconds": 6324.030000000001,
+    "time": "1.2 · 00:45:24.030",
+    "image": "../1.2完整讲义/板书截图/frame_0273.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0273.png",
+    "part_id": "1.2",
+    "source_id": "B0273",
+    "source_seconds": 2724.03
+  },
+  {
+    "id": "1.2_B0274",
+    "seconds": 6334.05,
+    "time": "1.2 · 00:45:34.050",
+    "image": "../1.2完整讲义/板书截图/frame_0274.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0274.png",
+    "part_id": "1.2",
+    "source_id": "B0274",
+    "source_seconds": 2734.05
+  },
+  {
+    "id": "1.2_B0275",
+    "seconds": 6344.0599999999995,
+    "time": "1.2 · 00:45:44.060",
+    "image": "../1.2完整讲义/板书截图/frame_0275.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0275.png",
+    "part_id": "1.2",
+    "source_id": "B0275",
+    "source_seconds": 2744.06
+  },
+  {
+    "id": "1.2_B0276",
+    "seconds": 6354.07,
+    "time": "1.2 · 00:45:54.070",
+    "image": "../1.2完整讲义/板书截图/frame_0276.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0276.png",
+    "part_id": "1.2",
+    "source_id": "B0276",
+    "source_seconds": 2754.07
+  },
+  {
+    "id": "1.2_B0277",
+    "seconds": 6364.09,
+    "time": "1.2 · 00:46:04.090",
+    "image": "../1.2完整讲义/板书截图/frame_0277.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0277.png",
+    "part_id": "1.2",
+    "source_id": "B0277",
+    "source_seconds": 2764.09
+  },
+  {
+    "id": "1.2_B0278",
+    "seconds": 6374.1,
+    "time": "1.2 · 00:46:14.100",
+    "image": "../1.2完整讲义/板书截图/frame_0278.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0278.png",
+    "part_id": "1.2",
+    "source_id": "B0278",
+    "source_seconds": 2774.1
+  },
+  {
+    "id": "1.2_B0279",
+    "seconds": 6384.12,
+    "time": "1.2 · 00:46:24.120",
+    "image": "../1.2完整讲义/板书截图/frame_0279.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0279.png",
+    "part_id": "1.2",
+    "source_id": "B0279",
+    "source_seconds": 2784.12
+  },
+  {
+    "id": "1.2_B0280",
+    "seconds": 6394.13,
+    "time": "1.2 · 00:46:34.130",
+    "image": "../1.2完整讲义/板书截图/frame_0280.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0280.png",
+    "part_id": "1.2",
+    "source_id": "B0280",
+    "source_seconds": 2794.13
+  },
+  {
+    "id": "1.2_B0281",
+    "seconds": 6404.15,
+    "time": "1.2 · 00:46:44.150",
+    "image": "../1.2完整讲义/板书截图/frame_0281.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0281.png",
+    "part_id": "1.2",
+    "source_id": "B0281",
+    "source_seconds": 2804.15
+  },
+  {
+    "id": "1.2_B0282",
+    "seconds": 6414.16,
+    "time": "1.2 · 00:46:54.160",
+    "image": "../1.2完整讲义/板书截图/frame_0282.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0282.png",
+    "part_id": "1.2",
+    "source_id": "B0282",
+    "source_seconds": 2814.16
+  },
+  {
+    "id": "1.2_B0283",
+    "seconds": 6424.18,
+    "time": "1.2 · 00:47:04.180",
+    "image": "../1.2完整讲义/板书截图/frame_0283.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0283.png",
+    "part_id": "1.2",
+    "source_id": "B0283",
+    "source_seconds": 2824.18
+  },
+  {
+    "id": "1.2_B0284",
+    "seconds": 6434.1900000000005,
+    "time": "1.2 · 00:47:14.190",
+    "image": "../1.2完整讲义/板书截图/frame_0284.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0284.png",
+    "part_id": "1.2",
+    "source_id": "B0284",
+    "source_seconds": 2834.19
+  },
+  {
+    "id": "1.2_B0285",
+    "seconds": 6444.21,
+    "time": "1.2 · 00:47:24.210",
+    "image": "../1.2完整讲义/板书截图/frame_0285.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0285.png",
+    "part_id": "1.2",
+    "source_id": "B0285",
+    "source_seconds": 2844.21
+  },
+  {
+    "id": "1.2_B0286",
+    "seconds": 6454.219999999999,
+    "time": "1.2 · 00:47:34.220",
+    "image": "../1.2完整讲义/板书截图/frame_0286.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0286.png",
+    "part_id": "1.2",
+    "source_id": "B0286",
+    "source_seconds": 2854.22
+  },
+  {
+    "id": "1.2_B0287",
+    "seconds": 6464.24,
+    "time": "1.2 · 00:47:44.240",
+    "image": "../1.2完整讲义/板书截图/frame_0287.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0287.png",
+    "part_id": "1.2",
+    "source_id": "B0287",
+    "source_seconds": 2864.24
+  },
+  {
+    "id": "1.2_B0288",
+    "seconds": 6474.25,
+    "time": "1.2 · 00:47:54.250",
+    "image": "../1.2完整讲义/板书截图/frame_0288.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0288.png",
+    "part_id": "1.2",
+    "source_id": "B0288",
+    "source_seconds": 2874.25
+  },
+  {
+    "id": "1.2_B0289",
+    "seconds": 6484.27,
+    "time": "1.2 · 00:48:04.270",
+    "image": "../1.2完整讲义/板书截图/frame_0289.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0289.png",
+    "part_id": "1.2",
+    "source_id": "B0289",
+    "source_seconds": 2884.27
+  },
+  {
+    "id": "1.2_B0290",
+    "seconds": 6494.280000000001,
+    "time": "1.2 · 00:48:14.280",
+    "image": "../1.2完整讲义/板书截图/frame_0290.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0290.png",
+    "part_id": "1.2",
+    "source_id": "B0290",
+    "source_seconds": 2894.28
+  },
+  {
+    "id": "1.2_B0291",
+    "seconds": 6504.3,
+    "time": "1.2 · 00:48:24.300",
+    "image": "../1.2完整讲义/板书截图/frame_0291.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0291.png",
+    "part_id": "1.2",
+    "source_id": "B0291",
+    "source_seconds": 2904.3
+  },
+  {
+    "id": "1.2_B0292",
+    "seconds": 6514.3099999999995,
+    "time": "1.2 · 00:48:34.310",
+    "image": "../1.2完整讲义/板书截图/frame_0292.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0292.png",
+    "part_id": "1.2",
+    "source_id": "B0292",
+    "source_seconds": 2914.31
+  },
+  {
+    "id": "1.2_B0293",
+    "seconds": 6524.33,
+    "time": "1.2 · 00:48:44.330",
+    "image": "../1.2完整讲义/板书截图/frame_0293.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0293.png",
+    "part_id": "1.2",
+    "source_id": "B0293",
+    "source_seconds": 2924.33
+  },
+  {
+    "id": "1.2_B0294",
+    "seconds": 6534.34,
+    "time": "1.2 · 00:48:54.340",
+    "image": "../1.2完整讲义/板书截图/frame_0294.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0294.png",
+    "part_id": "1.2",
+    "source_id": "B0294",
+    "source_seconds": 2934.34
+  },
+  {
+    "id": "1.2_B0295",
+    "seconds": 6544.360000000001,
+    "time": "1.2 · 00:49:04.360",
+    "image": "../1.2完整讲义/板书截图/frame_0295.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0295.png",
+    "part_id": "1.2",
+    "source_id": "B0295",
+    "source_seconds": 2944.36
+  },
+  {
+    "id": "1.2_B0296",
+    "seconds": 6554.37,
+    "time": "1.2 · 00:49:14.370",
+    "image": "../1.2完整讲义/板书截图/frame_0296.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0296.png",
+    "part_id": "1.2",
+    "source_id": "B0296",
+    "source_seconds": 2954.37
+  },
+  {
+    "id": "1.2_B0297",
+    "seconds": 6564.389999999999,
+    "time": "1.2 · 00:49:24.390",
+    "image": "../1.2完整讲义/板书截图/frame_0297.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0297.png",
+    "part_id": "1.2",
+    "source_id": "B0297",
+    "source_seconds": 2964.39
+  },
+  {
+    "id": "1.2_B0298",
+    "seconds": 6574.4,
+    "time": "1.2 · 00:49:34.400",
+    "image": "../1.2完整讲义/板书截图/frame_0298.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0298.png",
+    "part_id": "1.2",
+    "source_id": "B0298",
+    "source_seconds": 2974.4
+  },
+  {
+    "id": "1.2_B0299",
+    "seconds": 6584.41,
+    "time": "1.2 · 00:49:44.410",
+    "image": "../1.2完整讲义/板书截图/frame_0299.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0299.png",
+    "part_id": "1.2",
+    "source_id": "B0299",
+    "source_seconds": 2984.41
+  },
+  {
+    "id": "1.2_B0300",
+    "seconds": 6594.43,
+    "time": "1.2 · 00:49:54.430",
+    "image": "../1.2完整讲义/板书截图/frame_0300.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0300.png",
+    "part_id": "1.2",
+    "source_id": "B0300",
+    "source_seconds": 2994.43
+  },
+  {
+    "id": "1.2_B0301",
+    "seconds": 6604.45,
+    "time": "1.2 · 00:50:04.450",
+    "image": "../1.2完整讲义/板书截图/frame_0301.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0301.png",
+    "part_id": "1.2",
+    "source_id": "B0301",
+    "source_seconds": 3004.45
+  },
+  {
+    "id": "1.2_B0302",
+    "seconds": 6614.46,
+    "time": "1.2 · 00:50:14.460",
+    "image": "../1.2完整讲义/板书截图/frame_0302.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0302.png",
+    "part_id": "1.2",
+    "source_id": "B0302",
+    "source_seconds": 3014.46
+  },
+  {
+    "id": "1.2_B0303",
+    "seconds": 6624.469999999999,
+    "time": "1.2 · 00:50:24.470",
+    "image": "../1.2完整讲义/板书截图/frame_0303.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0303.png",
+    "part_id": "1.2",
+    "source_id": "B0303",
+    "source_seconds": 3024.47
+  },
+  {
+    "id": "1.2_B0304",
+    "seconds": 6634.49,
+    "time": "1.2 · 00:50:34.490",
+    "image": "../1.2完整讲义/板书截图/frame_0304.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0304.png",
+    "part_id": "1.2",
+    "source_id": "B0304",
+    "source_seconds": 3034.49
+  },
+  {
+    "id": "1.2_B0305",
+    "seconds": 6644.5,
+    "time": "1.2 · 00:50:44.500",
+    "image": "../1.2完整讲义/板书截图/frame_0305.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0305.png",
+    "part_id": "1.2",
+    "source_id": "B0305",
+    "source_seconds": 3044.5
+  },
+  {
+    "id": "1.2_B0306",
+    "seconds": 6654.52,
+    "time": "1.2 · 00:50:54.520",
+    "image": "../1.2完整讲义/板书截图/frame_0306.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0306.png",
+    "part_id": "1.2",
+    "source_id": "B0306",
+    "source_seconds": 3054.52
+  },
+  {
+    "id": "1.2_B0307",
+    "seconds": 6664.530000000001,
+    "time": "1.2 · 00:51:04.530",
+    "image": "../1.2完整讲义/板书截图/frame_0307.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0307.png",
+    "part_id": "1.2",
+    "source_id": "B0307",
+    "source_seconds": 3064.53
+  },
+  {
+    "id": "1.2_B0308",
+    "seconds": 6674.55,
+    "time": "1.2 · 00:51:14.550",
+    "image": "../1.2完整讲义/板书截图/frame_0308.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0308.png",
+    "part_id": "1.2",
+    "source_id": "B0308",
+    "source_seconds": 3074.55
+  },
+  {
+    "id": "1.2_B0309",
+    "seconds": 6684.5599999999995,
+    "time": "1.2 · 00:51:24.560",
+    "image": "../1.2完整讲义/板书截图/frame_0309.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0309.png",
+    "part_id": "1.2",
+    "source_id": "B0309",
+    "source_seconds": 3084.56
+  },
+  {
+    "id": "1.2_B0310",
+    "seconds": 6694.58,
+    "time": "1.2 · 00:51:34.580",
+    "image": "../1.2完整讲义/板书截图/frame_0310.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0310.png",
+    "part_id": "1.2",
+    "source_id": "B0310",
+    "source_seconds": 3094.58
+  },
+  {
+    "id": "1.2_B0311",
+    "seconds": 6704.59,
+    "time": "1.2 · 00:51:44.590",
+    "image": "../1.2完整讲义/板书截图/frame_0311.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0311.png",
+    "part_id": "1.2",
+    "source_id": "B0311",
+    "source_seconds": 3104.59
+  },
+  {
+    "id": "1.2_B0312",
+    "seconds": 6714.610000000001,
+    "time": "1.2 · 00:51:54.610",
+    "image": "../1.2完整讲义/板书截图/frame_0312.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0312.png",
+    "part_id": "1.2",
+    "source_id": "B0312",
+    "source_seconds": 3114.61
+  },
+  {
+    "id": "1.2_B0313",
+    "seconds": 6724.62,
+    "time": "1.2 · 00:52:04.620",
+    "image": "../1.2完整讲义/板书截图/frame_0313.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0313.png",
+    "part_id": "1.2",
+    "source_id": "B0313",
+    "source_seconds": 3124.62
+  },
+  {
+    "id": "1.2_B0314",
+    "seconds": 6734.639999999999,
+    "time": "1.2 · 00:52:14.640",
+    "image": "../1.2完整讲义/板书截图/frame_0314.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0314.png",
+    "part_id": "1.2",
+    "source_id": "B0314",
+    "source_seconds": 3134.64
+  },
+  {
+    "id": "1.2_B0315",
+    "seconds": 6744.65,
+    "time": "1.2 · 00:52:24.650",
+    "image": "../1.2完整讲义/板书截图/frame_0315.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0315.png",
+    "part_id": "1.2",
+    "source_id": "B0315",
+    "source_seconds": 3144.65
+  },
+  {
+    "id": "1.2_B0316",
+    "seconds": 6754.67,
+    "time": "1.2 · 00:52:34.670",
+    "image": "../1.2完整讲义/板书截图/frame_0316.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0316.png",
+    "part_id": "1.2",
+    "source_id": "B0316",
+    "source_seconds": 3154.67
+  },
+  {
+    "id": "1.2_B0317",
+    "seconds": 6764.68,
+    "time": "1.2 · 00:52:44.680",
+    "image": "../1.2完整讲义/板书截图/frame_0317.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0317.png",
+    "part_id": "1.2",
+    "source_id": "B0317",
+    "source_seconds": 3164.68
+  },
+  {
+    "id": "1.2_B0318",
+    "seconds": 6774.7,
+    "time": "1.2 · 00:52:54.700",
+    "image": "../1.2完整讲义/板书截图/frame_0318.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0318.png",
+    "part_id": "1.2",
+    "source_id": "B0318",
+    "source_seconds": 3174.7
+  },
+  {
+    "id": "1.2_B0319",
+    "seconds": 6784.71,
+    "time": "1.2 · 00:53:04.710",
+    "image": "../1.2完整讲义/板书截图/frame_0319.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0319.png",
+    "part_id": "1.2",
+    "source_id": "B0319",
+    "source_seconds": 3184.71
+  },
+  {
+    "id": "1.2_B0320",
+    "seconds": 6794.73,
+    "time": "1.2 · 00:53:14.730",
+    "image": "../1.2完整讲义/板书截图/frame_0320.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0320.png",
+    "part_id": "1.2",
+    "source_id": "B0320",
+    "source_seconds": 3194.73
+  },
+  {
+    "id": "1.2_B0321",
+    "seconds": 6804.74,
+    "time": "1.2 · 00:53:24.740",
+    "image": "../1.2完整讲义/板书截图/frame_0321.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0321.png",
+    "part_id": "1.2",
+    "source_id": "B0321",
+    "source_seconds": 3204.74
+  },
+  {
+    "id": "1.2_B0322",
+    "seconds": 6814.76,
+    "time": "1.2 · 00:53:34.760",
+    "image": "../1.2完整讲义/板书截图/frame_0322.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0322.png",
+    "part_id": "1.2",
+    "source_id": "B0322",
+    "source_seconds": 3214.76
+  },
+  {
+    "id": "1.2_B0323",
+    "seconds": 6824.77,
+    "time": "1.2 · 00:53:44.770",
+    "image": "../1.2完整讲义/板书截图/frame_0323.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0323.png",
+    "part_id": "1.2",
+    "source_id": "B0323",
+    "source_seconds": 3224.77
+  },
+  {
+    "id": "1.2_B0324",
+    "seconds": 6834.79,
+    "time": "1.2 · 00:53:54.790",
+    "image": "../1.2完整讲义/板书截图/frame_0324.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0324.png",
+    "part_id": "1.2",
+    "source_id": "B0324",
+    "source_seconds": 3234.79
+  },
+  {
+    "id": "1.2_B0325",
+    "seconds": 6844.8,
+    "time": "1.2 · 00:54:04.800",
+    "image": "../1.2完整讲义/板书截图/frame_0325.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0325.png",
+    "part_id": "1.2",
+    "source_id": "B0325",
+    "source_seconds": 3244.8
+  },
+  {
+    "id": "1.2_B0326",
+    "seconds": 6854.82,
+    "time": "1.2 · 00:54:14.820",
+    "image": "../1.2完整讲义/板书截图/frame_0326.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0326.png",
+    "part_id": "1.2",
+    "source_id": "B0326",
+    "source_seconds": 3254.82
+  },
+  {
+    "id": "1.2_B0327",
+    "seconds": 6864.83,
+    "time": "1.2 · 00:54:24.830",
+    "image": "../1.2完整讲义/板书截图/frame_0327.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0327.png",
+    "part_id": "1.2",
+    "source_id": "B0327",
+    "source_seconds": 3264.83
+  },
+  {
+    "id": "1.2_B0328",
+    "seconds": 6874.85,
+    "time": "1.2 · 00:54:34.850",
+    "image": "../1.2完整讲义/板书截图/frame_0328.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0328.png",
+    "part_id": "1.2",
+    "source_id": "B0328",
+    "source_seconds": 3274.85
+  },
+  {
+    "id": "1.2_B0329",
+    "seconds": 6884.860000000001,
+    "time": "1.2 · 00:54:44.860",
+    "image": "../1.2完整讲义/板书截图/frame_0329.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0329.png",
+    "part_id": "1.2",
+    "source_id": "B0329",
+    "source_seconds": 3284.86
+  },
+  {
+    "id": "1.2_B0330",
+    "seconds": 6894.87,
+    "time": "1.2 · 00:54:54.870",
+    "image": "../1.2完整讲义/板书截图/frame_0330.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0330.png",
+    "part_id": "1.2",
+    "source_id": "B0330",
+    "source_seconds": 3294.87
+  },
+  {
+    "id": "1.2_B0331",
+    "seconds": 6904.889999999999,
+    "time": "1.2 · 00:55:04.890",
+    "image": "../1.2完整讲义/板书截图/frame_0331.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0331.png",
+    "part_id": "1.2",
+    "source_id": "B0331",
+    "source_seconds": 3304.89
+  },
+  {
+    "id": "1.2_B0332",
+    "seconds": 6914.9,
+    "time": "1.2 · 00:55:14.900",
+    "image": "../1.2完整讲义/板书截图/frame_0332.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0332.png",
+    "part_id": "1.2",
+    "source_id": "B0332",
+    "source_seconds": 3314.9
+  },
+  {
+    "id": "1.2_B0333",
+    "seconds": 6924.92,
+    "time": "1.2 · 00:55:24.920",
+    "image": "../1.2完整讲义/板书截图/frame_0333.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0333.png",
+    "part_id": "1.2",
+    "source_id": "B0333",
+    "source_seconds": 3324.92
+  },
+  {
+    "id": "1.2_B0334",
+    "seconds": 6934.93,
+    "time": "1.2 · 00:55:34.930",
+    "image": "../1.2完整讲义/板书截图/frame_0334.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0334.png",
+    "part_id": "1.2",
+    "source_id": "B0334",
+    "source_seconds": 3334.93
+  },
+  {
+    "id": "1.2_B0335",
+    "seconds": 6944.95,
+    "time": "1.2 · 00:55:44.950",
+    "image": "../1.2完整讲义/板书截图/frame_0335.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0335.png",
+    "part_id": "1.2",
+    "source_id": "B0335",
+    "source_seconds": 3344.95
+  },
+  {
+    "id": "1.2_B0336",
+    "seconds": 6954.96,
+    "time": "1.2 · 00:55:54.960",
+    "image": "../1.2完整讲义/板书截图/frame_0336.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0336.png",
+    "part_id": "1.2",
+    "source_id": "B0336",
+    "source_seconds": 3354.96
+  },
+  {
+    "id": "1.2_B0337",
+    "seconds": 6964.98,
+    "time": "1.2 · 00:56:04.980",
+    "image": "../1.2完整讲义/板书截图/frame_0337.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0337.png",
+    "part_id": "1.2",
+    "source_id": "B0337",
+    "source_seconds": 3364.98
+  },
+  {
+    "id": "1.2_B0338",
+    "seconds": 6974.99,
+    "time": "1.2 · 00:56:14.990",
+    "image": "../1.2完整讲义/板书截图/frame_0338.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0338.png",
+    "part_id": "1.2",
+    "source_id": "B0338",
+    "source_seconds": 3374.99
+  },
+  {
+    "id": "1.2_B0339",
+    "seconds": 6985.01,
+    "time": "1.2 · 00:56:25.010",
+    "image": "../1.2完整讲义/板书截图/frame_0339.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0339.png",
+    "part_id": "1.2",
+    "source_id": "B0339",
+    "source_seconds": 3385.01
+  },
+  {
+    "id": "1.2_B0340",
+    "seconds": 6995.02,
+    "time": "1.2 · 00:56:35.020",
+    "image": "../1.2完整讲义/板书截图/frame_0340.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0340.png",
+    "part_id": "1.2",
+    "source_id": "B0340",
+    "source_seconds": 3395.02
+  },
+  {
+    "id": "1.2_B0341",
+    "seconds": 7005.04,
+    "time": "1.2 · 00:56:45.040",
+    "image": "../1.2完整讲义/板书截图/frame_0341.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0341.png",
+    "part_id": "1.2",
+    "source_id": "B0341",
+    "source_seconds": 3405.04
+  },
+  {
+    "id": "1.2_B0342",
+    "seconds": 7015.05,
+    "time": "1.2 · 00:56:55.050",
+    "image": "../1.2完整讲义/板书截图/frame_0342.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0342.png",
+    "part_id": "1.2",
+    "source_id": "B0342",
+    "source_seconds": 3415.05
+  },
+  {
+    "id": "1.2_B0343",
+    "seconds": 7025.07,
+    "time": "1.2 · 00:57:05.070",
+    "image": "../1.2完整讲义/板书截图/frame_0343.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0343.png",
+    "part_id": "1.2",
+    "source_id": "B0343",
+    "source_seconds": 3425.07
+  },
+  {
+    "id": "1.2_B0344",
+    "seconds": 7035.08,
+    "time": "1.2 · 00:57:15.080",
+    "image": "../1.2完整讲义/板书截图/frame_0344.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0344.png",
+    "part_id": "1.2",
+    "source_id": "B0344",
+    "source_seconds": 3435.08
+  },
+  {
+    "id": "1.2_B0345",
+    "seconds": 7045.1,
+    "time": "1.2 · 00:57:25.100",
+    "image": "../1.2完整讲义/板书截图/frame_0345.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0345.png",
+    "part_id": "1.2",
+    "source_id": "B0345",
+    "source_seconds": 3445.1
+  },
+  {
+    "id": "1.2_B0346",
+    "seconds": 7055.110000000001,
+    "time": "1.2 · 00:57:35.110",
+    "image": "../1.2完整讲义/板书截图/frame_0346.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0346.png",
+    "part_id": "1.2",
+    "source_id": "B0346",
+    "source_seconds": 3455.11
+  },
+  {
+    "id": "1.2_B0347",
+    "seconds": 7065.13,
+    "time": "1.2 · 00:57:45.130",
+    "image": "../1.2完整讲义/板书截图/frame_0347.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0347.png",
+    "part_id": "1.2",
+    "source_id": "B0347",
+    "source_seconds": 3465.13
+  },
+  {
+    "id": "1.2_B0348",
+    "seconds": 7075.139999999999,
+    "time": "1.2 · 00:57:55.140",
+    "image": "../1.2完整讲义/板书截图/frame_0348.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0348.png",
+    "part_id": "1.2",
+    "source_id": "B0348",
+    "source_seconds": 3475.14
+  },
+  {
+    "id": "1.2_B0349",
+    "seconds": 7085.16,
+    "time": "1.2 · 00:58:05.160",
+    "image": "../1.2完整讲义/板书截图/frame_0349.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0349.png",
+    "part_id": "1.2",
+    "source_id": "B0349",
+    "source_seconds": 3485.16
+  },
+  {
+    "id": "1.2_B0350",
+    "seconds": 7095.17,
+    "time": "1.2 · 00:58:15.170",
+    "image": "../1.2完整讲义/板书截图/frame_0350.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0350.png",
+    "part_id": "1.2",
+    "source_id": "B0350",
+    "source_seconds": 3495.17
+  },
+  {
+    "id": "1.2_B0351",
+    "seconds": 7105.18,
+    "time": "1.2 · 00:58:25.180",
+    "image": "../1.2完整讲义/板书截图/frame_0351.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0351.png",
+    "part_id": "1.2",
+    "source_id": "B0351",
+    "source_seconds": 3505.18
+  },
+  {
+    "id": "1.2_B0352",
+    "seconds": 7115.2,
+    "time": "1.2 · 00:58:35.200",
+    "image": "../1.2完整讲义/板书截图/frame_0352.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0352.png",
+    "part_id": "1.2",
+    "source_id": "B0352",
+    "source_seconds": 3515.2
+  },
+  {
+    "id": "1.2_B0353",
+    "seconds": 7125.219999999999,
+    "time": "1.2 · 00:58:45.220",
+    "image": "../1.2完整讲义/板书截图/frame_0353.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0353.png",
+    "part_id": "1.2",
+    "source_id": "B0353",
+    "source_seconds": 3525.22
+  },
+  {
+    "id": "1.2_B0354",
+    "seconds": 7135.23,
+    "time": "1.2 · 00:58:55.230",
+    "image": "../1.2完整讲义/板书截图/frame_0354.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0354.png",
+    "part_id": "1.2",
+    "source_id": "B0354",
+    "source_seconds": 3535.23
+  },
+  {
+    "id": "1.2_B0355",
+    "seconds": 7145.25,
+    "time": "1.2 · 00:59:05.250",
+    "image": "../1.2完整讲义/板书截图/frame_0355.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0355.png",
+    "part_id": "1.2",
+    "source_id": "B0355",
+    "source_seconds": 3545.25
+  },
+  {
+    "id": "1.2_B0356",
+    "seconds": 7155.26,
+    "time": "1.2 · 00:59:15.260",
+    "image": "../1.2完整讲义/板书截图/frame_0356.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0356.png",
+    "part_id": "1.2",
+    "source_id": "B0356",
+    "source_seconds": 3555.26
+  },
+  {
+    "id": "1.2_B0357",
+    "seconds": 7165.27,
+    "time": "1.2 · 00:59:25.270",
+    "image": "../1.2完整讲义/板书截图/frame_0357.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0357.png",
+    "part_id": "1.2",
+    "source_id": "B0357",
+    "source_seconds": 3565.27
+  },
+  {
+    "id": "1.2_B0358",
+    "seconds": 7175.29,
+    "time": "1.2 · 00:59:35.290",
+    "image": "../1.2完整讲义/板书截图/frame_0358.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0358.png",
+    "part_id": "1.2",
+    "source_id": "B0358",
+    "source_seconds": 3575.29
+  },
+  {
+    "id": "1.2_B0359",
+    "seconds": 7185.3,
+    "time": "1.2 · 00:59:45.300",
+    "image": "../1.2完整讲义/板书截图/frame_0359.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0359.png",
+    "part_id": "1.2",
+    "source_id": "B0359",
+    "source_seconds": 3585.3
+  },
+  {
+    "id": "1.2_B0360",
+    "seconds": 7195.32,
+    "time": "1.2 · 00:59:55.320",
+    "image": "../1.2完整讲义/板书截图/frame_0360.jpg",
+    "board_image": "../1.2完整讲义/板书裁剪/B0360.png",
+    "part_id": "1.2",
+    "source_id": "B0360",
+    "source_seconds": 3595.32
+  }
+]

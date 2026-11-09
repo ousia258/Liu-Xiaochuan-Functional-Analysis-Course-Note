@@ -1,0 +1,38 @@
+{
+  "stage": "passed",
+  "lecture_number": 1,
+  "parts": [
+    "1.1",
+    "1.2"
+  ],
+  "seconds": 7199.87,
+  "sections": 43,
+  "formula_records": 36,
+  "source_images": 902,
+  "raw_segments": 2668,
+  "second_part_checkpoints": 12,
+  "crossPartSeek": true,
+  "reverseSeek": true,
+  "autoAdvance": true,
+  "dropdownSwitch": true,
+  "imagesDecoded": true,
+  "mathMLErrors": 0,
+  "formulaOverflow": false,
+  "localReferencesChecked": 2043,
+  "missingReferences": 0,
+  "scriptErrors": 0,
+  "horizontalOverflow": false,
+  "visual_review": {
+    "passed": true,
+    "screenshots_reviewed": [
+      "course_1_top.png",
+      "course_1_continuity.png",
+      "course_1_integral.png",
+      "course_1_geometric.png",
+      "course_1_theorem.png",
+      "course_1_report.png",
+      "course_1_references.png"
+    ],
+    "location": "workspace/work"
+  }
+}
